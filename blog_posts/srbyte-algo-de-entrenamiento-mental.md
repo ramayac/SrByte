@@ -18,7 +18,9 @@ Da la casualidad que por razones de la vida, recientemente me topé con un famos
 
 Les ruego que no busquen la repuesta en internet, tómense su tiempo. También les sugiero que lo consideren como un problema de sudoku, solamente que en lugar de números posees características parcialmente relacionadas. Yo utilicé esa lógica para resolverlo, en realidad existen muchas (Ahhhhh, tenía que salir a relucir mi ego. No podía quedarme sin mencionar que yo lo había resuelto en 35 min., jajaja).
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s320/Albert_Einstein_Head.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s1600-h/Albert_Einstein_Head.jpg)"Mi querido amigo Albert. Seguramente estaría diciendo: Con que te crees capaz de resolver mi acertijo ah? A ver, inténtalo."
+[![](http://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s320/Albert_Einstein_Head.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s1600-h/Albert_Einstein_Head.jpg)
+"Mi querido amigo Albert.
+Seguramente estaría diciendo: Con que te crees capaz de resolver mi acertijo ah? A ver, inténtalo."
 
 He aquí el problema en cuestión:
 
@@ -28,7 +30,8 @@ La pregunta es: ¿Quién tiene un pez?
 
 Hechos · El británico vive en la casa roja · El sueco tiene un perro · El danés bebe té · La casa verde está a la izquierda de la casa blanca · El propietario de la casa verde bebe café · La persona que fuma Pall Mall cría pájaros · La persona que vive en la casa amarilla fuma Dunhill · El propietario de la casa de en medio bebe leche · El noruego vive en la primera casa · El hombre que fuma Blends vive al lado del propietario de un gato · El dueño del caballo vive al lado del hombre que fuma Dunhill · El fumador de Bluemasters bebe cerveza · El alemán fuma Prince · El noruego vive al lado de la casa azul · El fumador de Blends tiene un vecino que bebe agua
 
-[la mayoría elabora una tabla en cuya primera columna escribe las características: "Casa, Nacionalidad, Bebida, Cigarros, Mascota" e intenta rellenar las filas correspondientes a cada característica con lo que cada uno supone que es la relación correcta, hasta a encontrar al dueño del bendito pez]
+[la mayoría elabora una tabla en cuya primera
+columna escribe las características: "Casa, Nacionalidad, Bebida, Cigarros, Mascota" e intenta rellenar las filas correspondientes a cada característica con lo que cada uno supone que es la relación correcta, hasta a encontrar al dueño del bendito pez]
 
 ¡Algunos llegaron al colmo de escribir programas en C++ o Lisp para resolver el acertijo! Eso si ya sobrepasa mis limites. Si quieren ver el código, búsquen los links en [el artículo de la wikipedia relacionado con el acertijo](http://en.wikipedia.org/wiki/Zebra_Puzzle), en las referencias finales del mismo.
 

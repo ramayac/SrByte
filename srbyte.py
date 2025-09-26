@@ -113,7 +113,7 @@ def clean_text_to_markdown(text: str) -> str:
         src_match = re.search(r'src\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
         alt_match = re.search(r'alt\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
         src = src_match.group(2) if src_match else ''
-        alt = alt_match.group(2) if alt_match else ''
+        alt = alt_match.group(2) if alt_match else 'image'  # Use 'image' as default alt text
         return f'![{alt}]({src})' if src else ''
     text = re.sub(r'<\s*img\b[^>]*>', _img_repl, text, flags=re.IGNORECASE)
 
@@ -157,8 +157,8 @@ def clean_text_to_markdown(text: str) -> str:
                     improved_lines.append(paragraph_text)
                 current_paragraph = []
             improved_lines.append('')  # Preserve empty line
-        # Lines starting with special markdown (headers, lists, code fences, etc.) start new paragraphs
-        elif line.startswith(('#', '-', '*', '+', '>', '```', '|')) or line.strip() in ['---', '***', '___']:
+        # Lines starting with special markdown (headers, lists, code fences, links, images, quotes, etc.) start new paragraphs
+        elif line.startswith(('#', '-', '*', '+', '>', '```', '|', '[', '!', '"', "'")) or line.strip() in ['---', '***', '___']:
             # Finish current paragraph first
             if current_paragraph:
                 paragraph_text = ' '.join(current_paragraph).strip()
@@ -185,6 +185,25 @@ def clean_text_to_markdown(text: str) -> str:
     text = re.sub(r' +', ' ', text)
     # Remove trailing whitespace from lines
     text = '\n'.join(line.rstrip() for line in text.splitlines())
+    
+    # Fix image captions: add newline between image links and quotes that follow them
+    # This handles cases like [![...](...)!](...)"Caption" -> [![...](...)!](...)\n"Caption"
+    text = re.sub(r'(\]\([^)]+\))(")', r'\1\n\2', text)
+    
+    # Convert linked images to simple images when the link URL matches the image URL
+    # This handles cases like [![](url)](same_url) -> ![](url)
+    text = re.sub(r'\[!\[([^\]]*)\]\(([^)]+)\)\]\(\2\)', r'![\1](\2)', text)
+    
+    # Convert HTTP to HTTPS for common domains
+    # Update blogspot images
+    text = re.sub(r'http://([0-9]+\.bp\.blogspot\.com)', r'https://\1', text)
+    # Update common websites
+    text = re.sub(r'http://(www\.)?(wikipedia\.org|xdrtb\.org|tedprize\.org)', r'https://\1\2', text)
+    text = re.sub(r'http://ted\.streamguys\.net', r'https://ted.streamguys.net', text)
+    
+    # Fix spacing between images and following text
+    # Add space after image markdown when immediately followed by text/links
+    text = re.sub(r'(\]\([^)]+\))([A-Za-z\[])', r'\1 \2', text)
     
     return text.strip()
 

@@ -6,13 +6,15 @@ tags: free, gizmo
 post_id: blog-3515952828243908885.post-552343952175156722
 ---
 
-[GizmoCall](https://www.gizmocall.com/)es una nueva herramienta que nos permite realizar llamadas completamente gratuitas desde nuestra computadora a cualquier numero movil o fijo hacia cualquier parte de el mundo!.
+[GizmoCall](https://www.gizmocall.com/) es una nueva herramienta que nos
+permite realizar llamadas completamente gratuitas desde nuestra computadora a cualquier numero movil o fijo hacia cualquier parte de el mundo!.
 
 Pero antes de hablar de esta maravilla, un poco de información:
 
 ¿Qué es Gizmo project?
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s400/gizmo_logo.gif)](http://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s1600-h/gizmo_logo.gif)Gizmo project es un programa gratuito que usa avanzada tecnología VoIP para permitir hablar a personas alrededor del mundo. Este proyecto esta basado en tecnologías de software libre; para ser mas especifico en granjas de servidores corriendo GNU/Linux y [Asterisk.](http://es.wikipedia.org/wiki/Asterisk)
+[![](http://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s400/gizmo_logo.gif)](http://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s1600-h/gizmo_logo.gif) Gizmo project es un
+programa gratuito que usa avanzada tecnología VoIP para permitir hablar a personas alrededor del mundo. Este proyecto esta basado en tecnologías de software libre; para ser mas especifico en granjas de servidores corriendo GNU/Linux y [Asterisk.](http://es.wikipedia.org/wiki/Asterisk)
 
 [![](http://bp3.blogger.com/_ayvorITawE4/RcAaZjD_iBI/AAAAAAAAACw/kwQ7B4pKJpc/s400/250px-Asterisk_logo.png)](http://bp3.blogger.com/_ayvorITawE4/RcAaZjD_iBI/AAAAAAAAACw/kwQ7B4pKJpc/s1600-h/250px-Asterisk_logo.png)
 

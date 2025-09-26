@@ -10,13 +10,17 @@ Así es, termina el ciclo y puedo agregar entradas nuevamente al blog, así que 
 
 Blizzard ya tiene una pagina de Diablo III en su sitio con un poco de información sobre el estilo de juego y algunas imágenes y videos del mismo:
 
-[![](http://bp2.blogger.com/_ayvorITawE4/SGep1fOghaI/AAAAAAAAAxg/LaQS1II3C2E/s400/diii.jpg)](http://bp2.blogger.com/_ayvorITawE4/SGep1fOghaI/AAAAAAAAAxg/LaQS1II3C2E/s1600-h/diii.jpg)"Imagen: captura de la pagina de Diablo III, en blizzard.com"
+[![](http://bp2.blogger.com/_ayvorITawE4/SGep1fOghaI/AAAAAAAAAxg/LaQS1II3C2E/s400/diii.jpg)](http://bp2.blogger.com/_ayvorITawE4/SGep1fOghaI/AAAAAAAAAxg/LaQS1II3C2E/s1600-h/diii.jpg)
+"Imagen: captura de la
+pagina de Diablo III, en blizzard.com"
 
 Esta es la dirección del sitio:
 
 > style="font-size:130%;"> href="http://www.blizzard.com/diablo3/">http://www.blizzard.com/diablo3/
 No duden en ver los videos (trailers)... estoy seguro que al "examinarlos", se recordaran de la pelicula Final Fantasy Spirit Within...
 
-[![](http://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s400/d3pareceFFSW.jpg)](http://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s1600-h/d3pareceFFSW.jpg)"Imagen: Parece que los cinematics de D3 tienen la calidad de 'Final Fantasy Spirit Within' yey! :)"
+[![](http://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s400/d3pareceFFSW.jpg)](http://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s1600-h/d3pareceFFSW.jpg)
+"Imagen: Parece que los
+cinematics de D3 tienen la calidad de 'Final Fantasy Spirit Within' yey! :)"
 
 ¡Espero que les guste! Saludos.

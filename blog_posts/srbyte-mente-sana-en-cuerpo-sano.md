@@ -6,7 +6,9 @@ tags: semana santa, playa, vacaciones, geek
 post_id: blog-3515952828243908885.post-7425954172727667777
 ---
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s1600-h/LaptopAtBeach.PNG)"Visitando al Sr Byte desde la playa"
+[![](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s1600-h/LaptopAtBeach.PNG)
+"Visitando al Sr Byte desde
+la playa"
 
 Estamos en Semana Santa y muchos aprovechan estos días festivos en El Salvador para salir un poco de su rutina de estudio o trabajo (o cualquier otra cosa que acostumbren hacer todos los días) y darse un respiro para recargar energías, ya sea quedándose en casa acomodados en un sillón viendo películas en la tele, saliendo de paseo a la playa o cualquier lugar turístico o alimentando el espíritu participando de las tradicionales actividades que cada uno realiza de acuerdo a sus convicciones.
 

@@ -6,7 +6,9 @@ tags: subversion, programacion, svn, herramienta
 post_id: blog-3515952828243908885.post-5173755952151884031
 ---
 
-[![](http://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s320/subversion_logo_hor-468x64.png)](http://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s1600-h/subversion_logo_hor-468x64.png)"Logo Oficial de Subversion"
+[![](http://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s320/subversion_logo_hor-468x64.png)](http://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s1600-h/subversion_logo_hor-468x64.png)
+"Logo Oficial de
+Subversion"
 
 ¿Les ha pasado alguna vez que cuando están programando se dan cuenta que las líneas de código que acaban de agregar arruinaron el sistema y desean volver a como lo tenían el día de ayer ya que en ese entonces todavía compilaba, pero ya no se acuerdan qué fue lo último que agregaron para así poder revertirlo?
 

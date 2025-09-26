@@ -6,7 +6,8 @@ tags: buscar, tips, trucos, google, guia, youtube
 post_id: blog-3515952828243908885.post-1127933576842799232
 ---
 
-[![](http://bp0.blogger.com/_jH77WNrMVRA/R7hxvXl5lXI/AAAAAAAAAg4/114zkBHwWhY/s320/logo.gif)](http://bp0.blogger.com/_jH77WNrMVRA/R7hxvXl5lXI/AAAAAAAAAg4/114zkBHwWhY/s1600-h/logo.gif)Prácticamente, el rey de los buscadores. El más popular y el que más sitios posee indexado. Una invaluable herramienta a la hora de encontrar información para cosas tan triviales como si existe ... hasta cosas realmente significativas como .... Pero, realmente encuentras lo que buscas en Google? y de ser asi, cuánto tiempo te lleva en promedio?
+[![](http://bp0.blogger.com/_jH77WNrMVRA/R7hxvXl5lXI/AAAAAAAAAg4/114zkBHwWhY/s320/logo.gif)](http://bp0.blogger.com/_jH77WNrMVRA/R7hxvXl5lXI/AAAAAAAAAg4/114zkBHwWhY/s1600-h/logo.gif) Prácticamente, el
+rey de los buscadores. El más popular y el que más sitios posee indexado. Una invaluable herramienta a la hora de encontrar información para cosas tan triviales como si existe ... hasta cosas realmente significativas como .... Pero, realmente encuentras lo que buscas en Google? y de ser asi, cuánto tiempo te lleva en promedio?
 
 Pueda que no estés utilizando todas las características que este aparentemente simple buscador te ofrece para delimitar tus búsquedas y encontrar más rápido lo que necesitas, por eso acá se presentan algunos tips para lograr este cometido:
 
@@ -40,7 +41,8 @@ Ademas de los tips anteriores, les recomendaría personalmente realizar búsqued
 
 Acá les dejo un vídeo de algunos "trucos" que se pueden realizar en google:
 
-"Google Shortcuts. Esta en ingles pero aunque no entiendas lo que dice, se entiende la idea por el texto que escribe y los resultados obtenidos"
+"Google Shortcuts. Esta en ingles pero aunque no entiendas lo
+que dice, se entiende la idea por el texto que escribe y los resultados obtenidos"
 
 Les dejo también otro video, pero este para trucos un poco mas divertidos, aunque no tan utiles.
 

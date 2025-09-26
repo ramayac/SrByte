@@ -6,7 +6,9 @@ tags: hotmail, bad, email, windows, microsoft
 post_id: blog-3515952828243908885.post-371346792654983943
 ---
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s400/wtf%3F.png)](http://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s1600-h/wtf%3F.png)"Captura de la basca de Hotmail Live"
+[![](http://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s400/wtf%3F.png)](http://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s1600-h/wtf%3F.png)
+"Captura de la
+basca de Hotmail Live"
 
 Este es el colmo de los colmos... la captura de pantalla que muestro al principio del articulo es de mi cuenta de correo de Windows Live... Lo único que quería era que todo el correo que me "cae" al Inbox de Live se le hiciera automáticamente un forward a mi cuenta de Gmail.
 

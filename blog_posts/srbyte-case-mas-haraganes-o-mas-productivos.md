@@ -6,9 +6,12 @@ tags: c++, java, personal, lenguajes, diseño, programador, computadoras, .net, 
 post_id: blog-3515952828243908885.post-3951194780353313481
 ---
 
-[![](http://bp0.blogger.com/_jH77WNrMVRA/SG7niUUr6FI/AAAAAAAAA6I/-sM5ONrzbVY/s320/learn_how_to_type_fast_fastest_typist_typing.jpg)](http://bp0.blogger.com/_jH77WNrMVRA/SG7niUUr6FI/AAAAAAAAA6I/-sM5ONrzbVY/s1600-h/learn_how_to_type_fast_fastest_typist_typing.jpg)"Es cierto que a veces quisiera tener cuatro o mas manos, pero esto es exagerar"
+[![](http://bp0.blogger.com/_jH77WNrMVRA/SG7niUUr6FI/AAAAAAAAA6I/-sM5ONrzbVY/s320/learn_how_to_type_fast_fastest_typist_typing.jpg)](http://bp0.blogger.com/_jH77WNrMVRA/SG7niUUr6FI/AAAAAAAAA6I/-sM5ONrzbVY/s1600-h/learn_how_to_type_fast_fastest_typist_typing.jpg)
+"Es cierto que a veces
+quisiera tener cuatro o mas manos, pero esto es exagerar"
 
-[CASE](http://es.wikipedia.org/wiki/Herramienta_CASE) son las siglas de Computer Aided Software Engineering lo cual se refiere a una serie de herramientas de software que ayudan al programador y/o analista a planear/diseñar/desarrollar su proyecto. Esto le permite su usuario ahorrarse tiempo y dolores de cabeza con tareas automatizadas como el cronograma de actividades, el diseño de diagramas [UML](http://es.wikipedia.org/wiki/Uml), [refactoring](http://es.wikipedia.org/wiki/Refactorizaci%C3%B3n), entre otros.
+[CASE](http://es.wikipedia.org/wiki/Herramienta_CASE) son las siglas de
+Computer Aided Software Engineering lo cual se refiere a una serie de herramientas de software que ayudan al programador y/o analista a planear/diseñar/desarrollar su proyecto. Esto le permite su usuario ahorrarse tiempo y dolores de cabeza con tareas automatizadas como el cronograma de actividades, el diseño de diagramas [UML](http://es.wikipedia.org/wiki/Uml), [refactoring](http://es.wikipedia.org/wiki/Refactorizaci%C3%B3n), entre otros.
 
 Los problemas surgen cuando estas herramientas les son enseñadas a los estudiantes de primeros años de ingenieria y estos se malacostumbran al uso de ellas y se vuelven haraganes para escribir el codigo, por lo que pasan por alto las bases necesarias. O sea, es necesario hacerlo a mano para entender bien el proceso.
 
@@ -20,6 +23,7 @@ Si los desarrolladores utilizan unicamente herramientas asistidas de los [entorn
 
 Y que les pareceria programar de esta forma?:
 
-"Entorno de desarrollo en tres dimensiones"
+"Entorno de desarrollo en
+tres dimensiones"
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

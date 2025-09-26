@@ -6,7 +6,9 @@ tags: video, twitter, iphone, musica, navegador, opinion, 5800, nokia, nokia 580
 post_id: blog-3515952828243908885.post-1669548980520902879
 ---
 
-[![](http://1.bp.blogspot.com/_jH77WNrMVRA/SkBvEN_uSoI/AAAAAAAAFuc/VsAQOsvL0gk/s400/NokiaInHand.jpg)](http://1.bp.blogspot.com/_jH77WNrMVRA/SkBvEN_uSoI/AAAAAAAAFuc/VsAQOsvL0gk/s1600-h/NokiaInHand.jpg)"Nokia 5800 XpressMusic, en mi poder"
+[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SkBvEN_uSoI/AAAAAAAAFuc/VsAQOsvL0gk/s400/NokiaInHand.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/SkBvEN_uSoI/AAAAAAAAFuc/VsAQOsvL0gk/s1600-h/NokiaInHand.jpg)
+"Nokia 5800 XpressMusic, en
+mi poder"
 
 Como [ya lo había mencionado Rodrigo](http://www.srbyte.com/2009/06/ganate-un-nokia-5800-xpressmusic.html), es hora de hacer mi post en continuación con la [serie de reviews del Nokia 5800](http://www.srbyte.com/2009/06/review-nokia-5800-xpressmusic-13.html). Hace dos semanas representantes de Nokia nos contactaron a [LuchoEdu](http://elgeek.info/), [Alexandra](http://dulcelimonpartido.blogspot.com/), Rodrigo y mi persona para poder asistir al lanzamiento en El Salvador del nuevo Nokia 5800 XpressMusic además de proveernos de uno de estos modelos para poder experimentar sus características y luego publicar nuestras opiniones al respecto.
 

@@ -6,7 +6,7 @@ tags: hotmail, divertido, correo, humor, recomendado, amor, referencia, informac
 post_id: blog-3515952828243908885.post-4189046783346876193
 ---
 
-[![](http://2.bp.blogspot.com/_JbB9KsZ238w/SVG0gnXAtoI/AAAAAAAAARg/VbSDyhHo8hE/s320/42fd01f3-00000-016cc-400cb8e1.jpeg)](http://2.bp.blogspot.com/_JbB9KsZ238w/SVG0gnXAtoI/AAAAAAAAARg/VbSDyhHo8hE/s1600-h/42fd01f3-00000-016cc-400cb8e1.jpeg)
+[![](https://2.bp.blogspot.com/_JbB9KsZ238w/SVG0gnXAtoI/AAAAAAAAARg/VbSDyhHo8hE/s320/42fd01f3-00000-016cc-400cb8e1.jpeg)](https://2.bp.blogspot.com/_JbB9KsZ238w/SVG0gnXAtoI/AAAAAAAAARg/VbSDyhHo8hE/s1600-h/42fd01f3-00000-016cc-400cb8e1.jpeg)
 
 Es típico que para estas fechas de navidad, cuando se revisa la lista de personas a las que se quiere felicitar y desear bendiciones en su vida, es fácil encontrar que ésta es "algo extensa". Es por eso que muchas personas optan por enviar sus buenos deseos vía online.
 
@@ -24,4 +24,4 @@ Así que si aún no has pensado en lo que regalarás para estas festividades, no
 
 4. [Tarjetas Nico](http://www.tarjetasnico.com/)
 
-5. [Tarjetas Buba](http://www.tarjetasbubba.com/)Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+5. [Tarjetas Buba](http://www.tarjetasbubba.com/) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -12,7 +12,9 @@ Como algunos sabrán, firefox posee integrado por defecto el buscador de Google 
 
 Esto me permitio darme cuenta que Google le da mas importancia a la popularidad que a la relevancia de los resultados de la busqueda. Como? pues recuerdo que hace meses cometia los errores de digitar "gamil" o "gmal" en lugar de "gmail" en mi barra de direcciones, lo cual obviamente me redireccionaba a gamil.com y pensaba en lo afortunados que eran los dueños de ese blog al recibir tantas visitas de todos los que se equivocaban al intentar ingresar a su cuenta de GMail.
 
-[![](http://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s320/ShotGamil.png)](http://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s1600-h/ShotGamil.png)"Screenshot del panel derecho del sitio web de Gamil"
+[![](http://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s320/ShotGamil.png)](http://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s1600-h/ShotGamil.png)
+"Screenshot del panel derecho del sitio web de
+Gamil"
 
 Al parecer era tan común el error, que los dueños de Gamil hasta se tomaron la molestia de incluir una explicación indicando que tal vez llegaron a su sitio por equivocación al escribir mal "gmail".
 

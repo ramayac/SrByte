@@ -6,7 +6,9 @@ tags: srbyte
 post_id: blog-3515952828243908885.post-1287056596936354776
 ---
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R9R0KNxJyaI/AAAAAAAAAnc/A9LH9AOkqfo/s320/boxshot_uk_large.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R9R0KNxJyaI/AAAAAAAAAnc/A9LH9AOkqfo/s1600-h/boxshot_uk_large.jpg)"Cover del Videojuego Assassins Creed para PC"
+[![](http://bp3.blogger.com/_jH77WNrMVRA/R9R0KNxJyaI/AAAAAAAAAnc/A9LH9AOkqfo/s320/boxshot_uk_large.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R9R0KNxJyaI/AAAAAAAAAnc/A9LH9AOkqfo/s1600-h/boxshot_uk_large.jpg)
+"Cover del Videojuego Assassins Creed para
+PC"
 
 Desde su aparición oficial para XBOX 360 y Playstation 3 en noviembre del año pasado, Ubisoft había tenido en incertidumbre an los usuarios de PC acerca de su salida en esta versión...
 

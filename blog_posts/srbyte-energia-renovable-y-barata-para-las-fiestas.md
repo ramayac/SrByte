@@ -10,13 +10,19 @@ Pronto se acercan las fiestas respectivas al fin de año, sean estas hanukkah, n
 
 Últimamente también alcaldías y gobiernos municipales han tomado la iniciativa de adornar los respectivos parques principales de cada ciudad de manera acorde a las fiestas, cubriendo arboles y postes con series de luces de colores.
 
-[![](http://2.bp.blogspot.com/_jH77WNrMVRA/SUSxOgF9IxI/AAAAAAAAFOY/A1aSXNPzJCE/s400/dsc00490.jpg)](http://2.bp.blogspot.com/_jH77WNrMVRA/SUSxOgF9IxI/AAAAAAAAFOY/A1aSXNPzJCE/s1600-h/dsc00490.jpg)"Parque de Antiguo Cuscatlan adornado con luces navideñas. Fotografía cortesía de [Alexandra Vela](http://dulcelimonpartido.blogspot.com/)"
+[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SUSxOgF9IxI/AAAAAAAAFOY/A1aSXNPzJCE/s400/dsc00490.jpg)](https://2.bp.blogspot.com/_jH77WNrMVRA/SUSxOgF9IxI/AAAAAAAAFOY/A1aSXNPzJCE/s1600-h/dsc00490.jpg)
+"Parque de Antiguo Cuscatlan
+adornado con luces navideñas. Fotografía cortesía de [Alexandra Vela](http://dulcelimonpartido.blogspot.com/)
+"
 
-El lado malo llega después, cuando aparece la factura del consumo de la energía eléctrica. [Acá](http://advisor.lbl.gov/apusage.html) y [acá](http://4.bp.blogspot.com/_jH77WNrMVRA/SUSx8Wygb8I/AAAAAAAAFOg/V1_C6e3_CLY/s1600-h/LEDLights2.jpg) pueden ver una tabla con costos estimados de consumo energético en un hogar común. Al final aparece el gasto estimado en el mes de diciembre por concepto de luces navideñas.
+El lado malo llega después, cuando aparece la factura del consumo de la energía eléctrica. [Acá](http://advisor.lbl.gov/apusage.html) y [acá](https://4.bp.blogspot.com/_jH77WNrMVRA/SUSx8Wygb8I/AAAAAAAAFOg/V1_C6e3_CLY/s1600-h/LEDLights2.jpg) pueden ver una tabla con costos estimados de consumo energético en un hogar común. Al final aparece el gasto estimado en el mes de diciembre por concepto de luces navideñas.
 
 Lo que se ha puesto de moda en algunos países para estas fechas es hacer uso de luces navideñas a base de energía solar. Esta energía es practica mente gratuita teniendo costo nada mas los paneles que se encargan de recibir la energía solar y convertirla a energía eléctrica.
 
-[![](http://3.bp.blogspot.com/_jH77WNrMVRA/SUS4S22V1qI/AAAAAAAAFOo/4stOFQpwp4s/s400/solar+energy+xmas+tree.jpg)](http://3.bp.blogspot.com/_jH77WNrMVRA/SUS4S22V1qI/AAAAAAAAFOo/4stOFQpwp4s/s1600-h/solar+energy+xmas+tree.jpg)"Árbol Navideño a base de energía solar. Tomado de [acá](http://flickr.com/photos/ubiqua/3079574237/in/photostream/)"
+[![](https://3.bp.blogspot.com/_jH77WNrMVRA/SUS4S22V1qI/AAAAAAAAFOo/4stOFQpwp4s/s400/solar+energy+xmas+tree.jpg)](https://3.bp.blogspot.com/_jH77WNrMVRA/SUS4S22V1qI/AAAAAAAAFOo/4stOFQpwp4s/s1600-h/solar+energy+xmas+tree.jpg)
+"Árbol Navideño a base de
+energía solar. Tomado de [acá](http://flickr.com/photos/ubiqua/3079574237/in/photostream/)
+"
 
 Esta alternativa, aparte de ser barata, es también amigable con el medio ambiente ya que no producen ninguna emisión de gases. Además pueden ser programadas para que se enciendan estomáticamente cuando los paneles solares dejen de recibir luz, lo que significaría que es de noche.
 

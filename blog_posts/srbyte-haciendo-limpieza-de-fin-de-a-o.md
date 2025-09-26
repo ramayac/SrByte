@@ -6,7 +6,8 @@ tags: administrar, desorden, año nuevo, escritorio, debian, buscar, desktop, ub
 post_id: blog-3515952828243908885.post-8676424220067513930
 ---
 
-[![](http://2.bp.blogspot.com/_jH77WNrMVRA/SVhSFlRpnvI/AAAAAAAAFm8/fxs0W0yHpDY/s400/iconsmess.jpg)](http://2.bp.blogspot.com/_jH77WNrMVRA/SVhSFlRpnvI/AAAAAAAAFm8/fxs0W0yHpDY/s1600-h/iconsmess.jpg)"Desorden de iconos en un escritorio Mac"
+[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SVhSFlRpnvI/AAAAAAAAFm8/fxs0W0yHpDY/s400/iconsmess.jpg)](https://2.bp.blogspot.com/_jH77WNrMVRA/SVhSFlRpnvI/AAAAAAAAFm8/fxs0W0yHpDY/s1600-h/iconsmess.jpg)
+"Desorden de iconos en un escritorio Mac"
 
 La mayoría de personas somos desordenados por costumbre, especialmente si nos referimos a la información que almacenamos en nuestras computadoras. Por defecto, guardamos todo en el escritorio, luego vamos creando carpetas temporales, luego quizá carpetas por fecha o sino, vamos usando números correlativos. De cualquier forma, esto no ayuda a mantener un orden en nuestros archivos y programas que viven dentro de nuestra PC.
 
@@ -20,7 +21,9 @@ Entre estos programas tenemos:
 
 Baobab: También conocido como Disk Usage Analyzer. Es un programa que te permite hacer un escaneo de toda la jerarquía de carpetas que compone tu computadora, clasificándola en base al tamaño que ocupa dentro del disco para que puedas saber qué archivos son los más grandes y si no son tan necesarios, borrarlos de una buena vez. La interfaz es muy sencilla e intuitiva, como pueden ver. Este programa viene instalado por defecto en Ubuntu o Debian, o especialmente si utilizas el entorno Gnome. Sino, puedes instalarlo mediante el comando apt-get install baobab como root.
 
-[![](http://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s400/baobab.png)](http://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s1600-h/baobab.png) "Captura de Pantalla de Baobab, mostrando de forma tabular y gráfica el espacio que ocupan las carpetas y subcarpetas del sistema"
+[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s400/baobab.png)](https://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s1600-h/baobab.png)
+"Captura de Pantalla de Baobab, mostrando de forma tabular y gráfica el espacio
+que ocupan las carpetas y subcarpetas del sistema"
 
 Cruft: Es un programa para la consola que escanea en busca de archivos innecesarios que alguna vez fueron instalados junto con alguna aplicación pero esta no existe mas. Cabe mencionar que aún se encuentra en versión pre-alfa, pero según las pruebas realizadas de manera personal, demostró ser bastante satisfactorio y efectivo. Para instalarlo, basta ejecutar apt-get install cruft. Luego, nada más ejecutas el comando escribiendo cruft también como root, o sino, cruft -h para ver el resto de opciones disponibles.
 

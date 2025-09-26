@@ -17,9 +17,11 @@ Divergente es la palabra clave para concatenar con la idea del principio. ¿Que 
 
 En el momento en que el programador (u otra persona) cierra su mente a una mejor solución por seguir el viejo camino: ese sera el día en que la amargura se empalme en su código y pierda su habilidad para solucionar los problemas informáticos que le presenten. La belleza de su código y el arte, con la que soluciona problemas, se vera nublada con la negatividad que esa decisión tan fatídica crea en su vida. ¡Por Dios, es como una tragedia griega! y claro que lo es... Es tan trágico como la muerte del Tío Periquito:
 
-[![](http://bp2.blogger.com/_ayvorITawE4/Rd-cLaSA-HI/AAAAAAAAAJA/amy7CMINjC8/s400/TIO.JPG)](http://bp2.blogger.com/_ayvorITawE4/Rd-cLaSA-HI/AAAAAAAAAJA/amy7CMINjC8/s1600-h/TIO.JPG)Y tan trágico como Monet ciego en 1923 y muriendo de cáncer pulmonar en 1926...
+[![](http://bp2.blogger.com/_ayvorITawE4/Rd-cLaSA-HI/AAAAAAAAAJA/amy7CMINjC8/s400/TIO.JPG)](http://bp2.blogger.com/_ayvorITawE4/Rd-cLaSA-HI/AAAAAAAAAJA/amy7CMINjC8/s1600-h/TIO.JPG) Y tan trágico como
+Monet ciego en 1923 y muriendo de cáncer pulmonar en 1926...
 
-[![](http://bp3.blogger.com/_ayvorITawE4/Rd2TKKSA-FI/AAAAAAAAAIo/hyS-MsL0jhc/s400/800px-Claude_Monet_038.jpg)](http://bp3.blogger.com/_ayvorITawE4/Rd2TKKSA-FI/AAAAAAAAAIo/hyS-MsL0jhc/s1600-h/800px-Claude_Monet_038.jpg)Waterlilies (Lirios de Agua), 1920-26
+[![](http://bp3.blogger.com/_ayvorITawE4/Rd2TKKSA-FI/AAAAAAAAAIo/hyS-MsL0jhc/s400/800px-Claude_Monet_038.jpg)](http://bp3.blogger.com/_ayvorITawE4/Rd2TKKSA-FI/AAAAAAAAAIo/hyS-MsL0jhc/s1600-h/800px-Claude_Monet_038.jpg) Waterlilies (Lirios de
+Agua), 1920-26
 
 Es buen habito para el programador mantener su mente abierta a nuevas posibilidades y horizontes. Hacer todo lo posible para mantener su capacidad de análisis y su creatividad al máximo, en todo momento. Y esto no es solo aplicable para un programador o analista de sistemas...
 > es aplicable evidentemente,

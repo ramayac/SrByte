@@ -12,15 +12,19 @@ Un fractal es generalmente:
 > reducida de la forma completa".
 Para entender un poco mejor este concepto, veamos una construcción de la fractal:
 
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KochFlake.svg/280px-KochFlake.svg.png)](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KochFlake.svg/280px-KochFlake.svg.png)"Fractales de Koch"
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KochFlake.svg/280px-KochFlake.svg.png)
+"Fractales de Koch"
 
 El fractal de la figura, es la conocida Curva de Koch, si, ES una curva matemática, y una de las primeras curvas fractales en ser descrita. Su construcción aparece en un papel de 1904 llamado: "Sur une courbe continue sans tangente, obtenue par une construction géométrique élémentaire" ("Sobre la curva continua sin tangentes, elaborada mediante geometría elemental") realizada por el matemático [Helge von Koch](http://en.wikipedia.org/wiki/Helge_von_Koch). La Curva de Koch aplicada en un triangulo equilátero, deriva "naturalmente" en un Copo de Nieve de Koch:
 
-[![](http://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)](http://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)"Copo de nieve de Koch"
+![](http://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)
+"Copo de nieve de Koch"
 
 Verdaderamente, las matemáticas son hermosas :) La principal característica de los fractales, se denomina: Self-Similarity (que vagamente podemos traducir como similitud propia), y consiste - como la misma definición del fractal menciona - en que cada fragmento o parte de la figura es una copia de la figura en total. La generación de un fractal matemático, esta basado en una ecuación que es sometida a un proceso iterativo (repetitivo). Como las iteraciones, en teoría pueden ser infinitas, si pudiéramos hacerle "zoom" a un fractal (ampliarlo constantemente) para ver en detalle su estructura, terminaríamos con algo así:
 
-![http://upload.wikimedia.org/wikipedia/commons/6/65/Kochsim.gif](http://upload.wikimedia.org/wikipedia/commons/6/65/Kochsim.gif) "Ampliación del detalle de un fractal"
+![http://upload.wikimedia.org/wikipedia/commons/6/65/Kochsim.gif](http://upload.wikimedia.org/wikipedia/commons/6/65/Kochsim.gif)
+"Ampliación del detalle de
+un fractal"
 
 Nuevamente... las matemáticas son hermosas. Otro popular fractal, es el [Mandelbrot](http://en.wikipedia.org/wiki/Mandelbrot_set), nombrado por [Benoît Mandelbrot](http://en.wikipedia.org/wiki/Beno%C3%AEt_Mandelbrot), es una compleja figura geométrica, en cuyos bordes podemos encontrar más fractales:
 
@@ -28,7 +32,9 @@ Nuevamente... las matemáticas son hermosas. Otro popular fractal, es el [Mandel
 
 Y justo como con un Copo de nieve de Koch, también podemos ampliar la figura y "viajar" en ella:
 
-![http://upload.wikimedia.org/wikipedia/en/b/ba/Mandelbrot_color_zoom.gif](http://upload.wikimedia.org/wikipedia/en/b/ba/Mandelbrot_color_zoom.gif) "Ampliación de un Mandelbrot"
+![http://upload.wikimedia.org/wikipedia/en/b/ba/Mandelbrot_color_zoom.gif](http://upload.wikimedia.org/wikipedia/en/b/ba/Mandelbrot_color_zoom.gif)
+"Ampliación de
+un Mandelbrot"
 
 Fractales aproximados (que no parten de formulas matemáticas exactas) se pueden encontrar con mucha frecuencia en la naturaleza. Estos objetos muestran patrones de similitud propia sobre rangos finitos. Algunos ejemplos de fractales en la naturaleza son: nubes, copos de nieves...
 

@@ -6,7 +6,9 @@ tags: administrar, blogger, dinero, blog, personal, free, software, pobreza, pro
 post_id: blog-3515952828243908885.post-3183870948219965687
 ---
 
-[![](http://blogactionday.s3.amazonaws.com/banners/Badge_300x160.jpg)](http://blogactionday.org/) "Banner Promocional del Blog Action Day"
+[![image](http://blogactionday.s3.amazonaws.com/banners/Badge_300x160.jpg)](http://blogactionday.org/)
+"Banner
+Promocional del Blog Action Day"
 
 Como parte de la campa﻿ña del Blog Action Day, el Sr Byte también se une a la causa para hacer conciencia a todos los lectores y bloggers para que hagamos ruido en la web, para que enfaticemos temas de importancia mundial y los tratemos desde nuestros blogs, como una manera de hacer conciencia en la sociedad y encontrar problemas a dichas situaciones.
 

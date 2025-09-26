@@ -60,7 +60,9 @@ Hold on to Your Love Taylor Hicks
 
 If she wants you, then love her If she needs you, then you'll show her If it happens, don't fight it If it's true love, don't hide it
 
-You know what they say, "Mmm, well, love will settle the score, All's fair in love and war."
+You know what they say,
+"Mmm, well, love will settle the score,
+All's fair in love and war."
 
 Hold on to your love, Hold on to your love.
 

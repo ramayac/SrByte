@@ -8,7 +8,8 @@ post_id: blog-3515952828243908885.post-5425327993780056652
 
 Algunos creen que redactar es cuestión de sentarse frente a un computador o una página en blanco y hacer una lluvia caótica de ideas sin sentido. La presencia de un texto no radica en la erudición, la retórica, la verborrea o la complejidad de las palabras. Mucho menos en la redundancia, la explicativa y el abuso de argumentos lógicos que apoyen la idea central.
 
-![](http://3.bp.blogspot.com/_JbB9KsZ238w/Sbxnio66WoI/AAAAAAAAAT8/rXPv_WoSZvE/s320/311501544_ab2a661c03.jpg)Redactar es todo un arte que requiere de coherencia, cohesión, claridad y sencillez.
+![](https://3.bp.blogspot.com/_JbB9KsZ238w/Sbxnio66WoI/AAAAAAAAAT8/rXPv_WoSZvE/s320/311501544_ab2a661c03.jpg) Redactar es todo un arte que
+requiere de coherencia, cohesión, claridad y sencillez.
 
 Esto no quiere decir que hacer uso de un lenguaje culto o científico sea incorrecto. Por el contario, este tipo de lenguaje le da un toque singular al texto, pues muestra el bagaje intelectual del autor. Pero cuando se abusa de él es cuando nuestros escritos pierden toda gracia posible. Lo mismo sucede cuando, por evitar un lenguaje rebuscado, caemos en una simplicidad escrita que evidencia una pobreza de vocabulario y un toque insípido en el texto.
 

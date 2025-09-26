@@ -35,12 +35,15 @@ Pero de toda esta información que existen en Internet...¿Quien ordena estos da
 > lo hacemos
 con Etiquetas (Tags), que son palabras claves, así se vuelve mas fácil las búsquedas y lo más buscado se vuelve más importante.
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RiLnUPXLh6I/AAAAAAAAAQ0/Oo7FZv6HkKQ/s320/800px-Web_2.0_Map.svg.png)](http://bp3.blogger.com/_ayvorITawE4/RiLnUPXLh6I/AAAAAAAAAQ0/Oo7FZv6HkKQ/s1600-h/800px-Web_2.0_Map.svg.png)"Nube de etiquetas, Web 2.0" Así se "enseña" a la maquina que mostrar cuando lo pedimos. Así la red se vuelve personal, se llena de nuestras preferencias y gustos, se vuelve como nosotros, porque...
+[![](http://bp3.blogger.com/_ayvorITawE4/RiLnUPXLh6I/AAAAAAAAAQ0/Oo7FZv6HkKQ/s320/800px-Web_2.0_Map.svg.png)](http://bp3.blogger.com/_ayvorITawE4/RiLnUPXLh6I/AAAAAAAAAQ0/Oo7FZv6HkKQ/s1600-h/800px-Web_2.0_Map.svg.png)
+"Nube de etiquetas, Web 2.0"
+Así se "enseña" a la maquina que mostrar cuando lo pedimos. Así la red se vuelve personal, se llena de nuestras preferencias y gustos, se vuelve como nosotros, porque...
 
 > nosotros la ordenamos como
 > queremos.
 Esto es la Web 2.0, es acerca de vincular gustos, unir personas... que comparten, intercambian y colaboran (como el caso de Wikipedia). Se refiere a una serie de servicios (de segunda generación, por eso el 2.0) de red, como sitios de redes sociales, herramientas de comunicación y demás... con énfasis en el trabajo en linea y la interacción social entre los usuarios. Lo que plantea la re-definición de privacidad, derechos de autor (solucionado con [Creative Commons](http://srbyte.blogspot.com/2007/03/qu-es-creative-commons.html)), ética. Dejo el vídeo que me inspiro a hacer este articulo, como esta bajo licencia Creative Commons, me tome la libertad de usarlo como guía.
 
-[http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g)[http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g)[http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g)[http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g)[http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g) "Web 2.0 en 5 minutos"
+[http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g) [http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g) [http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g) [http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g) [http://www.youtube.com/v/NLlGopyXT_g](http://www.youtube.com/v/NLlGopyXT_g)
+"Web 2.0 en 5 minutos"
 
 Hasta la próxima!

@@ -10,13 +10,17 @@ Un blog, también conocido como weblog o [cuaderno de bitácora](http://es.wikip
 
 Y existen tantos blogs y la gente escribe tantas cosas en ellos, que es dificil decidir si es locura o creatividad, arte o garabatos, humor o sarcasmo...
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s320/421934061_075233b186.jpg)](http://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s1600-h/421934061_075233b186.jpg)"Al final, cada loco con su tema... :) "
+[![](http://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s320/421934061_075233b186.jpg)](http://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s1600-h/421934061_075233b186.jpg)
+"Al final, cada loco con su
+tema... :) "
 
 Bloggin, que es el nombre anglo para la actividad de publicar información en un "blog", y cuando esta palabra se adapta al español (porque nadie quiere decir bitácora en vez de blog) se deforma y convierte en: blogear, blogger, blogeando entre otros... al fin y al cabo un efecto más de la globalización.
 
 Bloggear (publicar artículos en un blog) es una tendencia explosiva que esta llegando a todas las sociedades del mundo y es también una moda para millones de personas. De acuerdo con recientes estadísticas del sitio Technorati (que es un blog tracker, es decir un sitio web que se encarga de seguirle la pista a cada publicación de blogs que estén suscritos a el) la blogosfera se ha duplicado por los últimos tres años.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s400/masthead.png)](http://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s1600-h/masthead.png)"Logo de Technorati.com"
+[![](http://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s400/masthead.png)](http://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s1600-h/masthead.png)
+"Logo de
+Technorati.com"
 
 En números equivale a 175,000 blogs nuevos cada día en el mundo. En promedio se publican 1.6 millones de artículos por día, o 18.6 artículos por segundo. Technorati mantiene la pista de mas de 71 millones de blogs suscritos a su servicio. Y como ellos dicen:
 > Más de
@@ -40,7 +44,8 @@ Nuestros corazones están con las víctimas de tan terrible suceso.
 
 La blogosfera además son blogs agrupados por algún criterio específico como localización, temática, idioma, etc. Existe en el país una blogosfera Salvadoreña pronta a conoserce en carne y hueso en la primera reunión de bloggers guanacos, llamada la "Tertulia 1.0":
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s400/tertulia01.jpg)](http://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s1600-h/tertulia01.jpg)"La Tertulia 1.0"
+[![](http://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s400/tertulia01.jpg)](http://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s1600-h/tertulia01.jpg)
+"La Tertulia 1.0"
 
 Fecha: Sábado 21 de Abril 2007 Lugar: ... en San Salvador ;) Hora: desde las 2:00 p.m. en adelante.
 

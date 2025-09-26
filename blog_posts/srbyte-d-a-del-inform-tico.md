@@ -26,7 +26,7 @@ Luego el aprendizaje y programación se volvieron solitarios, y por lo tanto abu
 
 Verán, quieran o no, la gente SI importa en este medio, y vale la pena escribir y explicar la tecnología (y aprender a explicarlo) y reducir la famosa "brecha digital".
 
-[![](http://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s320/brain-on-chip-main.jpg)](http://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s1600-h/brain-on-chip-main.jpg)
+[![](https://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s320/brain-on-chip-main.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s1600-h/brain-on-chip-main.jpg)
 
 Si vos, lector, crees que nunca vas a tener que tratar con gente por darle mantenimiento a tu super servidor, en un cuarto frío, o que gastas horas de tu vida programando como loco y no podes socializar "fuera de la cajita", dejame decirte (con mucho respeto) que estas tirando tu vida al carajo.
 
@@ -34,11 +34,12 @@ Acordate que por eso: estudiar en grupo es mejor y más divertido, y que hacer "
 
 La informática, en si misma, sin programadores, sin usuarios, sin bloggers, sin gente bayunca que atesta sus paginas de Hi5 con miles de tonterías, y sin los que sueña con cambiar el fondo de su pagina en FaceBook, pues seria terriblemente aburrida (a mi ya me dan risa).
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)](http://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s1600-h/spamFB.png)¡FaceBook Spam!
+[![](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s1600-h/spamFB.png)¡FaceBook
+Spam!
 
 La informática, sin gente, se convierte en simples unos y ceros, "sentados" en un disco duro, inertes.
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s320/programmer.jpg)](http://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s1600-h/programmer.jpg)
+[![](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s320/programmer.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s1600-h/programmer.jpg)
 
 "Real programmers code for people"
 
@@ -46,7 +47,7 @@ En mi experiencia, pocas cosas dan tanta satisfacción como saber que lo que est
 
 No hay como saber, que la gente esta usando todos los días un software en el que ayudaste, y en algún momento, esos unos y ceros se van a mover y transformar en datos útiles, en proyecciones, estadísticas, reportes, imágenes, sonidos, sorpresas, en alegrías o tristezas.
 
-[![](http://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s320/stock-photo-happy-users.jpg)](http://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s1600-h/stock-photo-happy-users.jpg)
+[![](https://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s320/stock-photo-happy-users.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s1600-h/stock-photo-happy-users.jpg)
 
 "Se trabaja para el usuario, no para la máquina"
 

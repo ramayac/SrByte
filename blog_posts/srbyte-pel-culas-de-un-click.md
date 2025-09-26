@@ -6,7 +6,8 @@ tags: agil, cine, fun, cineastas, entrenamiento
 post_id: blog-3515952828243908885.post-6402711549856230782
 ---
 
-[![](http://1.bp.blogspot.com/_JbB9KsZ238w/SVRVHDtyUcI/AAAAAAAAARo/bWA9bVBxAGw/s320/PlayThumbVeoh.jpg)](http://1.bp.blogspot.com/_JbB9KsZ238w/SVRVHDtyUcI/AAAAAAAAARo/bWA9bVBxAGw/s1600-h/PlayThumbVeoh.jpg) Estos días he estado navegando sin rumbo por el internet, con tal de matar el ocio. Fue así como encontré una página bastante entretenida. Es una película que da la oportunidad de disfrutar, desde la comodidad de tu casa y desde tu ordenador, películas de todo tipo: Comedia, acción, suspenso, etc.
+[![](https://1.bp.blogspot.com/_JbB9KsZ238w/SVRVHDtyUcI/AAAAAAAAARo/bWA9bVBxAGw/s320/PlayThumbVeoh.jpg)](https://1.bp.blogspot.com/_JbB9KsZ238w/SVRVHDtyUcI/AAAAAAAAARo/bWA9bVBxAGw/s1600-h/PlayThumbVeoh.jpg)
+Estos días he estado navegando sin rumbo por el internet, con tal de matar el ocio. Fue así como encontré una página bastante entretenida. Es una película que da la oportunidad de disfrutar, desde la comodidad de tu casa y desde tu ordenador, películas de todo tipo: Comedia, acción, suspenso, etc.
 
 He de aclarar que algunos títulos de películas aparecen como disponibles, aunque cuando se les da click no aparecen. También, algunas están disponibles pero no con buena calidad de imagen. Sin embargo, vale la pena darle una revisadita. Nada se pierde.
 

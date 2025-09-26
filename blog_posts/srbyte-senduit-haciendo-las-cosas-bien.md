@@ -6,9 +6,12 @@ tags: srbyte
 post_id: blog-3515952828243908885.post-6544694013300982508
 ---
 
-[Senduit](http://www.senduit.com/) es un servicio que provee a los usuarios la habilidad para "subir" un archivo (máximo 100 MB), y permite descargarlo mediante una URL especifica. El archivo puede ser descargado un numero ilimitado de veces. Senduit añade un tiempo de caducidad para el archivo en cuestión, desde media hora hasta una semana (luego el archivo caduca y se elimina).
+[Senduit](http://www.senduit.com/) es un servicio
+que provee a los usuarios la habilidad para "subir" un archivo (máximo 100 MB), y permite descargarlo mediante una URL especifica. El archivo puede ser descargado un numero ilimitado de veces. Senduit añade un tiempo de caducidad para el archivo en cuestión, desde media hora hasta una semana (luego el archivo caduca y se elimina).
 
-[![](http://2.bp.blogspot.com/_ayvorITawE4/SRGp4uokntI/AAAAAAAABZw/Nce1UpzcpoA/s320/senduit.png)](http://2.bp.blogspot.com/_ayvorITawE4/SRGp4uokntI/AAAAAAAABZw/Nce1UpzcpoA/s1600-h/senduit.png)"Un vistazo a la apariencia de Senduit"
+[![](https://2.bp.blogspot.com/_ayvorITawE4/SRGp4uokntI/AAAAAAAABZw/Nce1UpzcpoA/s320/senduit.png)](https://2.bp.blogspot.com/_ayvorITawE4/SRGp4uokntI/AAAAAAAABZw/Nce1UpzcpoA/s1600-h/senduit.png)
+"Un vistazo a la apariencia
+de Senduit"
 
 Lo que mas me intereso de este servicio es:
 

@@ -6,7 +6,9 @@ tags: informatico, debian, free, internet, recomendado, interesante, programacio
 post_id: blog-3515952828243908885.post-5743602935186279806
 ---
 
-[![](http://1.bp.blogspot.com/_jH77WNrMVRA/SKcNwgYNEGI/AAAAAAAACAE/aEUGnhgTB6Y/s320/DSCN3332.sized.jpg)](http://1.bp.blogspot.com/_jH77WNrMVRA/SKcNwgYNEGI/AAAAAAAACAE/aEUGnhgTB6Y/s1600-h/DSCN3332.sized.jpg)"Pastel de Cumpleaños con la Espiral de Debian"
+[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SKcNwgYNEGI/AAAAAAAACAE/aEUGnhgTB6Y/s320/DSCN3332.sized.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/SKcNwgYNEGI/AAAAAAAACAE/aEUGnhgTB6Y/s1600-h/DSCN3332.sized.jpg)
+"Pastel de Cumpleaños con la
+Espiral de Debian"
 
 Un día como hoy, 16 de agosto de 1993 fue iniciado el proyecto que dio lugar a la tan popular distribución de GNU/Linux: [Debian](http://www.debian.org/).
 
@@ -21,12 +23,15 @@ Algunos datos curiosos acerca de Debian:
 - La espiral de Debian, también fue inspirada en Toy Story. Esta marca aparece en la barbilla de Buzz Light Year, como podrán notar la próxima vez que vean la película.
 
 - Ha servido como base para una gran cantidad de distribuciones "hijas" como por ejemplo Knoppix y Ubuntu, por mencionar algunas de las mas populares ([acá](http://www.debian.org/misc/children-distros) esta la lista completa).
-[![](http://3.bp.blogspot.com/_jH77WNrMVRA/SKcSYGVVndI/AAAAAAAACAM/gVJO1zVjKFM/s320/buzz.jpg)](http://3.bp.blogspot.com/_jH77WNrMVRA/SKcSYGVVndI/AAAAAAAACAM/gVJO1zVjKFM/s1600-h/buzz.jpg)"El origen de la espiral de Debian: La barbilla de Buzz Light Year"
+[![](https://3.bp.blogspot.com/_jH77WNrMVRA/SKcSYGVVndI/AAAAAAAACAM/gVJO1zVjKFM/s320/buzz.jpg)](https://3.bp.blogspot.com/_jH77WNrMVRA/SKcSYGVVndI/AAAAAAAACAM/gVJO1zVjKFM/s1600-h/buzz.jpg)
+"El origen de la espiral de
+Debian: La barbilla de Buzz Light Year"
 
 Por tal motivo, cada 14 de agosto se celebra el Día Debian ([Debian Day](http://wiki.debian.org/DebianDay2008)) brindando las tradicionales charlas, install fest, LAN party, reuniones y todo lo que se les pueda ocurrir a un grupo de geeks para homenajear a una de las distribuciones que mas han aportado a la difusión de GNU/Linux y el software libre en general.
 
 Para terminar los dejo con un vídeo de los ya conocidos sorprendentes efectos de Compiz Fusion, corriendo sobre un Debian GNU/Linux:
 
-"Efectos de Compiz Fusion, sobre Debian GNU/Linux"
+"Efectos de Compiz Fusion, sobre Debian
+GNU/Linux"
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

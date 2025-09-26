@@ -12,7 +12,9 @@ Otro problema a la hora de programar, además de perder la creatividad, es perde
 > menos común de todos.
 Al perder el sentido común y los principios fundamentales de las soluciones de problemas podríamos terminar con una maquina de [Goldberg](http://en.wikipedia.org/wiki/Rube_Goldberg) (una maquina que hace una acción extremadamente sencilla de la manera muy complicada) en nuestro código. En donde algo tan simple como sacarle punta a un lápiz se vuelve una odisea completa:
 
-[![](http://bp0.blogger.com/_ayvorITawE4/Rd2UlaSA-GI/AAAAAAAAAIw/nrPBhYn-jI4/s400/RG_168.gif)](http://bp0.blogger.com/_ayvorITawE4/Rd2UlaSA-GI/AAAAAAAAAIw/nrPBhYn-jI4/s1600-h/RG_168.gif)"Mas caricaturas de Rube Goldberg [aqui](http://www.rubegoldberg.com/gallery.php)"
+[![](http://bp0.blogger.com/_ayvorITawE4/Rd2UlaSA-GI/AAAAAAAAAIw/nrPBhYn-jI4/s400/RG_168.gif)](http://bp0.blogger.com/_ayvorITawE4/Rd2UlaSA-GI/AAAAAAAAAIw/nrPBhYn-jI4/s1600-h/RG_168.gif)
+"Mas caricaturas de Rube Goldberg [aqui](http://www.rubegoldberg.com/gallery.php)
+"
 
 Vean una maquina de Rube Goldberg en acción:
 
@@ -22,7 +24,10 @@ Un ejemplo claro de la perdida del sentido común en el país es:
 > " href="http://www.elsalvador.com/mwedh/nota/nota_opinion.asp?idCat=2892&idArt=1035774">La
 > ley de libre circulación de vehículos en días no feriados en las playas de El
 > Salvador"
-[![](http://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s400/tor.jpg)](http://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s1600-h/tor.jpg) Me salí un poco del tema principal, pero estoy seguro que me doy a entender. [Noam Chomsky](http://es.wikipedia.org/wiki/Noam_Chomsky) (una de las personalidades más relevantes en la lingüística y en la ciencia cognitiva contemporánea) nos dice que:
+[![](http://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s400/tor.jpg)](http://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s1600-h/tor.jpg)
+Me salí un poco del tema principal, pero estoy seguro que me doy a entender.
+[Noam Chomsky](http://es.wikipedia.org/wiki/Noam_Chomsky) (una de las
+personalidades más relevantes en la lingüística y en la ciencia cognitiva contemporánea) nos dice que:
 
 > “La ciencia trata de cosas muy simples y formula
 > preguntas básicas sobre ellas. Tan pronto como la ciencia se hace más compleja, style="font-weight: bold;">ya no es capaz de responderlas.

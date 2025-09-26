@@ -10,9 +10,10 @@ Celebremos el nacimiento de nuestro Señor y salvador, disfrutando sanamente en 
 
 El Staff del Sr. Byte, le desea a todos sus lectores una feliz navidad y prospero 2010....
 
-[![](http://4.bp.blogspot.com/_ayvorITawE4/SzRIt3diPHI/AAAAAAAACQs/wdVjRkJppaQ/s200/merry%2520christmas.jpg)](http://4.bp.blogspot.com/_ayvorITawE4/SzRIt3diPHI/AAAAAAAACQs/wdVjRkJppaQ/s1600-h/merry%2520christmas.jpg)
+[![image](https://4.bp.blogspot.com/_ayvorITawE4/SzRIt3diPHI/AAAAAAAACQs/wdVjRkJppaQ/s200/merry%2520christmas.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/SzRIt3diPHI/AAAAAAAACQs/wdVjRkJppaQ/s1600-h/merry%2520christmas.jpg)
 
-"El amor y la verdad se darán cita, la paz y la justicia se besarán" (Sal 85:10).
+"El amor y la verdad se darán cita, la paz y la justicia se besarán"
+(Sal 85:10).
 
 Les dejo un interesante vinculo de la [vista panoramica (WebCam) de la Plaza de San Pedro en Roma](http://www.vaticanstate.va/ES/Monumentos/webcam/index?cam=webcam1&testo=Panorámica%20de%20Roma).
 

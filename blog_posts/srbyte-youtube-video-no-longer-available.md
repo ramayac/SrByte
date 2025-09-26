@@ -12,11 +12,15 @@ Originalmente esto empezó por la publicación de vídeos con contenido sujeto a
 
 Youtube empezó a ceder, restringiendo algunos vídeos para que no puedan ser vistos fuera de los estados unidos:
 
-[![](http://bp1.blogger.com/_jH77WNrMVRA/SJTKbV0uW5I/AAAAAAAAB5Y/iuIgRKlwr7U/s320/postimage1.png)](http://bp1.blogger.com/_jH77WNrMVRA/SJTKbV0uW5I/AAAAAAAAB5Y/iuIgRKlwr7U/s1600-h/postimage1.png)"This video is not available in your country"
+[![](http://bp1.blogger.com/_jH77WNrMVRA/SJTKbV0uW5I/AAAAAAAAB5Y/iuIgRKlwr7U/s320/postimage1.png)](http://bp1.blogger.com/_jH77WNrMVRA/SJTKbV0uW5I/AAAAAAAAB5Y/iuIgRKlwr7U/s1600-h/postimage1.png)
+"This video is not available
+in your country"
 
 Luego de esto, ni siquiera para Estados Unidos permitieron la reproducción de estos vídeos así que ahora ya no es posible reproducirlos de ninguna forma. Habrá que irnos despidiendo de muchas escenas de películas y videoclips:
 
-[![](http://bp2.blogger.com/_jH77WNrMVRA/SJTKtU-39RI/AAAAAAAAB5g/5IlOss3yLyw/s320/postimage2.png)](http://bp2.blogger.com/_jH77WNrMVRA/SJTKtU-39RI/AAAAAAAAB5g/5IlOss3yLyw/s1600-h/postimage2.png)"No longer available due to copyright claims..."
+[![](http://bp2.blogger.com/_jH77WNrMVRA/SJTKtU-39RI/AAAAAAAAB5g/5IlOss3yLyw/s320/postimage2.png)](http://bp2.blogger.com/_jH77WNrMVRA/SJTKtU-39RI/AAAAAAAAB5g/5IlOss3yLyw/s1600-h/postimage2.png)
+"No longer available due to copyright
+claims..."
 
 Lo bueno es que Google se preocupo por guardar nuestra privacidad, negándose a revelar la base de datos de las IPs de sus usuarios. Este era uno de los requisitos de los demandantes con el propósito de comprobar que el contenido con copyrights es el mas popular en el sitio.
 
@@ -30,8 +34,10 @@ Para que estas compañías se den cuenta del valor que youtube agrega a los lanz
 
 "X-Men Origins: Wolverine"
 
-"Transformers 2: Rise of the Decepticons"
+"Transformers 2: Rise of the
+Decepticons"
 
-"Dragon Ball Z, The Movie"
+"Dragon Ball Z, The
+Movie"
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

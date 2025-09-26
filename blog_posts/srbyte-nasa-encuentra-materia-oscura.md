@@ -10,11 +10,15 @@ Usando el telescopio espacial Hubble, los astrónomos de la NASA afirman haber e
 
 Este anillo fantasmal, es la prueba más concluyente (hasta la fecha) de que la "Materia Oscura"existe.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/Rku9laos2mI/AAAAAAAAAW4/09liPsHpop8/s400/dark_ring_1_full.jpg)](http://bp2.blogger.com/_ayvorITawE4/Rku9laos2mI/AAAAAAAAAW4/09liPsHpop8/s1600-h/dark_ring_1_full.jpg)"Cumulo de estrellas CI 0024+17"
+[![](http://bp2.blogger.com/_ayvorITawE4/Rku9laos2mI/AAAAAAAAAW4/09liPsHpop8/s400/dark_ring_1_full.jpg)](http://bp2.blogger.com/_ayvorITawE4/Rku9laos2mI/AAAAAAAAAW4/09liPsHpop8/s1600-h/dark_ring_1_full.jpg)
+"Cumulo de estrellas CI
+0024+17"
 
 Ojo, esta materia oscura no tiene nada que ver con "Los Piratas de las Aguas Tenebrosas" o eran "Negras"?... no recuerdo, pero "Aguas Negras"... apesta como nombre...
 
-[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) "Piratas de las Aguas... Tenebrosas"
+[http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638) [http://www.youtube.com/v/0pUCSsAo638](http://www.youtube.com/v/0pUCSsAo638)
+"Piratas de las Aguas...
+Tenebrosas"
 
 En fin, esta materia oscura son partículas hipotéticas de un tipo de materia, de composición desconocida, que no interactúa con la materia normal y que no emite radiación detectable. La materia oscura no es visible en ninguna parte del espectro electromagnético con los medios técnicos actuales pero su existencia puede inferirse a partir de los efectos gravitacionales que causan en la materia visible tales como las estrellas o las galaxias, así como en las anisotropías del fondo cósmico de microondas.
 

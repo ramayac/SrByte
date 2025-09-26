@@ -10,7 +10,9 @@ Definitivamente, no hablo de cualquier sitio web. Esta es una lista "pura" y exc
 
 ¿Necesitas una manera sencilla de respaldar tu computadora? ¿Una nueva forma de descubrir música que se ajuste a tu humor y tus gusto? ¿O necesitas saber como limpiar o como funciona algo? ¿Y que tal si quieres reírte un rato?
 
-[![](http://bp0.blogger.com/_ayvorITawE4/R9qdPuJ25DI/AAAAAAAAAl8/PnSz8iNi630/s200/wired.jpg)](http://bp0.blogger.com/_ayvorITawE4/R9qdPuJ25DI/AAAAAAAAAl8/PnSz8iNi630/s1600-h/wired.jpg)"Imagen: Vida alambrada digital"
+[![](http://bp0.blogger.com/_ayvorITawE4/R9qdPuJ25DI/AAAAAAAAAl8/PnSz8iNi630/s200/wired.jpg)](http://bp0.blogger.com/_ayvorITawE4/R9qdPuJ25DI/AAAAAAAAAl8/PnSz8iNi630/s1600-h/wired.jpg)
+"Imagen: Vida alambrada
+digital"
 
 Pues para todo esto lector, existe un sitio que esta solo a un click de distancia. Aquí dejo una lista de sitios web super útiles, de los que quizás ni siquiera sabias que existen. Si tienes algún sitio que compartir (y YO se que si), deja el vinculo en los comentarios para agregarlos a esta lista (y seras debidamente agradecido).
 
@@ -28,7 +30,7 @@ Felicidad y humor:
 - [Musicicovery](http://musicovery.com/): Descubre música de acuerdo a tu estado de animo (humor), "niveles de energía", genero preferido y más. Con una interfaz gráfica atractiva, y los resultados se muestran como un "mapa mental". Recomendado!
 - [Last.fm](http://www.last.fm/): Encuentra la música que te gusta, personas afines a tus gustos musicales, escucha música en linea, y encuentra artistas y grupos relacionados.
 - [WikiTravel](http://wikitravel.org/en/Main_Page): Wikipedia para los viajeros. Toneladas de detalles útiles e información para los destinos que deseas visitar.
-- [Dosis Diarias](http://www.dosisdiarias.com/)[:](http://www.dosisdiarias.com/) Tiras cómicas de Alberto Montt. Recomendado!
+- [Dosis Diarias](http://www.dosisdiarias.com/) [:](http://www.dosisdiarias.com/) Tiras cómicas de Alberto Montt. Recomendado!
 Familia y Hogar
 
 - [Geni.com](http://www.geni.com/). Super aplicación que permite construir todo tu árbol familiar en linea. Adicionalmente, puedes establecer perfiles y recordatorios y más. ¡Es pocas palabras, es una red social privada para tu familia!

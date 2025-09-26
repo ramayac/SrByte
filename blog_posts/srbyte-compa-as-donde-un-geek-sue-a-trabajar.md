@@ -16,8 +16,10 @@ En estos días, ya que tuvimos que estudiar para Recursos Humanos y como no me l
 
 - Google: Qué se puede decir de la empresa numero uno en la lista de las 100 mejores empresas donde trabajar de la [revista Fortune](http://money.cnn.com/magazines/fortune/bestcompanies/2008/snapshots/1.html)? No se ni por dónde empezar así que mejor vean un par de vídeos que lo explican:
 
-"Google, Una de las empresas que mejor trata a sus empleados"
+"Google, Una de las empresas
+que mejor trata a sus empleados"
 
-"La Empresa No. 1 de la revista Fortune"
+"La Empresa No. 1 de la
+revista Fortune"
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

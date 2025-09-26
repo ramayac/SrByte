@@ -43,9 +43,12 @@ Rose remata su comentario con un heroico:
 > perdemos, qué demonios, al menos caímos intentándolo"
 Por el camino quedan ya [más de 300.000 resultados en Google](http://www.google.com/search?q=09+F9+11+02+9D+74+E3+5B+D8+41+56+C5+63+56+88+C0) generados en unas horas, un vídeo/canción:
 
-[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)
+[http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0) [http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0) [http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0) [http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0) [http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0) [http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0) [http://www.youtube.com/v/L9HaNbsIfp0](http://www.youtube.com/v/L9HaNbsIfp0)
 
-Camisas: [![](http://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)](http://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s1600-h/09F91102b.jpg)"Camisa con los 32 dígitos"
+Camisas:
+[![](http://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)](http://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s1600-h/09F91102b.jpg)
+"Camisa con los 32
+dígitos"
 
 Nombres de dominio, noticias falsas con el contenido de la noticia verdadera, anuncios, etc, etc, etc... ¿Y si hay demanda contra Digg? Quizá alguien recuerde la polémica y decida ayudar a costear la ayuda legal (o quizás no) Eso si, esto ha dejado en claro quien manda...
 > Digg.com bienvenido a la

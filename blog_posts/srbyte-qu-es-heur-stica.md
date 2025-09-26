@@ -8,7 +8,9 @@ post_id: blog-3515952828243908885.post-6943288365160740787
 
 Si has "escaneado" tu máquina con un antivirus, y pasaste minutos de tu vida mirando la barra de progreso y los comentarios en cada archivo, probablemente viste mas de alguna vez (y con cualquier buen antivirus) la palabra: heurística.
 
-[![](http://4.bp.blogspot.com/_ayvorITawE4/StaLNqjxc3I/AAAAAAAACMY/PGHIFcanHw8/s320/searchradarpc.jpg)](http://4.bp.blogspot.com/_ayvorITawE4/StaLNqjxc3I/AAAAAAAACMY/PGHIFcanHw8/s1600-h/searchradarpc.jpg)"Fuera interesante ver el progreso de escaneo de un ativirus así"
+[![](https://4.bp.blogspot.com/_ayvorITawE4/StaLNqjxc3I/AAAAAAAACMY/PGHIFcanHw8/s320/searchradarpc.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/StaLNqjxc3I/AAAAAAAACMY/PGHIFcanHw8/s1600-h/searchradarpc.jpg)
+"Fuera interesante ver el
+progreso de escaneo de un ativirus así"
 
 En la mayoría de antivirus, la [heurística](http://es.wikipedia.org/wiki/Heur%C3%ADstica_%28inform%C3%A1tica%29) se refiere a una técnica especifica para reconocer código malicioso ([virus](http://es.wikipedia.org/wiki/Virus_%28inform%C3%A1tica%29), [gusanos](http://es.wikipedia.org/wiki/Gusano_%28inform%C3%A1tica%29), [troyanos](http://es.wikipedia.org/wiki/Caballo_de_Troya_%28inform%C3%A1tica%29), etc.) que este (el antivirus) no posea en su base de datos por diversas razones, como que los programas maliciosos sean nuevos o poco divulgados.
 
@@ -19,13 +21,16 @@ La heurística, como termino general, implica funcionalidades como detección a 
 > rendimiento del mismo.
 La heurística no solo se emplea como palabra complicada para denotar una técnica que todo antivirus decente debería tener, sino que también se emplea en el area de la inteligencia artificial. Muchos algoritmos de "denominada" [inteligencia artificial](http://es.wikipedia.org/wiki/Inteligencia_artificial) son heurísticos por naturaleza o usan reglas heurísticas, un excelente ejemplo es [SpamAssassin](http://spamassassin.apache.org/) que usa una amplia variedad de reglas heurísticas para determinar cuando un email es [spam](http://es.wikipedia.org/wiki/Spam)...
 
-[![](http://upload.wikimedia.org/wikipedia/commons/b/b7/SpamAssassin_logo.png)](http://upload.wikimedia.org/wikipedia/commons/b/b7/SpamAssassin_logo.png)"SpamAssassin = Apache.org + Heuristics"
+![](http://upload.wikimedia.org/wikipedia/commons/b/b7/SpamAssassin_logo.png)
+"SpamAssassin = Apache.org + Heuristics"
 
 Cualquiera de las reglas usadas de forma independiente pueden llevar a errores de clasificación, pero cuando se unen múltiples reglas heurísticas, la solución es más robusta y creíble. Esto se llama alta credibilidad en el reconocimiento de patrones.
 
 Ahora bien, no todo es bueno con la heurística... si algo podemos decir de un algoritmo cualquiera, es que este se pueda ejecutar varias veces, y su resultado sea óptimo. Por irónico que parezca, un algoritmo heurístico abandona estos objetivos para obtener una buena solucion, que pudiera convertirse arbitrariamente en una mala solucion, como los famosos [falsos positivos en un antivirus](http://foros.softonic.com/seguridad/antivirus-da-falsos-posivos-47252)...
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/StaLOCESF3I/AAAAAAAACMg/hpNieJRhsrU/s320/utorrent-malware.png)](http://3.bp.blogspot.com/_ayvorITawE4/StaLOCESF3I/AAAAAAAACMg/hpNieJRhsrU/s1600-h/utorrent-malware.png)":@ esto es lo mas terrible del mundo, un falso positivo en un archivo perfectamente sano."
+[![](https://3.bp.blogspot.com/_ayvorITawE4/StaLOCESF3I/AAAAAAAACMg/hpNieJRhsrU/s320/utorrent-malware.png)](https://3.bp.blogspot.com/_ayvorITawE4/StaLOCESF3I/AAAAAAAACMg/hpNieJRhsrU/s1600-h/utorrent-malware.png)
+":@ esto es lo mas terrible
+del mundo, un falso positivo en un archivo perfectamente sano."
 
 O sino, el algoritmo heurístico se ejecuta razonablemente rápido, pero no hay argumento de que esto siga sucediendo siempre. Finalmente, y con la música de Eurythmics de fondo...
 

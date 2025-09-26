@@ -12,9 +12,11 @@ Google actualizo hace poco su pagina "What's new" para Gmail, con información a
 
 Les dejo un vídeo con las características en acción:
 
-"Chat con video y voz para Gmail" Poco a poco Gmail se pone cerca de las alternativas más populares (MSN, Skype), solo espero que liberen una versión para Linux, y quizás deje de lado Skype. Espero que estas características sean añadiduras a Gmail en cuanto a funcionalidad, porque no me gustaría ver anuncios incrustados en mis ventanas de conversación.
+"Chat con video y voz para
+Gmail" Poco a poco Gmail se pone cerca de las alternativas más populares (MSN, Skype), solo espero que liberen una versión para Linux, y quizás deje de lado Skype. Espero que estas características sean añadiduras a Gmail en cuanto a funcionalidad, porque no me gustaría ver anuncios incrustados en mis ventanas de conversación.
 
-Para más información visita: [http://mail.google.com/videochat](http://mail.google.com/videochat)
+Para más información visita:
+[http://mail.google.com/videochat](http://mail.google.com/videochat)
 > href="http://mail.google.com/videochat">http://mail.google.com/videochat
 ¿Crees que Gmail destronara a MSN Live de una vez por todas?
 

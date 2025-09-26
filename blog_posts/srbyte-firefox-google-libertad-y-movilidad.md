@@ -11,7 +11,8 @@ No se necesita tener una PDA, un celular complejo con acceso a Internet o tener 
 > style="font-size:130%;">Firefox y Google
 Google en estos últimos años ha implementado una serie de herramientas fantásticas para trabajar en linea, que sustituyen aplicaciones de escritorio que usamos día a día. Es hora de dejar de pensar en el escritorio y comenzar a pensar OnLine, todas las herramientas están en nuestras narices.
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s400/google.jpg)](http://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s1600-h/google.jpg) Documentos de Word y Excel: El sobrecargado Microsoft Office y el (a veces) lento OpenOffice.org pueden ser fácilmente remplazados con [Google Docs & Spreadsheets](http://www.google.com/google-d-s/intl/en/tour1.html). No solo Google Docs & Spreadsheets ofrece una poderosa interfaz web hecha en AJAX sino que se integra (como todos los servicios de Google) de manera transparente en una cuenta de Google existente (si tienes cuenta de Gmail tienes cuenta con Google).
+[![](http://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s400/google.jpg)](http://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s1600-h/google.jpg)
+Documentos de Word y Excel: El sobrecargado Microsoft Office y el (a veces) lento OpenOffice.org pueden ser fácilmente remplazados con [Google Docs & Spreadsheets](http://www.google.com/google-d-s/intl/en/tour1.html). No solo Google Docs & Spreadsheets ofrece una poderosa interfaz web hecha en AJAX sino que se integra (como todos los servicios de Google) de manera transparente en una cuenta de Google existente (si tienes cuenta de Gmail tienes cuenta con Google).
 
 Email: Evidentemente la respuesta en Gmail ([aunque la nueva iniciativa de yahoo mail intriga mucho](http://srbyte.blogspot.com/2007/03/yahoo-mail-ilimitado.html)), Gmail es rápido, eficiente y mejor que muchas aplicaciones de escritorio que hacen "lo mismo".
 
@@ -39,6 +40,7 @@ Uniendo todo: La mejor manera de unir todos estos servicios e integrarlos es usa
 Es mas que evidente que nos estamos mudando a la red, lo que nos da
 > mucha libertad y movilidad (o facilidades de
 > acceso a la información)
-y aunque la seguridad y la privacidad son sumamente importantes, es obvio que la decisión de que tipo de información "subir" es siempre la del usuario. Bien dijeron hace unos años... "[Todas las aplicaciones deberían de ser Web y correr en Java](http://srbyte.blogspot.com/2007/04/java-en-todos-lados.html)". Por lo que veo, nos acercamos mas y más a esa idea... nadie abandonara el Desktop... pero la tendencia web agarra cada vez más fuerza y eso NO se puede negar.
+y aunque la seguridad y la privacidad son sumamente importantes, es obvio que la decisión de que tipo de información "subir" es siempre la del usuario. Bien dijeron hace unos años... "[Todas las aplicaciones deberían de ser Web y correr en Java](http://srbyte.blogspot.com/2007/04/java-en-todos-lados.html)
+". Por lo que veo, nos acercamos mas y más a esa idea... nadie abandonara el Desktop... pero la tendencia web agarra cada vez más fuerza y eso NO se puede negar.
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -6,7 +6,9 @@ tags: .net, desarrollo, software, lenguaje, codigo, tecnicas, programacion, herr
 post_id: blog-3515952828243908885.post-4202301501316594182
 ---
 
-[![](http://1.bp.blogspot.com/_jH77WNrMVRA/SUAtVVrVQnI/AAAAAAAAFNg/6xIdHcm541w/s400/sourcecode.png)](http://1.bp.blogspot.com/_jH77WNrMVRA/SUAtVVrVQnI/AAAAAAAAFNg/6xIdHcm541w/s1600-h/sourcecode.png)"Jajajaja Nunca te librarás de mi, programador" Bugs. Todo programador los conoce. Desde el primer hola mundo que escribe en C y se da cuenta que no le compiló porque le hacía falta el punto y coma al final de la sentencia, el programador se da cuenta que los programas que escriba nunca serán perfectos y siempre habrá que arreglar los diferentes errores que comunmente se cometen cuando estamos desarrollando alguna aplicación.
+[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SUAtVVrVQnI/AAAAAAAAFNg/6xIdHcm541w/s400/sourcecode.png)](https://1.bp.blogspot.com/_jH77WNrMVRA/SUAtVVrVQnI/AAAAAAAAFNg/6xIdHcm541w/s1600-h/sourcecode.png)
+"Jajajaja Nunca te librarás de mi,
+programador" Bugs. Todo programador los conoce. Desde el primer hola mundo que escribe en C y se da cuenta que no le compiló porque le hacía falta el punto y coma al final de la sentencia, el programador se da cuenta que los programas que escriba nunca serán perfectos y siempre habrá que arreglar los diferentes errores que comunmente se cometen cuando estamos desarrollando alguna aplicación.
 
 Algunos consideran que el proceso de desarrollo de una aplicación se distribuye regularmente en un 20% de tiempo invertido en la codificación contra un 80% invertido en la depuración del código escrito. Esto nos lleva a pensar que corregimos mas de lo que producimos, lo cual no es muy efectivo que digamos a la hora del desarrollo. Para ello, existen técnicas que nos permiten prevenir la ocurrencia de Bugs o errores que comúnmente se cometen a la hora de la programación y entre estas, las más popular es el uso de Unit Testing.
 
@@ -44,10 +46,14 @@ Las ventajas de probar nuestros métodos con Unit Testing es que podemos saber j
 
 Con la experiencia, un programador aprende a conocer todas las posibles fallas que se podrían producir en una porción de código y prevenirlas antes que ocurran. Usando Unit Testing se puede comprobar que dichas fallas fueron mitigadas correctamente. Como recomendación, cada programador debe aprender a ser pesimista con su código, a pensar siempre lo peor de manera que su aplicación esté preparada para ello. Buscar todas las posibles fallas que pueda tener el código, sin importar qué tan ridículas, absurdas o imposibles estas sean. Sino, recuerden esa vez que estaban refinando su aplicación unas horas antes de su defensa final y por arte de magia, a última hora todo dejó de funcionar por culpa de un error que pasaron por alto y no creyeron que fuera a afectar tanto el proyecto.
 
-![](http://4.bp.blogspot.com/_jH77WNrMVRA/SUBVIJTJdgI/AAAAAAAAFNo/cOn0lvCAhPg/s400/murphys_law_poster.jpg)"Como decía Murphy: Todo lo que puede salir mal, saldrá mal"
+![](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBVIJTJdgI/AAAAAAAAFNo/cOn0lvCAhPg/s400/murphys_law_poster.jpg)
+"Como decía Murphy: Todo lo
+que puede salir mal, saldrá mal"
 
 Para poder hacer uso de los Unit Tests, necesitas instalar el framework apropiado dependiendo del lenguaje de programación que estes utilizando para desarrollar y a veces este ya viene integrado en los IDEs o entornos de desarrollo. Por ejemplo, Java hace uso de la librería [JUnit](http://www.junit.org/), la cual ya viene integrada en [Netbeans](http://www.netbeans.org/), Python hace uso de [PyUnit](http://pyunit.sourceforge.net/), Microsoft .Net utiliza [NUnit](http://www.nunit.org/index.php), el cual se puede integrar con el IDE [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/), entre otros.
 
-![](http://4.bp.blogspot.com/_jH77WNrMVRA/SUBb1ATdcxI/AAAAAAAAFNw/tnFVnw_VhAU/s400/NetbeansShot.png)"Captura de pantalla del IDE Netbeans, mostrando los resultados de la ejecución de los Unit Tests en un proyecto de Java (Clic para agrandar)"
+![](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBb1ATdcxI/AAAAAAAAFNw/tnFVnw_VhAU/s400/NetbeansShot.png)
+"Captura de pantalla del IDE Netbeans, mostrando los resultados de
+la ejecución de los Unit Tests en un proyecto de Java (Clic para agrandar)"
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

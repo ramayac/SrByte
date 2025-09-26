@@ -6,7 +6,9 @@ tags: srbyte
 post_id: blog-3515952828243908885.post-4683499292409589782
 ---
 
-[![](http://3.bp.blogspot.com/_jH77WNrMVRA/Se0_N5dU4AI/AAAAAAAAFsg/KTu5rBhd2BU/s400/hp1v3_announcement.jpg)](http://3.bp.blogspot.com/_jH77WNrMVRA/Se0_N5dU4AI/AAAAAAAAFsg/KTu5rBhd2BU/s1600-h/hp1v3_announcement.jpg)"Esto es lo que me apareció esta noche al visitar el sitio de Sun Microsystems. Aún no lo creo."
+[![](https://3.bp.blogspot.com/_jH77WNrMVRA/Se0_N5dU4AI/AAAAAAAAFsg/KTu5rBhd2BU/s400/hp1v3_announcement.jpg)](https://3.bp.blogspot.com/_jH77WNrMVRA/Se0_N5dU4AI/AAAAAAAAFsg/KTu5rBhd2BU/s1600-h/hp1v3_announcement.jpg)
+"Esto es lo que me apareció
+esta noche al visitar el sitio de Sun Microsystems. Aún no lo creo."
 
 Después de unos muy interesantes intentos de negociaciones entre IBM y Sun Microsystems para que la primera adquiriera a la segunda, resulta que fue Oracle, el emperador de las bases de datos, quien terminó adquiriendo a la moribunda empresa de Sun Microsystems por nada más y nada menos que 7,400 millones de dólares.
 

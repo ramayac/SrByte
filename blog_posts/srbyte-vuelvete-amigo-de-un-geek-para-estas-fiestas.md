@@ -16,7 +16,8 @@ Debido a esto, [Will Savage](http://www.willsavage.com/) ha elaborado una muy in
 
 P.D. Esta campaña solamente una broma, los geeks no necesitamos visitas en casa, suficiente con twitter y la mensajería instantánea xD. Hay tantas otras personas que realmente pasan una navidad/año nuevo o cualquier celebración de una manera solitaria a la cual no caería mal que le hiciéramos una visita al estilo ImprovEverywhere:
 
-"Improv Everywhere en sus inicios, the Hug Patrol"
+"Improv
+Everywhere en sus inicios, the Hug Patrol"
 
 Les queda abierta la iniciativa para dar mas que recibir en estas fiestas que se acercan.
 

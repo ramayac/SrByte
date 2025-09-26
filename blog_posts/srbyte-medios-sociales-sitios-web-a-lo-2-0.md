@@ -16,7 +16,7 @@ Entre las características de los sitios web considerados como medios sociales o
 
 - Sugerencias (feedback): El sitio web debe permitirle a los usuarios la capacidad de dejar sus sugerencias y opiniones acerca del sitio para sus respectivas mejoras. Como por ejemplo Google, que hace un par de meses mostró un vinculo en el sitio de [Google Documents](http://docs.google.com) el cual nos permitía, mediante una no tan corta encuesta, dejar nuestras opiniones acerca del servicio y brindar sugerencias de mejoras.
 
-- Participacion: Hoy en día, los sitios web no solamente se encargan de mostrar información, ahora el usuario puede manipular esta información teniendo su propio espacio personal dentro del sitio para editar y agregar nuevo contenido. El ejemplo mas claro es la [wikipedia.](http://www.wikipedia.org/)
+- Participacion: Hoy en día, los sitios web no solamente se encargan de mostrar información, ahora el usuario puede manipular esta información teniendo su propio espacio personal dentro del sitio para editar y agregar nuevo contenido. El ejemplo mas claro es la [wikipedia.](https://www.wikipedia.org/)
 
 - Dinamismo: Gracias a la participación de los usuarios, un sitio web con contenido social no tendrá la misma apariencia ni contenido siempre, este cambiara en tanto que los usuarios dejen su huella dentro del sitio modificándolo y agregando nuevo contenido. Por ejemplo, en [Deviantart](http://www.deviantart.com/) te puedes dar cuenta que agregan una nueva "desviación" aproximadamente cada segundo, por lo que no veras el mismo contenido cada vez que refresques la pagina del sitio.
 
@@ -24,7 +24,8 @@ Entre las características de los sitios web considerados como medios sociales o
 
 No hay duda que los sitios al estilo web 2.0 con contenido social (o medios sociales, como lo quieran llamar) aumentan su productividad y popularidad. Una mejor manera de explicarlo es a través de un vídeo demostrativo (hecho con dibujos a lápiz en piezas de papel!), elaborado por [commoncraft](http://www.commoncraft.com/):
 
-"Commoncraft: Social Media in Plain English"
+"Commoncraft: Social Media in Plain
+English"
 
 Algo mas que deseen aportar sobre el tema?
 

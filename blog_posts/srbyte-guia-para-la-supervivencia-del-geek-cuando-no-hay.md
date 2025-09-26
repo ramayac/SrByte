@@ -8,7 +8,9 @@ post_id: blog-3515952828243908885.post-1267095790229800157
 
 Nota: Se le recomienda al lector que guarde este artículo en su computadora como página HTML, para que pueda hacer uso del mismo sin necesidad de tener internet, ya que para eso es esta guía.
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s320/NoConexion.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s1600-h/NoConexion.jpg)"Imagen que muestra el Firefox o Iceweasel cuando no te puedes conectar a un sitio web específico, a veces porque no tienes internet"
+[![](http://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s320/NoConexion.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s1600-h/NoConexion.jpg)
+"Imagen que muestra el
+Firefox o Iceweasel cuando no te puedes conectar a un sitio web específico, a veces porque no tienes internet"
 
 Tú nunca esperas que pase, te acostumbras al hecho de que, cuando enciendes la máquina y abras el navegador, este cargue tu página de inicio. Asi también con tu cliente de IM[1], esperas ver la lista de tus contactos al momento que lo ejecutas y te logueas a tu cuenta. Muchos (no es mi caso) hasta lo configuran para que cargue automáticamente cuando arrranca el sistema y algunos hasta llegan al punto de dejarle predeterminado el nombre de usuario (correo electrónico) y la clave de acceso!
 
@@ -39,8 +41,10 @@ Que tal si tenias una muy importante tarea que realizar?
 
 Pues, como prevencion, te recomiendo que te descargues la [Wikipedia en DVD.](http://srbyte.blogspot.com/2007/05/wikpedia-en-dvd.html) Te podria ser muy útil. Sino, recuerda que todavia existen las bibliotecas públicas y las bibliotecas universitarias!
 
-[1]IM = Instant Messenger o cliente de mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.
+[1]IM = Instant Messenger o cliente de
+mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.
 
-[2]ISP = Internet Service Provider o proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.
+[2]ISP = Internet Service Provider o
+proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

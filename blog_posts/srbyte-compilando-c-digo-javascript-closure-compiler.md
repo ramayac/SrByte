@@ -12,7 +12,7 @@ El problema es, que aparte de depender de .Net, el ejemplo de compilación de c�
 
 De clic en clic fui encontrando a "viejos conocidos" como el proyecto [Rhino](http://www.mozilla.org/rhino/) de Mozilla, sustituto del motor [SpiderMonkey](http://www.mozilla.org/js/spidermonkey/), ambos motores para interpretar, "compilar" y ejecutar JavaScript. Aun asi, estas soluciones no son completamente multiplataformas, claro, son útiles y funcionales, eso NO lo podemos negar, pero aun así, yo queria algo al estilo Java o Python, y vaya que lo encontre y del mejor autor, la susodicha herramienta de las que les quiero hablar hoy, es el: [Closure Compiler de Google](http://code.google.com/intl/es-AR/closure/).
 
-[![](http://code.google.com/intl/es-AR/closure/images/logo128px.png)](http://code.google.com/intl/es-AR/closure/images/logo128px.png)
+![image](http://code.google.com/intl/es-AR/closure/images/logo128px.png)
 
 ¿Qué es el Closure Compiler? Es un VERDADERO compilador de código JavaScript escrito 100% en Java. Lo más sorprendente es que realmente compila código JavaScript y lo convierte en mejor código JavaScript. Interpreta JavaScript, lo analiza, remueve código muerto, reescribe rutinas y lo que ya esta optimizado lo "minimiza" (remueve espacios en blanco, comentarios, saltos de linea, etc), verifica sintaxis, referencias de variables y tipos, y ademas, avisa de problemas comunes con código JavaScript. Y por si fuera poco, no solo es Software Libre, sino que ademas, existe una extensión de para Firefox, para emplearlo en conjunto con tu código transformado y [Firebug](http://www.srbyte.com/2009/11/javascript-firebug-jsure.html), llamado: [Closure Inspector](http://closure-inspector.googlecode.com/files/closureinspector09.xpi).
 

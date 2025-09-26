@@ -10,13 +10,14 @@ Antes de comenzar, es necesario hacer la aclaración, de que este pequeño artic
 
 Estoy molesto con Ubuntu, hice un upgrade de la distribución, el error fue dejar mi amada Terminal (la Consola) por la (a veces molesta) interfaz de actualización de Ubuntu... en ambas maquinas hice lo mismo (tengo dos computadoras de escritorio, bastante modestas), suponiendo que la primera falló por falta de conectividad (aparentemente así fue, y precisamente falló el paquete [msttcorefonts](http://corefonts.sourceforge.net/)) sin embargo, en la otra maquina quedaron 20 paquetes sin actualizar (incluyendo firefox 3.5). No es que la actualización falle en si misma, porque hice el upgrade al 100%, pero presento fallos, algo que no sucedió con ninguna actualización anterior de Ubuntu, y mucho menos con Debian (Etch).
 
-[![](http://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s320/ubuntu910.jpg)](http://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s1600-h/ubuntu910.jpg)
+[![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s320/ubuntu910.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s1600-h/ubuntu910.jpg)
 
-"¿Será mejor una instalación desde cero?"
+"¿Será mejor una instalación
+desde cero?"
 
 Después de solventar el problema desde la consola (viva apt!), comencé a utilizar el sistema, lo que impacta inmediatamente, es el nuevo tema de GDM, su suavidad y velocidad para responder a la selección de teclado, usuario o entorno gráfico.
 
-[![](http://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s320/xsplash.png)](http://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s1600-h/xsplash.png)
+[![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s320/xsplash.png)](https://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s1600-h/xsplash.png)
 
 "Nuevo GDM..."
 
@@ -40,8 +41,9 @@ El manejo de sesiones entre varios usuarios se siente más fluido y sencillo. Ub
 
 Sin embargo, esta más que claro que Ubuntu 9.10 es solo una versión de transición y estabilización para el Ubuntu 10.4 que dicho de paso, será LTS (Long Time Support), si estas cómodo con Ubuntu 9.04, no veo absolutamente ningún motivo para un apresurado o inmediato upgrade al 9.10. Asi de simple. Y si quieres actualizar, mejor espera un mes o dos, y luego cambia haz tu upgrade.
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s320/6585x1500y1500.jpg)](http://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s1600-h/6585x1500y1500.jpg)
+[![image](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s320/6585x1500y1500.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s1600-h/6585x1500y1500.jpg)
 
-"Los koalas no se reponen de la fiesta, por eso esta buggy el ubuntu :P"
+"Los koalas no se reponen de la fiesta, por eso esta
+buggy el ubuntu :P"
 
 Al menos, esa es mi experiencia personal y la recomendación que puedo hacer con respecto de Karmic Koala. Me quedo con la curiosidad del Ubuntu Netbook Remix, y con la duda de sus impresiones personales. Se esperan comentarios :)Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

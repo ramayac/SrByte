@@ -14,7 +14,7 @@ Leyendo el blog [SwordFish](http://swordfishcode.com/2009/07/firefox-con-el-3033
 > sostiene la tendencia que lleva el navegador de Microsoft desde hace algún
 > tiempo."
 
-[![](http://1.bp.blogspot.com/_ayvorITawE4/SlDQjV9NaiI/AAAAAAAACGA/rPioUAzAXkQ/s320/2009july.gif)](http://1.bp.blogspot.com/_ayvorITawE4/SlDQjV9NaiI/AAAAAAAACGA/rPioUAzAXkQ/s1600-h/2009july.gif)
+[![](https://1.bp.blogspot.com/_ayvorITawE4/SlDQjV9NaiI/AAAAAAAACGA/rPioUAzAXkQ/s320/2009july.gif)](https://1.bp.blogspot.com/_ayvorITawE4/SlDQjV9NaiI/AAAAAAAACGA/rPioUAzAXkQ/s1600-h/2009july.gif)
 
 Y no es de extrañarnos, con [Firefox 3.5](http://www.srbyte.com/2009/06/usar-firefox-35-se-ha-dicho.html), prácticamente se enmendó las pocas deficiencias que tenía la version 3.0 Asi que, para los aun "no conversos", enumero rápidamente 7 razones para usar Firefox 3.5:
 
@@ -24,7 +24,8 @@ Y no es de extrañarnos, con [Firefox 3.5](http://www.srbyte.com/2009/06/usar-fi
 
 Justo como IE ofrece el modo de "Navegación en Privado" (InPrivate Browsing), Mozilla Firefox 3.5 tiene tiene el modo de "Navegación Privada". Una vez que esta modalidad esta activada, el usuario puede visitar cualquier sitio y no quedara NINGUN rastro de la visita a este sitio, eso quiere decir que no quedan: cookies, archivos temporales, información de búsqueda y de formularios.
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s320/firefox-private.jpg)](http://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s1600-h/firefox-private.jpg) Pero mas alla de esa característica, si un usuario quiere eliminar rastros de donde ha estado (y no entro en la modalidad de Navegación Privada) entonces, puede utilizar la característica "Olvidate de este sitio". Esta eliminara toda la información asociada con ese sitio web.
+[![](https://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s320/firefox-private.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s1600-h/firefox-private.jpg)
+Pero mas alla de esa característica, si un usuario quiere eliminar rastros de donde ha estado (y no entro en la modalidad de Navegación Privada) entonces, puede utilizar la característica "Olvidate de este sitio". Esta eliminara toda la información asociada con ese sitio web.
 
 3. Soporte Multimedia: Como Firefox 3.5 soporta la etiqueta HTML 5 de elementos de audio y video, los usuarios pueden ver videos y escuchar música directamente en la pagina web, sin la necesidad de usar un algo externo (Windows Media Player, Totem, Adobe Flash).
 
@@ -32,11 +33,11 @@ El soporte multimedia es una gran mejora, especialmente porque en poco tiempo, e
 
 4. "Awesome Bar:" La aclamada Barra Asombrosa (o barra de direcciones, como todo mundo la conoce) ha sido mejorada en esta versión. Mozilla afino la barra, de manera que si quieres buscar solo tus marcadores escribas "byte *", o si buscas en tus etiquetas "srbyte +", y si, puedes asignar etiquetas a tus marcadores.
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SlDQjpheEWI/AAAAAAAACGI/KamWR3xEocE/s320/awesomebar_filters.jpg)](http://3.bp.blogspot.com/_ayvorITawE4/SlDQjpheEWI/AAAAAAAACGI/KamWR3xEocE/s1600-h/awesomebar_filters.jpg)
+[![](https://3.bp.blogspot.com/_ayvorITawE4/SlDQjpheEWI/AAAAAAAACGI/KamWR3xEocE/s320/awesomebar_filters.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SlDQjpheEWI/AAAAAAAACGI/KamWR3xEocE/s1600-h/awesomebar_filters.jpg)
 
 5. Control de sesión: Si Firefox se cierra inesperadamente, el usuario puede elegir que viñetas "regresar a la vida". Esta característico es especialmente útil, si ustedes son adictos a tener varias viñetas abiertas mientras navegan (al menos yo tengo 15 o más abiertas siempre).
 
-[![](http://2.bp.blogspot.com/_ayvorITawE4/SlDQkEzLJtI/AAAAAAAACGY/lqAO9rJD-fA/s320/smarter_restore.jpg)](http://2.bp.blogspot.com/_ayvorITawE4/SlDQkEzLJtI/AAAAAAAACGY/lqAO9rJD-fA/s1600-h/smarter_restore.jpg)
+[![](https://2.bp.blogspot.com/_ayvorITawE4/SlDQkEzLJtI/AAAAAAAACGY/lqAO9rJD-fA/s320/smarter_restore.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/SlDQkEzLJtI/AAAAAAAACGY/lqAO9rJD-fA/s1600-h/smarter_restore.jpg)
 
 6. URL en código fuente: Un compañero de trabajo se percato que cuando estas viendo el código fuente de una pagina web, los archivos .js y .css son resaltados como vínculos URL, una característico que existe en Google Chrome, y que permite a los curiosos, obtener archivos CSS o librerías de JavaScript especificas para la pagina de manera más veloz.
 

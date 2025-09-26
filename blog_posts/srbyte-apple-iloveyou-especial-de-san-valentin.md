@@ -12,7 +12,10 @@ Revolucionando el software con NeXTSTEP un sistema operativo orientado a objetos
 
 Mejorando nuevamente el mercado de las computadoras personales con la iMac:
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s400/SteveiMac.jpg)](http://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s1600-h/SteveiMac.jpg) Entreteniendo nuestra vida con el ya famoso iPod (mejor que el Zune, pero sumamente restrictivo): [![](http://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s200/ipodu2.JPG)](http://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s1600-h/ipodu2.JPG)Y continuando con su revolución, Apple se supera así mismo una vez mas, con el lanzamiento de un nuevo invento... el [iPhone:](http://www.apple.com/iphone/)
+[![](http://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s400/SteveiMac.jpg)](http://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s1600-h/SteveiMac.jpg)
+Entreteniendo nuestra vida con el ya famoso iPod (mejor que el Zune, pero sumamente restrictivo):
+[![](http://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s200/ipodu2.JPG)](http://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s1600-h/ipodu2.JPG) Y continuando con
+su revolución, Apple se supera así mismo una vez mas, con el lanzamiento de un nuevo invento... el [iPhone:](http://www.apple.com/iphone/)
 
 [![](http://bp3.blogger.com/_ayvorITawE4/RdOTiqSA94I/AAAAAAAAAGM/YOhh_id6O5M/s400/indexhero20070109.jpg)](http://bp3.blogger.com/_ayvorITawE4/RdOTiqSA94I/AAAAAAAAAGM/YOhh_id6O5M/s1600-h/indexhero20070109.jpg)
 
@@ -34,4 +37,6 @@ Lo que si me pareció tremendamente estúpido el comentario de Steve Ballmer, CE
 Parece que Ballmer esta en un terrible "estado de negación Zen". El problema de Microsoft en general es simple: Microsfot "no tienen gusto", no tienen ideas originales y no hacen nada por que sus productos tengan un nivel alto de calidad y cultural. Asi como Microsoft trata de competir con el Zune (un reproductor que solo se puede describir como un iPod tullido y feo), con Windows Vista (un OS X para PC) estoy seguro que no tardaran en sacar un "zPhone", aunque Ballmer se ría. Como decía mi bisabuelo:
 > "No es
 > caro cuando hay calidad."
-Apple iLoveyou!, espero que todos tengan un feliz día de la amistad. [![](http://bp3.blogger.com/_ayvorITawE4/RdRyNaSA98I/AAAAAAAAAG8/UhMnj-p_Ofs/s320/valentine_katamari.png)](http://bp3.blogger.com/_ayvorITawE4/RdRyNaSA98I/AAAAAAAAAG8/UhMnj-p_Ofs/s1600-h/valentine_katamari.png)Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Apple iLoveyou!, espero que todos tengan un feliz día de la amistad.
+[![](http://bp3.blogger.com/_ayvorITawE4/RdRyNaSA98I/AAAAAAAAAG8/UhMnj-p_Ofs/s320/valentine_katamari.png)](http://bp3.blogger.com/_ayvorITawE4/RdRyNaSA98I/AAAAAAAAAG8/UhMnj-p_Ofs/s1600-h/valentine_katamari.png) Copyleft Rodrigo S. Amaya C. y el staff del Sr.
+Byte

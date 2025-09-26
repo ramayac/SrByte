@@ -6,7 +6,9 @@ tags: premios, c++, gcc, lenguaje, codigo, programacion, matematica
 post_id: blog-3515952828243908885.post-7492151323197734901
 ---
 
-[![](http://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s400/Bitwise+2009.png)](http://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s1600-h/Bitwise+2009.png)"Logo del Bitwise, concurso online de programacion"
+[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s400/Bitwise+2009.png)](https://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s1600-h/Bitwise+2009.png)
+"Logo del Bitwise, concurso
+online de programacion"
 
 Cada año desde el 2001, el instituto de ciencia y tecnología de Kharagpur en la India, organiza un concurso online de programación abierto para todo el mundo de forma gratuita. Acá tendras que demostrar tus habilidades desarrollando soluciones a una serie de algoritmos matemáticos en un lapso de 12 horas, ya sea que participes solo o como un equipo.
 

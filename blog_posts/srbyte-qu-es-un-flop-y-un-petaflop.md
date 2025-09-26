@@ -17,20 +17,27 @@ Bien, sabemos que un flop es una medida de rendimiento, y "peta" significa 10^15
 
 Lo importante de conocer este tipo de medidas, es que nos ayuda a tener un indicador del progreso de la capacidad de procesamiento en las ciencias computacionales. De manera que ahora, las supercomputadoras que logran romper la barrera de velocidad del petaflop, se encargaran de llevarnos a nuevos reinos de profundidad conocimiento y cambios muy profundos en la ciencia. Recientemente (lunes 17) un par de computadoras de IBM y Cray lograron romper la barrera que mencione, llegando a velocidades exorbitantes de 1.105 y 1.059 petaflops.
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SSjGAZ83LFI/AAAAAAAABbI/5v-ORO_XQ4g/s320/800px-Protein_folding.png)](http://3.bp.blogspot.com/_ayvorITawE4/SSjGAZ83LFI/AAAAAAAABbI/5v-ORO_XQ4g/s1600-h/800px-Protein_folding.png)"Plegamiento de Proteínas"
+[![](https://3.bp.blogspot.com/_ayvorITawE4/SSjGAZ83LFI/AAAAAAAABbI/5v-ORO_XQ4g/s320/800px-Protein_folding.png)](https://3.bp.blogspot.com/_ayvorITawE4/SSjGAZ83LFI/AAAAAAAABbI/5v-ORO_XQ4g/s1600-h/800px-Protein_folding.png)
+"Plegamiento de
+Proteínas"
 
-"Si, si, que bueno que sean rápidas" - dirían algunos, pero esto no se trata solo de velocidad, se trata de una capacidad de computo que permite:
+"Si, si, que bueno que
+sean rápidas" - dirían algunos, pero esto no se trata solo de velocidad, se trata de una capacidad de computo que permite:
 
 - Simulaciones de fenómenos naturales altamente precisas (huracanes, terremotos, maremotos, impactos de asteroides)
 - Desdoblamiento de cadenas de ADN
 - [Plegamiento de proteínas](http://es.wikipedia.org/wiki/Plegamiento_de_prote%C3%ADnas)
 - Simulación de explosiones nucleares
 - etc...
-[![](http://4.bp.blogspot.com/_ayvorITawE4/SSjGAgr7o5I/AAAAAAAABbQ/QuU41fMu2jA/s320/modsim_2.gif)](http://4.bp.blogspot.com/_ayvorITawE4/SSjGAgr7o5I/AAAAAAAABbQ/QuU41fMu2jA/s1600-h/modsim_2.gif)"Simulación de fenómenos naturales: Huracanes"
+[![](https://4.bp.blogspot.com/_ayvorITawE4/SSjGAgr7o5I/AAAAAAAABbQ/QuU41fMu2jA/s320/modsim_2.gif)](https://4.bp.blogspot.com/_ayvorITawE4/SSjGAgr7o5I/AAAAAAAABbQ/QuU41fMu2jA/s1600-h/modsim_2.gif)
+"Simulación de fenómenos
+naturales: Huracanes"
 
 Basta con leer las especificaciones de una de las supercomputadoras de las que les estoy hablando, la Oak Ridge's Jaguar: con 182,000 procesadores AMD quad-core Opterons de 2.3 gigahertz y 362 terabytes de memoria RAM (eso es 362,000 GB de memoria RAM). Es necesario aclarar que la Jaguar esta formada por una agrupación de varias computadoras con recursos compartidos, que ejecuta un "sabor" de Unix llamado: [UNICOS/lc](http://en.wikipedia.org/wiki/UNICOS).
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s320/jaguar1.jpg)](http://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s1600-h/jaguar1.jpg)"Oak Ridge's Jaguar"
+[![](https://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s320/jaguar1.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s1600-h/jaguar1.jpg)
+"Oak Ridge's
+Jaguar"
 
 Así que, al tener computadoras mucho mas potentes, pues los científicos pueden modelar problemas mas complejos y - probablemente - encontrarles solución. Y es mas, algunos científicos creen que el cerebro humano tiene un poder de procesamiento de 10 petaflops... ¿parece que nos estamos acercando no?
 

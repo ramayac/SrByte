@@ -22,14 +22,18 @@ Que este sea el mantra de esta semana:
 > final."
 La manera para asegurarte de que este mantra se cumpla lo máximo posible es utilizando las [Pruebas de Uso](http://en.wikipedia.org/wiki/Usability_testing). En el sentido técnico una Prueba de Uso consiste en realizar una prueba de "caja negra" a tu software. Es decir, observar a las personas que van a usar el producto, REALMENTE usándolo para descubrir errores y ÁREAS de mejora.
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s320/eyetracking_corporate_site_about_us.png)](http://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s1600-h/eyetracking_corporate_site_about_us.png)"Google realiza pruebas de uso, para conocer que áreas de una pagina son las que mas son 'visitadas' por el cursor (esto también es conocido como HeatMap)"
+[![](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s320/eyetracking_corporate_site_about_us.png)](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s1600-h/eyetracking_corporate_site_about_us.png)
+"Google realiza pruebas de
+uso, para conocer que áreas de una pagina son las que mas son 'visitadas' por el cursor (esto también es conocido como HeatMap)"
 
 Suele ser de caja negra, porque no importa lo que hace en el fondo el sistema, sino la forma. Generalmente una prueba de uso, medirá que tan bien responden los usuarios en cuatro áreas: eficiencia, exactitud, recuerdo o familiaridad (recall), y respuesta emocional...
 - Rendimiento -- ¿Cuanto tiempo y cuantos pasos se requieren para que una persona realice una tarea básica? (Ordenar Productos, Buscar, etc).
 - Exactitud -- ¿Cuantos errores realizaron las personas? (Fueron errores fatales, recuperables, etc).
 - Recuerdo-- ¿Que tan bien se recuerda el uso del programa, después de largos periodos de no utilizarlo?
 - Respuesta Emocional -- ¿Como se siente una persona al completar una tarea? ¿Estresada, Confiada, Emocionada?
-[![](http://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s320/usability_testing_absplit.jpg)](http://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s1600-h/usability_testing_absplit.jpg)"Es necesario conocer que piensa el usuario final del software que usara"
+[![](https://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s320/usability_testing_absplit.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s1600-h/usability_testing_absplit.jpg)
+"Es necesario conocer que piensa el usuario
+final del software que usara"
 
 ¿Fácil no? ¿Ves a donde vamos con la implementar de una Prueba de Uso? Con estas pruebas, nos estamos asegurando que:
 
@@ -63,7 +67,8 @@ En el [blog de Robin Good](http://www.masternewmedia.org/es/2007/05/02/pruebas_d
 
 Aquí la clave (resaltada en negritas) es no dejar que prevalezca la opinión del que grita mas, sino la mejor opción, pero para el usuario.
 
-[![](http://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)](http://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s1600-h/steveDontMakeMeThink.jpg) Steve Krug en su libro [Don't Make Me Think!](http://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](http://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
+[![](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s1600-h/steveDontMakeMeThink.jpg)
+Steve Krug en su libro [Don't Make Me Think!](http://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](http://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
 
 Espero, sinceramente, que la próxima vez que estén en un proyecto de software, que se preocupen constantemente, en la opinión del usuario final, final, final (el que realmente usara tu software todos los dias, para hacer su vida mas fácil). Para que de esta forma, realmente estés produciendo software enfocado al uso o a la "usabilidad".
 

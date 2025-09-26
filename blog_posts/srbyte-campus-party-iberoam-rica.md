@@ -6,7 +6,9 @@ tags: campus, party, iberoamerica
 post_id: blog-3515952828243908885.post-3337212284997880618
 ---
 
-[![](http://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)](http://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)Como ya habrán leído, en más [de](http://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales) [algún](http://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party? [Citando al sitio oficial](http://iberoamerica.campus-party.org/index.php/elevento.html):
+![](http://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg) Como ya habrán leído, en más [de](http://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales)
+[algún](http://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party?
+[Citando al sitio oficial](http://iberoamerica.campus-party.org/index.php/elevento.html):
 
 > 'Campus Party es
 > reconocida como el mayor evento de tecnología, ocio electrónico y cultura digital en red del
@@ -28,7 +30,8 @@ Los contenidos vienen representados en forma de ponencias magistrales, presentac
 
 Para los interesados de este evento y los curiosos, hay una cuenta en [YouTube](http://es.youtube.com/campusparty) y [Flickr](http://www.flickr.com/photos/campuspartyiberoamerica/), y puedes seguir los últimos detalles del evento en su Twitter ([@cpiberoamerica](http://twitter.com/cpiberoamerica)). Les dejo un vídeo donde se explica qué es Campus Party y qué ediciones se han celebrado durante el año 2008 (México, Colombia, El Salvador):
 
-"Video: Campus Party Iberoamérica"
+"Video: Campus Party
+Iberoamérica"
 
 También les comparto la agenda del evento:
 
@@ -38,27 +41,27 @@ Infraestructura:
 
 ![Campus Party iberoamerica el salvador](http://farm4.static.flickr.com/3151/2974981351_bd9bf9500e.jpg)
 
-![](http://farm4.static.flickr.com/3055/2974689373_d744f5d548.jpg)
+![image](http://farm4.static.flickr.com/3055/2974689373_d744f5d548.jpg)
 
-![](http://farm4.static.flickr.com/3241/2970803476_c7946fb974.jpg)
+![image](http://farm4.static.flickr.com/3241/2970803476_c7946fb974.jpg)
 
-![](http://farm4.static.flickr.com/3051/2972248491_a3a9c21733.jpg)
+![image](http://farm4.static.flickr.com/3051/2972248491_a3a9c21733.jpg)
 
-![](http://farm4.static.flickr.com/3158/2970794934_5f1152fd68.jpg)
+![image](http://farm4.static.flickr.com/3158/2970794934_5f1152fd68.jpg)
 
-![](http://farm4.static.flickr.com/3014/2972847980_713b2548f4.jpg)
+![image](http://farm4.static.flickr.com/3014/2972847980_713b2548f4.jpg)
 
 Las Tienditas para dormir:
 
-![](http://farm4.static.flickr.com/3063/2975556828_25550995b2.jpg)
+![image](http://farm4.static.flickr.com/3063/2975556828_25550995b2.jpg)
 
-![](http://farm4.static.flickr.com/3215/2974694227_5dd62e8c23.jpg)
+![image](http://farm4.static.flickr.com/3215/2974694227_5dd62e8c23.jpg)
 
 ![Campus Party iberoamerica el salvador](http://farm4.static.flickr.com/3203/2975546854_efa065cffe.jpg)
 
 El lugar:
 
-![](http://farm4.static.flickr.com/3234/2975541818_c9466134e3.jpg)
+![image](http://farm4.static.flickr.com/3234/2975541818_c9466134e3.jpg)
 
 ![Campus Party iberoamerica el salvador](http://farm4.static.flickr.com/3224/2975581566_d6d939d5f5.jpg)
 

@@ -10,7 +10,9 @@ No es solo una persona que a pesar de su terrible condición, nos inspira y hace
 
 En la navidad de 1962 Hawking había notado que se había vuelto más torpe (con sus habilidades motoras) durante su último año en Oxford y a principios de 1963, pasó dos semanas haciéndose pruebas en el hospital y le diagnosticaron una enfermedad neuronal motora deformativa (Enfermedad de Lou Gehrig).
 
-[![](http://bp1.blogger.com/_ayvorITawE4/Rjfx9UK33oI/AAAAAAAAAUo/jp3m8wCqYCk/s400/hawking.jpg)](http://bp1.blogger.com/_ayvorITawE4/Rjfx9UK33oI/AAAAAAAAAUo/jp3m8wCqYCk/s1600-h/hawking.jpg)"Stephen Hawking"
+[![](http://bp1.blogger.com/_ayvorITawE4/Rjfx9UK33oI/AAAAAAAAAUo/jp3m8wCqYCk/s400/hawking.jpg)](http://bp1.blogger.com/_ayvorITawE4/Rjfx9UK33oI/AAAAAAAAAUo/jp3m8wCqYCk/s1600-h/hawking.jpg)
+"Stephen
+Hawking"
 
 Su estado se deterioró rápidamente y los médicos le pronosticaron que no viviría lo suficiente para acabar su doctorado en física cuántica y relatividad. Sin embargo, Hawking escribió:
 
@@ -28,6 +30,8 @@ Su sueño consistía en sentir la ingravidez del espacio, sentirse libre de su s
 
 Tanta fue la emoción del viaje que Sir Hawking hasta se tomo una fotografía con una manzana, un simbolismo Newtoniano...
 
-[![](http://bp3.blogger.com/_ayvorITawE4/Rjfz_0K33pI/AAAAAAAAAUw/RDLRmb4QSTU/s400/hawking-zero-g.jpg)](http://bp3.blogger.com/_ayvorITawE4/Rjfz_0K33pI/AAAAAAAAAUw/RDLRmb4QSTU/s1600-h/hawking-zero-g.jpg)"Stephen Hawking con su manzana"
+[![](http://bp3.blogger.com/_ayvorITawE4/Rjfz_0K33pI/AAAAAAAAAUw/RDLRmb4QSTU/s400/hawking-zero-g.jpg)](http://bp3.blogger.com/_ayvorITawE4/Rjfz_0K33pI/AAAAAAAAAUw/RDLRmb4QSTU/s1600-h/hawking-zero-g.jpg)
+"Stephen Hawking con su
+manzana"
 
 Sigue, Stephen, con tus teorías sobre el espacio y física cuántica, formulando principios para la creación de agujeros negros y leyes gravitacionales. Pero sobre todas las cosas sigue soñando, así vences la gravedad que te ata a tu silla de ruedas y nos regalas una historia de inspiración para alojar en nuestros corazones.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

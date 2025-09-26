@@ -8,7 +8,9 @@ post_id: blog-3515952828243908885.post-3548982160569510892
 
 Hace más de una semana, se encontraron en la empresa en la que estoy trabajando, con un problema de seguridad bastante particular. La solución (una de cuatro propuestas) que actualmente estoy implementando incluye: clase, con un comportamiento muy especial. Esta clase implementa un patron de diseño de software (de los que muy gustosamente escribiré mañana) llamado: Singleton.
 
-Un Singleton, en poquísimas palabras, es: "Una clase diseñada de tal forma, que solo exista una instancia de esta en memoria."
+Un Singleton, en poquísimas palabras, es:
+"Una clase diseñada de tal forma, que solo exista una instancia de
+esta en memoria."
 
 Eso es "todo". Un Singleton, una vez en memoria, ya no podrá ser instanciado nuevamente hasta que: explícitamente se destruya (ya sea declarando su destrucción, o cerrando la aplicación que lo creo... y/o reiniciando la computadora/servidor, obvio, no es un poltergeist.
 

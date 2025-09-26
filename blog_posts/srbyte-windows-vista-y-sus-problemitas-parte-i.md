@@ -8,7 +8,7 @@ post_id: blog-3515952828243908885.post-7918910236755948437
 
 El nuevo sistema operativo (SO) de Microsoft sin lugar a dudas es algo digno de ver y estudiar detenidamente. Windows Vista es toda una nueva plataforma de: trabajo, entretenimiento, desarrollo y comunicaciones. Este nuevo sistema - tan esperado por algunos - marca una nueva tendencia en los productos de Microsoft. Un nuevo estilo de aplicaciones nos espera con Windows Presentation Foundation, tecnologías unificadas con framework 3.0 y muchas otras "nuevas" tecnologías adicionales que terminan en "Foundation". Pero este sistema no es solo un gran motor de gráficos vectoriales llamativos y colores, sonidos y juegos. Es controversial, confuso e inclusive tonto. Así que antes de comprar Windows Vista, por favor sigue leyendo...
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RcaRLzD_iDI/AAAAAAAAADY/DGbt5RDzbwU/s400/quick_vista.gif)](http://bp2.blogger.com/_ayvorITawE4/RcaRLzD_iDI/AAAAAAAAADY/DGbt5RDzbwU/s1600-h/quick_vista.gif)Confuso:
+[![](http://bp2.blogger.com/_ayvorITawE4/RcaRLzD_iDI/AAAAAAAAADY/DGbt5RDzbwU/s400/quick_vista.gif)](http://bp2.blogger.com/_ayvorITawE4/RcaRLzD_iDI/AAAAAAAAADY/DGbt5RDzbwU/s1600-h/quick_vista.gif) Confuso:
 
 Recuerdo perfectamente que uno de los eslogan de Microsoft para Vista era:
 > "Windows Vista, trayendo

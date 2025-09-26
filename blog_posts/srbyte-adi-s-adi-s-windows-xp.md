@@ -10,19 +10,28 @@ Este día, Junio 30, es el día que Microsoft comienza la fase de retirada de Wi
 
 La partida de Billy G. (Bill Gates) marca un pivote en la historia de esa compañía, de ahora en adelante nos referiremos a este punto como la era "Post Gates", y a Microsoft Corporation, podríamos llamarlo: "Microsoft 2.0" (si, si, [como el libro](http://www.amazon.com/Microsoft-2-0-Plans-Relevant-Post-Gates/dp/0470191384)).
 
-[![](http://bp0.blogger.com/_ayvorITawE4/SGj-uvOghgI/AAAAAAAAAyQ/Zd7zQDfUkv0/s400/msft20.jpg)](http://bp0.blogger.com/_ayvorITawE4/SGj-uvOghgI/AAAAAAAAAyQ/Zd7zQDfUkv0/s1600-h/msft20.jpg)"Imagen: Microsoft comienza una nueva era..."
+[![](http://bp0.blogger.com/_ayvorITawE4/SGj-uvOghgI/AAAAAAAAAyQ/Zd7zQDfUkv0/s400/msft20.jpg)](http://bp0.blogger.com/_ayvorITawE4/SGj-uvOghgI/AAAAAAAAAyQ/Zd7zQDfUkv0/s1600-h/msft20.jpg)
+"Imagen: Microsoft comienza
+una nueva era..."
 
 Por una parte, me da tristeza que retiren XP del mercado, no porque me guste, sino porque poco a poco la mayoría de usuarios, tendrán que usar Vista (o lo que venga), un sistema operativo que ni siquiera tiene una GUI bien unificada.
 
 NO, la GUI de Vista NO ESTA UNIFICADA, ¿no me creen?, aquí hay algunos ejemplos:
 
-[![](http://bp0.blogger.com/_ayvorITawE4/SGj-tvOghdI/AAAAAAAAAx4/TDAAycfOyjU/s400/menucrap.jpg)](http://bp0.blogger.com/_ayvorITawE4/SGj-tvOghdI/AAAAAAAAAx4/TDAAycfOyjU/s1600-h/menucrap.jpg)"Imagen: ¡No hay menú para acceder a los contactos, ni a las descargas!"
+[![](http://bp0.blogger.com/_ayvorITawE4/SGj-tvOghdI/AAAAAAAAAx4/TDAAycfOyjU/s400/menucrap.jpg)](http://bp0.blogger.com/_ayvorITawE4/SGj-tvOghdI/AAAAAAAAAx4/TDAAycfOyjU/s1600-h/menucrap.jpg)
+"Imagen: ¡No hay menú para
+acceder a los contactos, ni a las descargas!"
 
-[![](http://bp1.blogger.com/_ayvorITawE4/SGj-t_OgheI/AAAAAAAAAyA/K-FinzZjGrM/s400/nohayvistapreviaAERO.jpg)](http://bp1.blogger.com/_ayvorITawE4/SGj-t_OgheI/AAAAAAAAAyA/K-FinzZjGrM/s1600-h/nohayvistapreviaAERO.jpg)"Imagen: No hay vista previa del tema AERO"
+[![](http://bp1.blogger.com/_ayvorITawE4/SGj-t_OgheI/AAAAAAAAAyA/K-FinzZjGrM/s400/nohayvistapreviaAERO.jpg)](http://bp1.blogger.com/_ayvorITawE4/SGj-t_OgheI/AAAAAAAAAyA/K-FinzZjGrM/s1600-h/nohayvistapreviaAERO.jpg)
+"Imagen: No hay vista previa
+del tema AERO"
 
-[![](http://bp3.blogger.com/_ayvorITawE4/SGj-ufOghfI/AAAAAAAAAyI/dNbl96M1SDM/s400/agregarfuentes.jpg)](http://bp3.blogger.com/_ayvorITawE4/SGj-ufOghfI/AAAAAAAAAyI/dNbl96M1SDM/s1600-h/agregarfuentes.jpg)"Imagen: Este es el SUPER moderno cuadro de dialogo para agregar fuentes al sistema,¿ notan los iconos tipo windows 95 y la disposición moderna y nada confusa de la dichosa ventana?"
+[![](http://bp3.blogger.com/_ayvorITawE4/SGj-ufOghfI/AAAAAAAAAyI/dNbl96M1SDM/s400/agregarfuentes.jpg)](http://bp3.blogger.com/_ayvorITawE4/SGj-ufOghfI/AAAAAAAAAyI/dNbl96M1SDM/s1600-h/agregarfuentes.jpg)
+"Imagen: Este es el SUPER
+moderno cuadro de dialogo para agregar fuentes al sistema,¿ notan los iconos tipo windows 95 y la disposición moderna y nada confusa de la dichosa ventana?"
 
-Y pueden ver mas inconsistencias (y agregar las suyas) aquí: [http://www.istartedsomething.com/taskforce/](http://www.istartedsomething.com/taskforce/)
+Y pueden ver mas inconsistencias (y agregar las suyas) aquí:
+[http://www.istartedsomething.com/taskforce/](http://www.istartedsomething.com/taskforce/)
 > style="font-size:130%;"> href="http://www.istartedsomething.com/taskforce/">http://www.istartedsomething.com/taskforce/
 ... son un poco más de 800 inconsistencias de diseño de interfaz en todo el sistema, sin contar otro tipo de errores y particularidades. ¿Y por esto la gente paga más de $120 USD?
 

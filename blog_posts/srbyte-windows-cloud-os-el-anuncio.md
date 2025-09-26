@@ -8,7 +8,9 @@ post_id: blog-3515952828243908885.post-2757394948983613142
 
 El Anuncio de Steve Ballmer (hace algunos días) de un nuevo sistema operativo de Microsoft, que hace un extensivo de [Cloud Computing](http://www.srbyte.com/2008/08/qu-es-cloud-computing.html), no deja de parecerme... extraño, bizarro... irreal.
 
-[![](http://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s320/4BFAx1500y1500.jpg)](http://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s1600-h/4BFAx1500y1500.jpg)"Windows Cloud... conveniente la imagen ¿verdad? :)"
+[![](https://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s320/4BFAx1500y1500.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s1600-h/4BFAx1500y1500.jpg)
+"Windows Cloud...
+conveniente la imagen ¿verdad? :)"
 
 [Steve Ballmer dijo lo siguiente](http://www.theregister.co.uk/2008/10/01/steve_ballmer_windows_cloud/) en una entrevista :
 
@@ -35,7 +37,9 @@ Esencialmente (como ya dije), seria un sistema que utilizara servicios y product
 > tiempo!
 Todos sabemos que Microsoft es grande y lento, y que el desarrollo de software es un largo proceso y, todo esto es muy ambicioso, lo que complica más las cosas. ¿Por qué es ambicioso? Windows Cloud es un arma de negocios, y con ella veremos si Microsoft es realmente capaz de competir contra Google o no. No sería una sorpresa, que esas cuatro semanas que Ballmer promete se convertirán en meses. Pero ya veremos que sucede...
 
-[![](http://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s320/steve-ballmer.jpg)](http://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s1600-h/steve-ballmer.jpg)"Steve Ballmer... ¿Explicando Cloud Computing?"
+[![](https://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s320/steve-ballmer.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s1600-h/steve-ballmer.jpg)
+"Steve Ballmer...
+¿Explicando Cloud Computing?"
 
 Para mí es simplemente Ballmer que desboca y promete mostrar proyectos que ni siquiera tienen nombres oficiales aún. O puede ser que Ballmer: simplemente no pudo expresar que tendrá un borrador de borrador de borrador de Windows Cloud para la fecha prometido... dándole a Google suficiente tiempo para contra-atacar (si es que necesita tiempo), en todo caso sabremos más a finales de este mes...
 

@@ -10,7 +10,8 @@ La idea de integrar Pidgin y Twitter, es algo en lo que he pensado mucho las ult
 
 Dicho proyecto se llama: [Microblog-Purple](http://code.google.com/p/microblog-purple/). La idea del proyecto es dotar a las librerías de Pidgin el soporte para integrarse con Twitter. Con el complemento instalado y activado, el usuario puede agregar una cuenta de tipo Twitter a Pidgin e inmediatamente Twitter aparece como un nuevo contacto más con quien se puede "chatear":
 
-[![](http://1.bp.blogspot.com/_ayvorITawE4/SRhHVLoWD3I/AAAAAAAABaI/P2zJJ6bh4uc/s320/pidgintwitt.png)](http://1.bp.blogspot.com/_ayvorITawE4/SRhHVLoWD3I/AAAAAAAABaI/P2zJJ6bh4uc/s1600-h/pidgintwitt.png) Además de estar disponible el instalador para Windows y el código fuente para compilarlo uno mismo, existe un repositorio para instalarlo fácilmente en Ubuntu Hardy e Intrepid.
+[![](https://1.bp.blogspot.com/_ayvorITawE4/SRhHVLoWD3I/AAAAAAAABaI/P2zJJ6bh4uc/s320/pidgintwitt.png)](https://1.bp.blogspot.com/_ayvorITawE4/SRhHVLoWD3I/AAAAAAAABaI/P2zJJ6bh4uc/s1600-h/pidgintwitt.png)
+Además de estar disponible el instalador para Windows y el código fuente para compilarlo uno mismo, existe un repositorio para instalarlo fácilmente en Ubuntu Hardy e Intrepid.
 
 - Para instalarlo en Ubuntu sigue las instrucciones explicadas [aquí](http://www.genbeta.com/2008/11/10-microblog-purple-twitter-integrado-en-pidgin).
 - Para descargar Microblog-Purple para [Windows, click aquí](http://code.google.com/p/microblog-purple/).

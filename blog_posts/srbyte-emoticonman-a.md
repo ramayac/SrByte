@@ -6,7 +6,9 @@ tags: bad, smiley, messenger, emoticon, ascii
 post_id: blog-3515952828243908885.post-7715256210374718247
 ---
 
-[![](http://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s320/smiley.jpg)](http://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s1600-h/smiley.jpg)"Ejemplo de un Emoticon en 3D"
+[![](http://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s320/smiley.jpg)](http://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s1600-h/smiley.jpg)
+"Ejemplo de un Emoticon en
+3D"
 
 Un emoticon (también conocido como smiley), como muchos saben, es la representación de una emoción o un estado de ánimo utilizando combinaciones de caracteres de texto o símbolos. Los más populares, creados por [Scott Fahlman](http://en.wikipedia.org/wiki/Scott_Fahlman) en 1982, son :-) y :-( .
 
@@ -18,7 +20,9 @@ Es sorprendente cómo la gente en un principio encontró la manera de expresar e
 o. )88b 888 888 888 `888' 888 . 888 .o 8""888P' d888b `Y8bod8P' .8' "888" `Y8bod8P' .o..P' `Y8P' _ _ _ )) )) __ ___ __ __ __ )L __ __ _ _ o ((_)(( ((_)((_( _))((_)((_)(( o ((_ ((_)((`1( _)) ))
 
 ```
-"Arte ASCII Generado con el [ASCII Generator](http://www.network-science.de/ascii/)" ave fun. Don't forget to bookmark this website :) Actualmente en los foros y los programas de mensajería instantánea estas combinaciones de texto se ven reemplazadas por sus imágenes correspondientes y ya no son sólo imágenes estáticas sino que la gran mayoría utiliza ahora imágenes animadas.
+"Arte ASCII Generado con el [ASCII Generator](http://www.network-science.de/ascii/)
+"
+ave fun. Don't forget to bookmark this website :) Actualmente en los foros y los programas de mensajería instantánea estas combinaciones de texto se ven reemplazadas por sus imágenes correspondientes y ya no son sólo imágenes estáticas sino que la gran mayoría utiliza ahora imágenes animadas.
 
 Lamentablemente esto está tendiendo a exagerar ya que las imágenes cada vez son más grandes, más llamativas y ya no sólo representan emociones sino que la gente las usa para sustituir palabras comunes como "Hola", "bien", "O.K.", "adiós", etc. o hasta simples letras tal vez con el objetivo de darle más originalidad o más colorido a sus conversaciones, pero para algunos esto podría ser molesto.
 

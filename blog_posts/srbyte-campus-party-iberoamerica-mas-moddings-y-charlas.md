@@ -10,8 +10,10 @@ A continuación mostramos un slideshow resumiendo las charlas del día Miércole
 
 Aparte de estas charlas, tuvimos la oportunidad de presenciar un par de Case Moddings. En estos moddings, se utilizaron piezas minimalistas como las utilizadas en laptops pero incrustadas en cubos de material transparente para tomar una apariencia similar a las Mac Mini
 
-"Case Modding - Parte 1"
+"Case Modding - Parte
+1"
 
-"Case Modding - Parte 2"
+"Case Modding - Parte
+2"
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

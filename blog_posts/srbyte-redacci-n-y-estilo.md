@@ -10,9 +10,10 @@ En cualquier escrito es muy importante la buena ortografía, la claridad, la coh
 
 La Real Academia de la Lengua Española define el estilo en la redacción como "Manera de escribir o de hablar peculiar de un escritor u orador". Ampliando el concepto, diremos que estilo es el sello personal que se le imprime a cualquier escrito, obra, acción o circunstancia que emprendemos. Esto hace que todo lo que hagamos nos individualice y caracterice de manera única e irrepetible.
 
-![](http://2.bp.blogspot.com/_JbB9KsZ238w/SZYvPkKv-PI/AAAAAAAAAT0/4-JCGbjyDpc/s320/pluma.bmp)
+![](https://2.bp.blogspot.com/_JbB9KsZ238w/SZYvPkKv-PI/AAAAAAAAAT0/4-JCGbjyDpc/s320/pluma.bmp)
 
-"El estilo es el ropaje del pensamiento; y un pensamiento bien vestido, como un hombre bien vestido, se presenta mejor"-- Conde de Chesterfield.
+"El estilo es el ropaje del pensamiento; y un pensamiento bien
+vestido, como un hombre bien vestido, se presenta mejor"-- Conde de Chesterfield.
 
 Cabe destacar que estilo no es lo mismo que género. El primero tiene que ver más con la estructura; mientras que el segundo hace referencia a la forma y el contenido. Aquí radica la importacia de que el autor tenga muy bien definido su estilo para poder destinguirse y distinguir qué clase de estilo ejerce en un género determinado.
 

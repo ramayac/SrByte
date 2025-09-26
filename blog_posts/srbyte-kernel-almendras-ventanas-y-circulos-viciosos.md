@@ -14,7 +14,9 @@ La tarea del Kernel es ejecutar procesos (Software, aplicaciones, programas, com
 
 Existen una gran variedad de Kernels: Micro Kernel y Mono Kernel y además esta el ExoKernel, el Kernel Híbrido y el Nano Kernel...
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RpJTN1X49XI/AAAAAAAAAYY/KiFx4OD18RE/s400/kernel.jpg)](http://bp3.blogger.com/_ayvorITawE4/RpJTN1X49XI/AAAAAAAAAYY/KiFx4OD18RE/s1600-h/kernel.jpg)"Macro (Mono), Micro y Exo Kernel... el concepto"
+[![](http://bp3.blogger.com/_ayvorITawE4/RpJTN1X49XI/AAAAAAAAAYY/KiFx4OD18RE/s400/kernel.jpg)](http://bp3.blogger.com/_ayvorITawE4/RpJTN1X49XI/AAAAAAAAAYY/KiFx4OD18RE/s1600-h/kernel.jpg)
+"Macro (Mono), Micro y Exo
+Kernel... el concepto"
 
 ...el diseño y creación de estos obedece usualmente a la implementación de los "anillos de protección". Estos anillos obedecen a un mecanismo que busca proteger datos y funcionalidad: de fallos y de comportamiento malicioso.
 
@@ -22,11 +24,15 @@ Los dos tipos de Kernel más usados son: Micro Kernel y Mono Kernel... y entre e
 
 La forma mas fácil de imaginar un Kernel es como una almendra...
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RpJHDlX49SI/AAAAAAAAAXw/jB-Si-zZrJE/s400/almendras.jpg)](http://bp2.blogger.com/_ayvorITawE4/RpJHDlX49SI/AAAAAAAAAXw/jB-Si-zZrJE/s1600-h/almendras.jpg)"Kernel en ingles, es el centro comestible de una almendra"
+[![](http://bp2.blogger.com/_ayvorITawE4/RpJHDlX49SI/AAAAAAAAAXw/jB-Si-zZrJE/s400/almendras.jpg)](http://bp2.blogger.com/_ayvorITawE4/RpJHDlX49SI/AAAAAAAAAXw/jB-Si-zZrJE/s1600-h/almendras.jpg)
+"Kernel en ingles, es el
+centro comestible de una almendra"
 
 Hay que mencionar, que Microsoft decidió omitir esta regla de "anillos de protección" desde Windows 3.x hasta Windows 98. ¿Por qué?... bueno, la comunicación entre los anillos de protección requiere MUCHOS ciclos de procesamiento. Y con Windows siendo un sistema operativo elementalmente visual, Microsoft no tenia mas remedio que ELIMINAR los anillos de protección para mejorar el rendimiento general del sistema. Claro, esto llevo a problemas terribles muy bien conocidos en todos los Windows de la serie 3.x y 9x, como la famosa BSOD (Pantalla Azul).
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RpJHJFX49TI/AAAAAAAAAX4/2C2NNCbJ57Q/s400/kernelwin98.jpg)](http://bp0.blogger.com/_ayvorITawE4/RpJHJFX49TI/AAAAAAAAAX4/2C2NNCbJ57Q/s1600-h/kernelwin98.jpg)"Así se vería el Kernel de Windows 98 después de una BSOD"
+[![](http://bp0.blogger.com/_ayvorITawE4/RpJHJFX49TI/AAAAAAAAAX4/2C2NNCbJ57Q/s400/kernelwin98.jpg)](http://bp0.blogger.com/_ayvorITawE4/RpJHJFX49TI/AAAAAAAAAX4/2C2NNCbJ57Q/s1600-h/kernelwin98.jpg)
+"Así se vería el Kernel de
+Windows 98 después de una BSOD"
 
 Ahora la serie de sistemas Windows XP/Vista eliminan (enormemente) este problema implementando en su Kernel los una vez desplazados anillos de protección... que se asemejan mucho con las capas de una cebolla... pero basta de hablar de comida.
 
@@ -38,15 +44,21 @@ Compilar el Kernel en un sistema, no se trata de una tarea exclusiva para "geeks
 
 Pues para este circulo vicioso, existe un método que simplifica MUCHO las cosas, y además, sirve de ejemplo perfecto de la flexibilidad que presenta el Software Libre. Este método consiste en la utilización de una maquina virtual para probar nuestro Kernel, y definitivamente NO consiste en copiar el kernel a la maquina virtual y arrancarla o peor aun, compilar el kernel en una maquina virtual, NO NO NO! Es mucho mejor que eso (y menos tedioso), consiste en arrancar la imagen de un disco duro virtual con un Kernel (el que hemos compilado) EXTERNO a esta maquina virtual.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RpJO_lX49WI/AAAAAAAAAYQ/1BVmDQ3g530/s400/qemu-logo.png)](http://bp2.blogger.com/_ayvorITawE4/RpJO_lX49WI/AAAAAAAAAYQ/1BVmDQ3g530/s1600-h/qemu-logo.png)"Logo de QEmu"
+[![](http://bp2.blogger.com/_ayvorITawE4/RpJO_lX49WI/AAAAAAAAAYQ/1BVmDQ3g530/s400/qemu-logo.png)](http://bp2.blogger.com/_ayvorITawE4/RpJO_lX49WI/AAAAAAAAAYQ/1BVmDQ3g530/s1600-h/qemu-logo.png)
+"Logo de
+QEmu"
 
 Esta fantástica característica parte de [QEMU (QEmu es un emulador de computadoras virtuales)](http://fabrice.bellard.free.fr/qemu/), se llama "Direct Linux Boot":
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RpJLvlX49UI/AAAAAAAAAYA/7fgT_RPSTSM/s400/linuxboot.png)](http://bp2.blogger.com/_ayvorITawE4/RpJLvlX49UI/AAAAAAAAAYA/7fgT_RPSTSM/s1600-h/linuxboot.png)"Captura de pantalla de Qemu Laucher con Direct Linux Boot habilitado"
+[![](http://bp2.blogger.com/_ayvorITawE4/RpJLvlX49UI/AAAAAAAAAYA/7fgT_RPSTSM/s400/linuxboot.png)](http://bp2.blogger.com/_ayvorITawE4/RpJLvlX49UI/AAAAAAAAAYA/7fgT_RPSTSM/s1600-h/linuxboot.png)
+"Captura de pantalla de Qemu
+Laucher con Direct Linux Boot habilitado"
 
 Direct Linux Boot, permite ahorrar tiempo de una manera increíble, al evitar estar re-iniciando la maquina constantemente y evitando el infame "Kernel Panic".
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RpJMRlX49VI/AAAAAAAAAYI/PYIEc1YPXgw/s400/instant%C3%A1nea1.png)](http://bp2.blogger.com/_ayvorITawE4/RpJMRlX49VI/AAAAAAAAAYI/PYIEc1YPXgw/s1600-h/instant%C3%A1nea1.png)"Captura de pantalla de Direct Linux Boot con Kernel EXTERNO 2.6.21rac Click para hacerlo más grande"
+[![](http://bp2.blogger.com/_ayvorITawE4/RpJMRlX49VI/AAAAAAAAAYI/PYIEc1YPXgw/s400/instant%C3%A1nea1.png)](http://bp2.blogger.com/_ayvorITawE4/RpJMRlX49VI/AAAAAAAAAYI/PYIEc1YPXgw/s1600-h/instant%C3%A1nea1.png)
+"Captura de pantalla de
+Direct Linux Boot con Kernel EXTERNO 2.6.21rac Click para hacerlo más grande"
 
 En el transcurso de la semana escribo un tutorial sobre como compilar y probar un Kernel usando QEMU.
 

@@ -10,10 +10,14 @@ Aca les traemos una muestra de las bellezas que tuvimos el honor de conocer dura
 
 Ademas les presentamos otros robots que se hicieron presente en el evento el dia de hoy:
 
-"Robot Movil de Seis Patas"
+"Robot Movil de
+Seis Patas"
 
-"Brazo Mecanico con Multiples Articulaciones Para Funcionar Como un Brazo Humano"
+"Brazo Mecanico con Multiples Articulaciones Para Funcionar
+Como un Brazo Humano"
 
-"Robot Asistente Para el Manejo de Desechos Solidos"
+"Robot Asistente Para el Manejo de Desechos
+Solidos"
 
-"Robot Con Multiples Articulaciones Faciales Simulando los Gestos Humanos del Habla"
+"Robot Con Multiples Articulaciones Faciales Simulando los
+Gestos Humanos del Habla"

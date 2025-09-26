@@ -27,7 +27,9 @@ Se construyen modelos de un sistema porque no se puede comprender un sistema en 
 > Vencerás...
 aplicada al desarrollo de software.
 
-[![](http://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s400/DivideConquer.JPG)](http://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s1600-h/DivideConquer.JPG)"Portada del libro: "Divide y Venceras""
+[![](http://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s400/DivideConquer.JPG)](http://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s1600-h/DivideConquer.JPG)
+"Portada del libro: "Divide
+y Venceras""
 
 Algo importante que se tiene que mencionar es que:
 

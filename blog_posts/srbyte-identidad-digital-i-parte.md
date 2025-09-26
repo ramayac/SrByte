@@ -10,7 +10,8 @@ Recuerdo que hace un par de años, un amigo me comento que hay compañías en Es
 
 Fue tanto el impacto que me causo conocer esa "técnica de selección", que inmediatamente comencé a imaginar una forma de tener mi nombre regado por Internet. Y no es solo por diversión, existe un factor que te da una ventaja competitiva sobre las demás personas que no exponen o publican su trabajo en Internet.
 
-[![](http://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)](http://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s1600-h/contratando2.jpg) "Gana enfoque exponiendo tu trabajo en Internet"
+[![](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s1600-h/contratando2.jpg)
+"Gana enfoque exponiendo tu trabajo en Internet"
 
 Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue siendo eso. Este blog, actúa como carta de presentación y como herramienta de conocimiento personal-técnico, y claro, a más de alguien también le ayuda en algo :)
 
@@ -18,7 +19,9 @@ Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue
 > class="Apple-style-span" style="font-weight: bold;">Identidad
 > Digital...
 
-[![](http://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s320/identidad.png)](http://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s1600-h/identidad.png)"Forma tu identidad digital mediante el contenido que generas"
+[![](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s320/identidad.png)](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s1600-h/identidad.png)
+"Forma tu identidad digital
+mediante el contenido que generas"
 
 En el mundo real tenemos gente que nos reconoce (compañeros universitarios, de escuela o colegio, compañeros de trabajo, familiares, etc), ademas tenemos documentos que nos ayudan a comprobar que somos quien decimos que somos (DUI, Licencia de conducir, Titulo Universitario, etc), pero en el mundo digital, si no se construye la identidad y no generamos contenido, o si nos "ocultamos" en el anonimato de un seudónimo ¿que nos garantiza ser encontrado?...
 
@@ -26,7 +29,9 @@ En el mundo real tenemos gente que nos reconoce (compañeros universitarios, de 
 
 La identidad es una cualidad que se refiere a la existencia, su desarrollo involucra el entrono, la historia y la voluntad. No esta dada, sino que es un potencial, y eso es lo que nos interesa. Estoy seguro que ya pasamos la época, de este cómic:
 
-[![](http://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s320/idog.jpg)](http://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s1600-h/idog.jpg)"En Internet, nadie sabe que eres un perro."
+[![](https://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s320/idog.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s1600-h/idog.jpg)
+"En Internet, nadie
+sabe que eres un perro."
 
 A medida que avance el tiempo, cada vez será mas y más importante poseer una identidad digital que funcione como un reflejo de nuestra realidad. Pero, ¿qué estrategia hay que seguir para tener una buena identidad digital?... Creo que las estrategias para crear, diseñar o mantener una identidad digital se puede clasificar en tres tipos:
 
