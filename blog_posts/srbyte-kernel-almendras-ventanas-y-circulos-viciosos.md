@@ -62,4 +62,4 @@ Direct Linux Boot con Kernel EXTERNO 2.6.21rac Click para hacerlo más grande"
 
 En el transcurso de la semana escribo un tutorial sobre como compilar y probar un Kernel usando QEMU.
 
-Hasta Luego!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Hasta

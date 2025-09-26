@@ -10,4 +10,3 @@ Este vídeo es para todos aquellos que piensan como seria si taladraran la panta
 
 [https://www.youtube.com/v/ffo-o262prA](https://www.youtube.com/v/ffo-o262prA) [https://www.youtube.com/v/ffo-o262prA](https://www.youtube.com/v/ffo-o262prA)
 "Cuanto
-dolor..."Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

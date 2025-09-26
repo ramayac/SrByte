@@ -29,5 +29,3 @@ También les comparto la lista "Editors Picks" de complementos (muy buena):
 [https://addons.mozilla.org/es-ES/firefox/collections/editors_picks](https://addons.mozilla.org/es-ES/firefox/collections/editors_picks)
 > href="https://addons.mozilla.org/es-ES/firefox/collections/editors_picks">https://addons.mozilla.org/es-ES/firefox/collections/editors_picks
 Nuevamente, si alguno de ustedes quiere sugerir otro complemento, NO DUDEN en dejarlo en los comentarios, y con gusto lo agregamos. Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -45,5 +45,3 @@ Pueden encontrar una extensa lista de complementos que se pueden instalar a su F
 
 > href="https://addons.mozilla.org/es-ES/firefox/">https://addons.mozilla.org/es-ES/firefox/
 ¿Y tú, que complementos son los que más utilizas? ¿Cuales son tus favoritos?, ¡dejanos un comentario y mencionalos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

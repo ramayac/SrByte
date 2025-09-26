@@ -42,5 +42,3 @@ Es mas que evidente que nos estamos mudando a la red, lo que nos da
 > acceso a la información)
 y aunque la seguridad y la privacidad son sumamente importantes, es obvio que la decisión de que tipo de información "subir" es siempre la del usuario. Bien dijeron hace unos años... "[Todas las aplicaciones deberían de ser Web y correr en Java](https://srbyte.blogspot.com/2007/04/java-en-todos-lados.html)
 ". Por lo que veo, nos acercamos mas y más a esa idea... nadie abandonara el Desktop... pero la tendencia web agarra cada vez más fuerza y eso NO se puede negar.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

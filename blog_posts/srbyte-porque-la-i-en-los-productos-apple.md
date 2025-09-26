@@ -19,5 +19,3 @@ Desde entonces, la "i" ha sido sinónimo también de la innovación que causan l
 
 "Apple iMac Ad: Steps to Connect to
 Internet"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

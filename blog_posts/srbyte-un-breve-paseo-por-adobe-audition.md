@@ -23,4 +23,4 @@ Esta aplicación es de gran utilidad cuando el usuario necesita mezclar diversos
 
 En la parte inferior, el programa ofrece una visualización más amplia de las aplicaciones, especialmente, los niveles de ecualización de la música y los sonidos con los cuales el usuario se encuentra trabajando.
 
-En resumen, Adobe Audition es un programa que tiene grandes ventajas y recursos que son la maravilla y fascinación de los que gustan de la mezcla musical, la locución y todo lo referente al tratamiento de los audios de una manera profesional y versátil.
+En resumen, Adobe Audition es un programa que tiene grandes ventajas y recursos que son la maravilla y fascinación de los que gustan de la mezcla musical, la locución y todo lo referente al tratamiento de los audios

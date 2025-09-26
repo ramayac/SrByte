@@ -30,5 +30,3 @@ Si estas en un proyecto de software, en el que NO te permiten emplear librerías
 ¿Cuantos de ustedes utilizan tecnologías ORM en su trabajo o en la Universidad para proyectos de software?
 
 Más información sobre ORM en la [Wikipedia](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional).
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

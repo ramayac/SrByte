@@ -31,5 +31,3 @@ De clic en clic fui encontrando a "viejos conocidos" como el proyecto [Rhino](ht
 Espero que esta herramienta les sirva tanto como a mi. Más adelante explico como eliminar las pequeñas "trabas" que da al usarlo desde la consola. Esta es una herramienta que me atrevo a decir que es casi indispensable al trabajar con código JavaScript, lo recomiendo mucho, tanto como JSure, y si tienen que trabar con mucho código de JS, les va a salvar la vida, y ademas les dará una ventaja competitiva en su trabajo.
 
 ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -21,5 +21,3 @@ Behaviour"
 Como me hubiera gustado tener alguna cancion del album "Foolish Behavior" de "Rod Stewart "de fondo musical cuando sucedio eso. Si que hubiera sido oportuno.
 
 Al final, creo que Windows esta resentido de que no lo haya usado en tanto tiempo... ¡Hasta la próxima!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

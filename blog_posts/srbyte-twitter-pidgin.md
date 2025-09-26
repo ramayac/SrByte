@@ -20,4 +20,4 @@ No queda nada más que mencionar, que con este plugin, toda mi mensajería esta 
 
 Y tu ¿Qué usas para twittear?
 
-Vía | [Genbeta](https://www.genbeta.com/2008/11/10-microblog-purple-twitter-integrado-en-pidgin) | [Swordfishcode](https://swordfishcode.com/2008/11/como-usar-twitter-desde-pidgin/#comment-580) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Vía | [Genbeta](https://www.genbeta.com/2008/11/10-microblog-purple-twitter-integrado-en-pidgin) | [Swordfishcode](https://swordfishcode.com/2008/11/como-usar-twitter-desde-pidgin/#comment-580)

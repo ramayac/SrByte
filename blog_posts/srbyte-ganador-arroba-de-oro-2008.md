@@ -10,5 +10,3 @@ post_id: blog-3515952828243908885.post-8903929084574630147
 hemos ganado la [Arroba de Oro 2008](https://www.arrobadeoro.com/certamen/2008/sv/ganadores.aspx) en categoría de Blogs! Muchas gracias a Dios y familia, a nuestros fieles lectores, a los amigos en twitter, a nuestros compañeros de universidad y a todos los que hicieron posible semejante galardón. No queda mas que: invitar a la blogosfera Salvadoreña para inscribirse el otro año y participar, les prometo que no se van a arrepentir.
 
 Nuevamente: ¡muchísimas gracias! Staff Sr. Byte: [Wendy Vanesa](https://twitter.com/wenvane), [Roberto Linares](https://twitter.com/robertux) y [Rodrigo Amaya](https://twitter.com/ramayac).
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

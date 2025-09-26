@@ -17,5 +17,3 @@ En este podcast, tratamos una serie de temas relacionados con la blogósfera, Go
 Pueden escucharlo en [esta URL](https://www.fafamonge.com/2008/09/hablando-del-srbytecom-con-robertux.html), y al parecer, no existe algún vinculo para descarga del archivo de audio.
 
 ¿Y a ti que temas te gustaria escuchar en un podcast?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

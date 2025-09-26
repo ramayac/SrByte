@@ -30,5 +30,3 @@ Más información de [Tron Legacy en IMDB](https://www.imdb.com/title/tt1104001/
 District 9 es brillante desde cualquier perspectiva, tiene una historia llena de riqueza técnica y emocional, con efectos especiales en cada escena, pero cuidadosa y exquisitamente medidos hacen de esta película, sin lugar a dudas, una de las MEJORES películas de ciencia ficción de esta decada. Es una analogía entre la mera violencia y la nobleza parte de nuestra naturaleza. Discriminación, abuso de fuerza, avaricia, amor, difamacion y amistad son solo algunos temas profunamente incrustados en la trama...
 
 Más información de [District 9 en IMDB](https://www.imdb.com/title/tt1136608/). Espero que estas peliculas les gusten, saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

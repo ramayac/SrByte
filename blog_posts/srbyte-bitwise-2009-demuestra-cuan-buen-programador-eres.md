@@ -23,5 +23,3 @@ Pueden acceder al sitio en cuestión desde esta URL:
 [https://www.bitwise.iitkgp.ernet.in/home](https://www.bitwise.iitkgp.ernet.in/home)
 
 La inscripción se cierra mañana 8 de febrero así que aún tienes tiempo para inscribir a tu equipo y hacer gala de tus habilidades como programador.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

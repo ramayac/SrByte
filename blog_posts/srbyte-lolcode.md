@@ -46,5 +46,3 @@ La primera línea es algún tipo de saludo, que da por iniciado el programa. La 
 En su página oficial podrán encontrar más ejemplos de programas sencillos así como también los respectivos compiladores e intérpretes para portarlo a otros lenguajes como por ejemplo Java, .Net y Python.
 
 Y tú programador, te animarías a usar un lenguaje de programación como este?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

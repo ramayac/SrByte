@@ -61,5 +61,3 @@ Que tal un fan videoclip?:
 
 "Asi como este, hay muchos otros homenajes a Twitter, hechos por
 fans"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

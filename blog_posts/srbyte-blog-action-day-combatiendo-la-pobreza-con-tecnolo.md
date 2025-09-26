@@ -33,5 +33,3 @@ Acá también podríamos recomendar a los desarrolladores a formar comunidades y
 
 - Producción sobre consumo. Los latinoamericanos somos característicos por nuestros altos niveles de consumismo, quizá heredados de la cultura anglosajona que tanto influye en nuestras vidas. Debido a esto, no somos muy conocidos por realizar descubrimientos científicos, desarrollar productos o servicios innovadores, generar ideas revolucionarias o realizar algún hallazgo histórico de gran relevancia. Debemos empezar a cambiar esta actitud propia de nuestra cultura de forma que enriquezcamos nuestros conocimientos y al poner estos en practica, enriquezca nuestros logros y al saber administrar estos logros, podamos también enriquecernos económicamente.
 Los invito a procurar que la pobreza en nuestra Latinoamérica deje de ser un estilo de vida y se convierta en una situación con tendencia a la desaparición, mediante el aporte de nuestro conocimiento y nuestras habilidades para mejorar nuestra sociedad.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

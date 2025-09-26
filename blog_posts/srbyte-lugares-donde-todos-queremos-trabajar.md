@@ -75,5 +75,3 @@ El espacio fisico en el que los trabajadores se desenvuelven es uno de los espac
 > ¿Que puedes tu, aprender de estos
 > lugares de trabajo?
 ¡Hasta Luego!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

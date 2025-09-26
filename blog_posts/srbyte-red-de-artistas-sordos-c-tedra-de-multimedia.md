@@ -23,5 +23,3 @@ Sin lugar a dudas, esta es una muestra de como utilizar bien tecnología para: p
 [https://www.d-pan.com/index.html](https://www.d-pan.com/index.html)
 > style="font-size:130%;"> href="https://www.d-pan.com/index.html">https://www.d-pan.com
 ¿Crees que en El Salvador, pudiéramos producir material de esta calidad?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

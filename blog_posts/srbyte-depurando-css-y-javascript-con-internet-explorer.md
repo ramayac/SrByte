@@ -30,5 +30,3 @@ Ya que el add-on antes mencionado no nos permite editar el Javascript del sitio,
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SPLajb3eVXI/AAAAAAAADbk/Pa2u2imRmFA/s400/ms_script_debugger.gif)    
 "Apariencia del editor MS
 Script Debugger"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

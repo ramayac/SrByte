@@ -14,4 +14,4 @@ Noviembre 1908 - Febrero 2008"
 
 Esta señora trabajo toda su vida y seguramente, tanto o más que cualquier hombre, fiel esposa, buena madre, excelente proveedora, disciplinada, dura a veces, la primera mujer en sacar licencia para conducir camiones en El Salvador, fuerte en todo el sentido de la palabra. Terca como ella sola y muy devota de El Sagrado Corazón de Jesús. Un ejemplo perfecto, de que el trabajo duro rinde frutos, frutos que mi familia seguirá cosechando por muchas generaciones. Gracias Señor, por usarla como herramienta para enseñarnos: sobre la fragilidad de la vida, la importancia de la familia, y la devoción hacia tu hijo.
 
-Gracias por todo abuelita, en un par de décadas, espero verte nuevamente. Pero esos asuntos se los dejamos al Señor. Y como bien decías: "Sagrado Corazón de Jesús, en Vos confío".Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Gracias por todo abuelita, en un par de décadas, espero verte nuevamente. Pero esos asuntos se los dejamos

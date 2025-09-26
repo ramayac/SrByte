@@ -49,5 +49,3 @@ La cámara del 5800, ofrece un lente "[Carl Zeiss](https://en.wikipedia.org/wiki
 Finalmente: Agradecer al equipo de [Riot](https://www.riot.com.br/) ([@Valeria](https://twitter.com/ValeriaMoraes) y [@Luciana](https://twitter.com/lureis)), a [@SauloPassos](https://twitter.com/saulopassos) (Social Media Manager de Nokia Latinoamérica), Rodolfo Forster (Ingeniero de Ventas de Nokia Latinoamérica) y el staff que lo acompañaba por tomarnos en cuenta para realizar este review (del que aun debemos dos entregas más).
 
 ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

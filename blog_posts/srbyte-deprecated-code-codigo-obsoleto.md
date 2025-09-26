@@ -35,5 +35,3 @@ En Java la etiqueta @deprecated, marca como obsoleto el código que le sigue, ve
 Y tu, ¿alguna vez has marcado código fuente como obsoleto?
 
 UPDATE: Por una importante sugerencia de Xtecuan, se renombraron todas las incidencias de la palabra "funcion" por "metodos".
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

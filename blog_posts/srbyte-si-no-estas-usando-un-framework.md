@@ -57,4 +57,4 @@ Instruyace, no deje de leer, no se estanque, procure estar a la par (o solo un c
 
 Pero sobre todas las cosas, por favor, si no estas usando un framework.... ya es hora de que comience a usar uno.
 
-¿Y tu, qué frameworks usas? Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+¿Y tu, qué frameworks usas?

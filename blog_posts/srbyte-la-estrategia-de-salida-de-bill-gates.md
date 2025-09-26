@@ -66,5 +66,3 @@ días de rebeldía."
 ¿Y todavía piensan que Bill quiere perder el tiempo suplicándole a la gente por dinero? ¡No lo creo! Y bien, ¿Qué piensan los lectores? ¡el Sr. Byte quiere saber tu opinión!
 
 PD: Este articulo esta inspirado en los comentarios en John C. Dvorak expresados en sus videos de "Cranky Geek" y en su columna de PC Magazine.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

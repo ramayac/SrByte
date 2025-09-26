@@ -41,4 +41,4 @@ La lección:
 
 Programar con la idea de la concurrencia en mente...  no solo cuando haces algo nuevo, sino que también cuando modificas algo existente. Hay que recordar, que en un ambiente con muchos clientes conectados que pueden emplear el mismo método en un determinado instante, puede suceder que treinta hilos corren salvajemente a utilizar un recurso critico, lo que podría resultar en un pequeño infierno de dudas, incertidumbres y defectos extraños, todo porque tu lógica no es "Thread Safe".
 
-¡No se olviden de sincronizar sus hilos! Saludos :)
+¡No se olviden de sincronizar sus hilos!

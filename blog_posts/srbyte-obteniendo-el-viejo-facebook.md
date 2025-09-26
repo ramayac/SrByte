@@ -15,5 +15,3 @@ tienes que agregar para que el 'truco' funcione" Facebook permite a los desarrol
 En fin, para cambiarte al viejo Facebook sigue estos tres sencillos pasos:
 
 1. Agrega la aplicación "Facebook Developers" ([disponible aquí](https://www.facebook.com/apps/application.php?id=2345053339)). 2. Click en "Go to applications" y luego cierra la pagina. 3. Da click a [este vinculo](https://apps.new.facebook.com/?fbnew_opt_out=1). ¡Espero que esto les sirva, Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -16,5 +16,3 @@ El Staff del Sr. Byte, le desea a todos sus lectores una feliz navidad y prosper
 (Sal 85:10).
 
 Les dejo un interesante vinculo de la [vista panoramica (WebCam) de la Plaza de San Pedro en Roma](https://www.vaticanstate.va/ES/Monumentos/webcam/index?cam=webcam1&testo=Panorámica%20de%20Roma).
-
-¡Saludos!

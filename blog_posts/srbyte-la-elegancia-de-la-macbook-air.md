@@ -13,5 +13,3 @@ Esta imagen vale mas que mil post. Como [ya había mencionado antes](https://srb
 pulgadas, lector de tarjetas SD, mouse etc..."
 
 Esta bien, esta bien, yo se que esta orientada a la movilidad máxima de su dueño pero aun así, la idea de tener solo un puerto USB no es nada agradable, especialmente con imágenes como la que les muestro. ¿Todavía quieres una MacBook Air?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

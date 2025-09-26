@@ -15,5 +15,3 @@ Aquí me tienen, a petición del público. Ahora colaborando con mi buen amigo R
 Y lo más importante: ¿Qué voy a postear? Pues espero continuar la tendencia de Rodrigo en lo que respecta a tecnología informática, software libre, desarrollo de software, diseño web, curiosidades y geek stuff. Además de eso, por supuesto, voy a agregar mi toque personal hablando de temas que me interesan mucho como diseño y animación gráfica y 3d, aconteceres de las UES-FMO, cine (las películas que valgan la pena), misterios de la vida, el código fuente de windows, los parciales resueltos de física,la comprensión del comportamiento de las mujeres , y todo lo que ustedes me pidan, jajaja.
 
 P. D. Las últimas cosas que mencioné no creo llegar a cumplirlas debido a su excesiva dificultad, solo quería llamar su atención. Espero que lean y comenten, pero sobre todo: no dejen de visitarnos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

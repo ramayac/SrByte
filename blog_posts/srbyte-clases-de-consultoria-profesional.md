@@ -61,4 +61,4 @@ Clase 9:
 [Descarga como OGG](https://www.archive.org/download/Consultoria-Clase9/Consultoria-Clase9.ogg)
 [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase9/Consultoria-Clase9_64kb.mp3)
 
-Un agradecimiento al Ing. Rodolfo Duque por darnos la autorización de grabar y publicar las clases, con el fin de facilitarnos el estudio de la cátedra de Consultoría Profesional y ojala sirva como un incentivo para que en otras asignaturas hagan lo mismo.
+Un agradecimiento al Ing. Rodolfo Duque por darnos la autorización de grabar y publicar las clases, con el fin de facilitarnos el estudio de la cátedra de Consultoría Profesional y ojala sirva como un incentivo para que en otras

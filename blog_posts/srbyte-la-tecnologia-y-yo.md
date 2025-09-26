@@ -21,5 +21,3 @@ Pero al tratar de mantener su pista y avance acelerado. Me he llenado del tinte 
 Pues bien es tiempo de abstraer mi mente de fronteras ideológicas o dogmas impuestos, y de esos pequeños detalles engorrosos que solo son muestra o de una profunda ignorancia o un manifiesto de algún interés egoísta. Ahora hablare de los detalles que me interesan, pero lo haré sin prejuicios, sin tintes y con todos los puntos sobre la mesa, pero inevitablemente ... hablare de lo que me gusta.
 
 Así que, para comenzar con esta re-invención blogística... esperen el próximo articulo. ;)
-
-Hasta luego.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

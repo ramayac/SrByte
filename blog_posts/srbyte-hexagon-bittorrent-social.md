@@ -34,4 +34,4 @@ Para mi, la evolución de los sitios de BitTorrent la podemos poner en cuatro si
 > invitación general es: href="https://lobby.hexagon.cc/invitations/kLVGYtaQmG">https://lobby.hexagon.cc/invitations/kLVGYtaQmG
 >
 
-Espero que les sirva mucho esta pagina, ya que tiene un gran y prometedor futuro, ¡saludos!
+Espero que les sirva mucho esta pagina, ya que

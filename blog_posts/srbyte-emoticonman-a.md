@@ -33,5 +33,3 @@ He llegado al punto de tardarme en contestarle a una persona debido a que contin
 Por eso considero que la gente deberia moderar (o si fuera posible, suprimir) estos actos en sus conversaciones para ahorrarle molestias al que tendrá la tarea de leer el mensaje posteriormente del otro lado de la red, y que también afectarán el rendimiento de su computadora.
 
 Eso es lo que yo opino al respecto pero desearía conocer lo que piensan ustedes. Qué piensan al respecto de recibir esas grandes y coloridas imágenes animadas en sus conversaciones del instant messenger?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

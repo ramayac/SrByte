@@ -43,5 +43,3 @@ Cisco ve un (nada extraño) crecimiento en el trafico, que probara verdaderament
 1. Implementar IPv6, para soportar más clientes, que los que soporta IPv4. 2. Mejorar la capacidad de los Switchs y Routers. No solo en cantidad de paquetes ruteados/procesados, sino en eficiencia de consumo de energia. 3. Aumentar la capacidad de almacenamiento de los servidores, usando sistemas de archivos de alto rendimiento como: [ZFS](https://es.wikipedia.org/wiki/ZFS_%28sistema_de_archivos%29) ó [XFS](https://es.wikipedia.org/wiki/XFS) (ambos con soporte para volúmenes de hasta 16 exabytes). 4. Aumento de infraestructura que soporte mayor transporte/consumo de ancho de banda en general. A paso firme y continuo se esta llegando al final de la era de Gigabytes y Terabytes, y poco a poco nos movemos a los Exabytes y finalmente al gigantesco [Zettabyte](https://es.wikipedia.org/wiki/Zettabyte). Pero seguramente todos nos estamos preguntando: ¿Que tipo de información se estará produciendo y almacenando?, ¿sera significativa?, ¿sera solo ruido y nada de señal?
 
 ¡Danos tus opiniones!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

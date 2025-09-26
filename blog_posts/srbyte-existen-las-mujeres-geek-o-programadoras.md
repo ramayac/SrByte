@@ -47,5 +47,3 @@ La busqúeda continua...
 
 [1]Me imagino que ya sabrán lo
 que significa el término geek, a groso modo es una persona apasionada por el mundo de la informática o la tecnología, rubro dentro del cual caemos los que nos consideremos programadores, o fanáticos de star treek, star wars, etc.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

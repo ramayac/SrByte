@@ -60,4 +60,4 @@ El problema, como se imaginaran, es la privacidad, así que si tienen complejos 
 
 En fin, FriendFeed es una nueva (bueno, no tan nueva) forma de interactuar con el contenido valorado por los usuarios. Es una alternativa interesante y que permite realizar algunos trucos interesantes de los que hablaremos más adelante.
 
-¿Crees tu que FriendFeed, es el Twitter de este año (2008) ? ¿Y quienes de nuestros lectores usan FriendFeed? Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+¿Crees tu que FriendFeed, es el Twitter de este año (2008) ? ¿Y quienes de nuestros lectores usan FriendFeed?

@@ -24,4 +24,4 @@ Ambos mellizos (PAL y SECAM) utilizan los mimos formatos de escaneo y velocidade
 
 Tanto el sistema PAL como el sistema SECAM mejoraron con creces a su antecesor NTSC. A pesar de esto, todos y cada uno de ellos guardan una estrecha relación en cuanto a sus fundamentos y al perfeccionamiento de esa caja mágica: la televisión.
 
-Fuentes consultadas: Digitalfotored. Fotografía digital e imagen en la red, diseño gráfico y video digital: [https://www.digitalfotored.com/videodigital/pal.htm](https://www.digitalfotored.com/videodigital/pal.htm) Wikipedia. Enciclopedia libre:[https://es.wikipedia.org/wiki/Secam](https://es.wikipedia.org/wiki/Secam) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Fuentes consultadas: Digitalfotored. Fotografía digital e imagen en la red, diseño gráfico y video digital: [https://www.digitalfotored.com/videodigital/pal.htm](https://www.digitalfotored.com/videodigital/pal.htm)

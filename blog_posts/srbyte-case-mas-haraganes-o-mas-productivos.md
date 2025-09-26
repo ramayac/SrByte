@@ -25,5 +25,3 @@ Y que les pareceria programar de esta forma?:
 
 "Entorno de desarrollo en
 tres dimensiones"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

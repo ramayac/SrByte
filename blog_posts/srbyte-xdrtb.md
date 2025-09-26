@@ -23,6 +23,4 @@ Para obtener más información, pueden visitar:
 
 Mañana reanudamos nuestra actividad usual de opiniones sobre tecnología ;) ¡Saludos!
 
-![image](https://ted.streamguys.net/tedprize/badges/story_breaks.gif)    
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+![image](https://ted.streamguys.net/tedprize/badges/story_breaks.gif)

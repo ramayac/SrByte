@@ -41,5 +41,3 @@ Y algo más importante que lo anterior es que:
 > Los mejores modelos están ligados a la
 > "realidad"
 Cualquier sistema informático no trivial se aborda mejor a través de un pequeño conjunto de modelos casi independientes con múltiples puntos de vista para asegurar el éxito del sistema.
-
-Ve la segunda parte [da click aquí.](https://srbyte.blogspot.com/2007/04/modelos-objetos-y-uml-parte-ii.html)

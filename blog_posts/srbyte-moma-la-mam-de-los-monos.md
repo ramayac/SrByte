@@ -102,5 +102,3 @@ Esto ayuda para que los desarrolladores de Mono coloquen especial énfasis en lo
 Una guía mas completa y extensa para corregir problemas de interoperabilidad puede ser hallada [aquí](https://www.mono-project.com/Guide:_Porting_Winforms_Applications).
 
 Hasta Luego!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

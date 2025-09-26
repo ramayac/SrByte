@@ -12,4 +12,4 @@ El blog del Sr. Byte tiene el gusto de dar la bienvenida a Roberto Linares, un n
 "Imagen: Super
 Amigos."
 
-Ahora falta que ver que los demas """Super Amigos""" se apunten para ayudar, ja ja ja. ¡Saludos y bienvenido Roberto!.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Ahora falta que ver que los demas

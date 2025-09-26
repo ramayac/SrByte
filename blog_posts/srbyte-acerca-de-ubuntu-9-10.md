@@ -37,5 +37,3 @@ Vinculos útiles:
 - Consigue soporte personal (para el usuario final) de canonical, por $55 anuales: [www.ubuntu.com/support/services](https://www.ubuntu.com/support/services)
 - Netbooks que soporta Ubuntu: [https://wiki.ubuntu.com/HardwareSupport/Machines/Netbooks](https://wiki.ubuntu.com/HardwareSupport/Machines/Netbooks)
 - Caracteristicas de Karmic Koala: [https://www.ubuntu.com/products/whatisubuntu/910features/](https://www.ubuntu.com/products/whatisubuntu/910features/)
-
-¿Qué esperas para descargarlo?Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

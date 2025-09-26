@@ -51,5 +51,3 @@ Si todo esta bien, Amarok comenzara a obtener la lista de podcast:
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjPgO4zII/AAAAAAAABGM/rsrgkN8Pg2k/s320/amarok.podcastscnetagregado.png)    
 ... y ahora todo lo que tienes que hacer es seleccionar el que desees y darle doble click para escucharlos. Por cierto, no conozco muchos Podcasters Salvadoreños, el único es [fafamonge](https://www.fafamonge.com/category/podcast) (advierto que son podcast de una hora aproximadamente). ¿Saben ustedes de otros podcasters Salvadoreños? y ¿A qué podcasts estas suscrito?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

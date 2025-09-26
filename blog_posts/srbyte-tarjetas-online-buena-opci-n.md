@@ -23,5 +23,3 @@ Así que si aún no has pensado en lo que regalarás para estas festividades, no
 3. [Tarjetas Virtuales](https://www.tarjetasvirtuales.com/)
 
 4. [Tarjetas Nico](https://www.tarjetasnico.com/)
-
-5. [Tarjetas Buba](https://www.tarjetasbubba.com/) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -21,4 +21,4 @@ Sin embargo, dentro de las barras para televisión existen diversas clases. Así
 
 Bendiciones.
 
-Fuentes consultadas: 1. Wikipedia, Enciclopedia Libre: [https://es.wikipedia.org/wiki/Barras_de_color](https://es.wikipedia.org/wiki/Barras_de_color) 2. Técnica de Tv para cámaras: [https://tecnicatv.wordpress.com/2007/07/24/barras-de-color-en-television/](https://tecnicatv.wordpress.com/2007/07/24/barras-de-color-en-television/) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Fuentes consultadas: 1. Wikipedia, Enciclopedia Libre: [https://es.wikipedia.org/wiki/Barras_de_color](https://es.wikipedia.org/wiki/Barras_de_color)

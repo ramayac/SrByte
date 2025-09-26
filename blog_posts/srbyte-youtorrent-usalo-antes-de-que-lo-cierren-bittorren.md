@@ -25,5 +25,3 @@ Insisto, YouTorrent no es un tracker, es un sitio de búsquedas como lo es: Alta
 Muy buen sitio, y muuuuy, pero muuuuy recomendado, úsenlo antes que la CRIA o la RIAA o el FBI o alguien más se encargue de cerrarlo :P
 
 Espero que les sea de utilidad, ¡saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

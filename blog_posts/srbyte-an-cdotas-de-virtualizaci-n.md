@@ -52,5 +52,3 @@ space tools""
 Si la idea es "sacarle" el jugo a los equipos actuales, y mejorar el rendimiento sin incurrir en gastos por la "crisis", entonces hay que hacer conciencia sobre soluciones que usen Software Libre, y ofrecerlo como una opción REALISTA a los problemas informáticos empresariales.
 
 ¿En tu trabajo, usan virtualización?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

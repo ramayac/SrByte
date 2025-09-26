@@ -11,5 +11,3 @@ Teller, del programa "[Penn & Teller](https://es.wikipedia.org/wiki/Penn_y_Telle
 
 "Video: &
 Teller"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

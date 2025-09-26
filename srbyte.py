@@ -137,8 +137,10 @@ def clean_text_to_markdown(text: str) -> str:
     # Remove footer content (Blogalaxia tags and copyleft info)
     # Remove lines with blogalaxia.com links
     text = re.sub(r'\[.*?\]\(http://www\.blogalaxia\.com/tags/.*?\)', '', text)
-    # Remove copyleft/copyright lines
-    text = re.sub(r'Copyleft.*?Sr\. Byte', '', text, flags=re.IGNORECASE | re.DOTALL)
+    # Remove copyleft/copyright lines - improved pattern to catch all variations
+    text = re.sub(r'.*?Copyleft\s+Rodrigo\s+S\.\s+Amaya\s+C\.\s+y\s+el\s+staff\s+del\s+Sr\.\s+Byte.*?$', '', text, flags=re.IGNORECASE | re.MULTILINE)
+    # Also remove any remaining "Copyleft" lines as backup
+    text = re.sub(r'^.*?Copyleft.*?Sr\.\s*Byte.*?$', '', text, flags=re.IGNORECASE | re.MULTILINE)
     
     # Improve paragraph formatting by joining fragmented lines
     lines = text.splitlines()

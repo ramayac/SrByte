@@ -10,4 +10,3 @@ Encontré este divertido vídeo de Ruby on Rails, así que lo pongo aquí para r
 
 [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg)
 "Vídeo Ruby on
-Rails"

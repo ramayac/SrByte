@@ -59,5 +59,3 @@ click para verla más grande."
 un buen programador."
 
 También comparte tus experiencias, a más de alguien le pueden servir :) Y tú, ¿que tipo de experiencias has tenido como desarrollador de software?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

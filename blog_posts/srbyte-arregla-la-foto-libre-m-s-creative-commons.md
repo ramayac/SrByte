@@ -15,4 +15,4 @@ Es la perfecta muestra del poder de las licencias Creative Commons. En vez de to
 
 Comparte, re-usa y mezcla - Legalmente.
 
-Hasta luego! Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Hasta luego!

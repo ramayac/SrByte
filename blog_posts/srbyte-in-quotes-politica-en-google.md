@@ -20,5 +20,3 @@ Lo que yo quisiera ver, fuera una comparación entre las frases de los candidato
 
 "In Quotes" es definitivamente el tipo de
 herramientas que se necesitan para llevar la política a un plano más inmediato y menos polarizado para la población. Visiten este nuevo servicio recién estrenado en Google Labs:[> https://labs.google.com/inquotes/](https://labs.google.com/inquotes/) ¿Qué piensas de las frases de los políticos nacionales?, ¿Crees que te ayudaría a formarte una opinión mas objetiva de los candidatos a la presidencia?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

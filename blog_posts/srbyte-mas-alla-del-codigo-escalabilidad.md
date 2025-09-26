@@ -24,5 +24,3 @@ Lo más común es agregar mas recursos al servidor como mas RAM o un CPU más ra
 Como desarrollador, recomiendo hacer código lo mas genérico posible, no hagas código para solucionar problemas específicos en el momento que estos surgen, haz código que resuelva las necesidades de información actuales y las que podrían aparecer en un futuro y si no fuera capaz de resolverlas, que por lo menos sea lo suficientemente flexible para que se pueda adaptar sin perder mucho tiempo en este proceso. Por supuesto, esto no lo puedes decidir si ya estas en la fase de desarrollo, esto debes hablarlo con los involucrados en el proyecto una vez que este ha nacido, para que se reserve el suficiente tiempo para esta tarea.
 
 Dentro de pocos meses se llevarán a cabo también las elecciones presidenciales. Crees que volveremos a ver otra failwhale en el sitio del TSE y similares?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

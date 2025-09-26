@@ -20,4 +20,4 @@ Este tipo de acuerdos posiblemente vaya mas por la vía comercial, para salvar a
 
 Esperemos que esto ayude a que los estándares de Oracle se vuelvan más abiertos, y a que Sun crezca en sus innovaciones de virtualización quizá apuntándole a un próximo Open Solaris residente en la nube o a mejores soluciones middleware para aplicaciones java.
 
-Qué esperas tú de esta fusión y cómo crees que te afecte si es que trabajas con estas tecnologías?Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Qué esperas tú de esta fusión y cómo crees que

@@ -20,5 +20,3 @@ de la película Juno: Anyone Else But You"
 Comentario Final: La relación de Juno con sus padres es una de las mejores cosas en la película. Al fin veo en una película un par de padres que demuestra un amor genuino al respetar las decisiones que ella toma. Juno no solo es una película ingeniosa, encantadora y divertida, también es muy ilusa y fácil - y afronta un problema frecuente y difícil entre los adolescentes - pero en medio de todo, es una película con final memorable. El cine fue hecho para películas como Juno.
 
 ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

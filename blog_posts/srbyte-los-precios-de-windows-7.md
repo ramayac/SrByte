@@ -23,5 +23,3 @@ Logre vivir durante estos 3 años sin Windows Vista, mi secreto fue comenzar a u
 No tengo nada en contra de el progreso de Microsoft como empresa, a las tecnologías que W7 impondra en el mercado, a las mejoras de GUI, etc, etc, etc... Yo simplemente espero, que la gente abra sus ojos, diga NO a precios RIDÍCULOS y EXAGERADOS, y que tampoco incurran a estrategias bajas (piratería) para conseguir W7.
 
 ¿Y ustedes están dispuestos a pagar más de $100 por un S.O.?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

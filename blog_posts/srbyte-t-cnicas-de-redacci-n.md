@@ -54,5 +54,3 @@ Estos son sólo algunas técnicas que se pueden poner en práctica al momento de
 Espero les sean de utilidad.
 
 Saluditos.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

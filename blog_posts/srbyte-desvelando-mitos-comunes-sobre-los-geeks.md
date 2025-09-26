@@ -38,5 +38,3 @@ Aca les dejo un video algo exagerado de algunos geeks y sus computadoras:
 
 "Cultura
 Geek"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

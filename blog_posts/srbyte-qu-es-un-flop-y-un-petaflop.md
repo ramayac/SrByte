@@ -43,4 +43,4 @@ Así que, al tener computadoras mucho mas potentes, pues los científicos pueden
 
 Para obtener más informacion sobre la Oak Ridge's Jaguar haga click [aquí](https://www.ornl.gov/info/press_releases/get_press_release.cfm?ReleaseNumber=mr20060825-00). Y para ver la lista de las Mejores 500 supercomputadoras de este año, haz click [aquí.](https://www.top500.org/)
 
-¿Crees que algún día se podría simular un cerebro humano con todo y sus emociones? Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+¿Crees que algún día se podría simular un cerebro humano con todo y sus emociones?

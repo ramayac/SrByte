@@ -47,5 +47,3 @@ Pueden visitar el sitio oficial de BumpTop en:
 Y también pueden seguir los avisos de BumpTop en twitter: [@bumptop](https://twitter.com/bumptop)
 > href="https://twitter.com/bumptop">
 ¿Te animarías a usar un escritorio así?, ¿Crees que alguien haga algún proyecto open-source similar?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

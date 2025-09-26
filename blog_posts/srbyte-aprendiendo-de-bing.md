@@ -34,5 +34,3 @@ Para este incomodo problema, esta es la solución mas elegante, lógica y benefi
 > Google tienes que aprender la lección de Bing
 > (Microsoft).
 Ahora, hay que aclarar que esta característica de Bing, es la única que me parece significativa y "digna" de mencionar. Habrá que ver que hace Google al respecto, recuerden, es una guerra de buscadores, y nosotros somos el premio.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

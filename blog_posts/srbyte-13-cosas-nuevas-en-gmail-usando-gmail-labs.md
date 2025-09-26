@@ -77,5 +77,3 @@ Por cierto, si llegase a suceder que en algún momento alguno de estos proyectos
 Para deshabilitar "Gmail Labs" sigue los siguientes pasos:
 
 1. Intenta ingresar a tu cuenta de Gmail. 2. No te desesperes... 3. Respira... 4. Recuerda este post... :) 5. Copia en la barra de direcciones la siguiente URL > https://mail.google.com/mail/?labs=0 Y bien queridos lectores: ¿Cuales extensiones habilitaron?, ¿O cuales quisieran que Gmail tuviera?, Esperamos tus comentarios... y prometemos contestarlos ;)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

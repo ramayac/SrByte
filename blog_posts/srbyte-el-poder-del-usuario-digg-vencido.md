@@ -53,5 +53,3 @@ dígitos"
 Nombres de dominio, noticias falsas con el contenido de la noticia verdadera, anuncios, etc, etc, etc... ¿Y si hay demanda contra Digg? Quizá alguien recuerde la polémica y decida ayudar a costear la ayuda legal (o quizás no) Eso si, esto ha dejado en claro quien manda...
 > Digg.com bienvenido a la
 > realidad de [la web > 2.0](https://srbyte.blogspot.com/2007/04/web-20-qu-es.html).
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

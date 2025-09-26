@@ -56,4 +56,4 @@ Steve Spielberg "
 
 Ahorren energía, si no es por el planeta, por lo menos que sea por el gasto de dinero. Hasta la próxima!
 
-fuente [https://news.com.com/Microsoft+Let+PCs+nap/2110-1003_3-6169247.html](https://news.com.com/Microsoft+Let+PCs+nap/2110-1003_3-6169247.html) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+fuente

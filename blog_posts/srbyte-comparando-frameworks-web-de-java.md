@@ -43,4 +43,4 @@ Finalmente, para los que no quieren dar mucha vuelta o no tienen tiempo de leer,
 - Spring MVC ([https://www.springsource.org/](https://www.springsource.org/))
 - Struts 2 ([https://struts.apache.org/2.x/](https://struts.apache.org/2.x/))
 - Google Web Toolkit (GWT) ([https://code.google.com/webtoolkit/](https://code.google.com/webtoolkit/))
-Espero que estos recursos les sirvan para elegir correctamente el framework que les haga la vida más fácil. ¡Saludos!
+Espero que estos recursos les sirvan para elegir correctamente el framework que les haga la vida más

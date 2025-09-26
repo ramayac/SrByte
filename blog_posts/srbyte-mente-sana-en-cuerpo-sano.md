@@ -25,5 +25,3 @@ Estas tareas siempre consumen energía mental y concentración mas que desgaste 
 - Ocio Total: Considero una de las cosas más relajantes del mundo acomodarse en un sillón a ver televisión o alguna película en DVD que te hayan prestado recientemente, mas que todo si la película es alguna comedia o un género similar que te alegre la vida. Esto te ayuda a olvidarte un momento de las preocupaciones del estudio/trabajo y disfrutar de la vida.
 
 Hay que tomar en cuenta que estas etapas deben ser momentáneas (no hay que ser ociosos todo el tiempo), solo para despejar la mente por unos días o unas horas ya que el objetivo de estas actividades es la de recargar energías para retomar las actividades laborales/académicas con nuevos ánimos y talvez una mejor perspectiva.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

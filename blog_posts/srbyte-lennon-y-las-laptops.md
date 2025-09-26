@@ -13,5 +13,3 @@ Si bien los primeros pasos de esta fundación se dieron de manera simultanea con
 Para este nuevo año, como parte de su campaña, la OLPC ha creado una imagen digitalizada de John Lennon, mediante la cual, él promociona el mensaje principal de esta organización. Sin duda alguna, utilizar la imagen del ex Beatle es bastante ingenioso.
 
 A continuación le dejo el promo para que ustedes mismos lo juzguen. Shalom y prosperidad para todos en este nuevo año.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -20,5 +20,3 @@ P.D. Esta campaña solamente una broma, los geeks no necesitamos visitas en casa
 Everywhere en sus inicios, the Hug Patrol"
 
 Les queda abierta la iniciativa para dar mas que recibir en estas fiestas que se acercan.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

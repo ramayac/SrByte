@@ -37,5 +37,3 @@ Cabe mencionar que Subversion no almacena copias enteras de cada versión almace
 Existen diversos clientes de Subversion para poder descargar versiones de un repositorio y actualizarlas en base a nuestros cambios. Para Linux existe la aplicación de línea de comandos llamada [Subversion](https://packages.debian.org/subversion) y para Windows existe una denominada [TortoiseSvn](https://tortoisesvn.tigris.org/), ambas de licencia libre y proporcionadas por los mismos creadores del Subversion: [Tigris](https://www.tigris.org/).
 
 Para más información sobre Subversion, pueden leer de forma gratuita el documento on-line [Control de Versiones con Subversion](https://svnbook.red-bean.com/). El cual también esta disponible a la venta en Amazon.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

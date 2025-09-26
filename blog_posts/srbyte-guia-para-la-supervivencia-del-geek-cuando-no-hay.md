@@ -46,5 +46,3 @@ mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan p
 
 [2]ISP = Internet Service Provider o
 proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

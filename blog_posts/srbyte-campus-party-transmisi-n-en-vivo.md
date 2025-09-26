@@ -15,5 +15,3 @@ en Vivo."
 Visiten el canal de Justin.tv de la Campus Party Iberoamerica haciendo click en:
 [https://es.justin.tv/campus_party](https://es.justin.tv/campus_party)
 > href="https://es.justin.tv/campus_party">https://es.justin.tv/campus_party
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

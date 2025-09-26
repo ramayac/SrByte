@@ -49,4 +49,4 @@ y demos le el crédito debido por que es:
 > ingenioso bold;">.
 Microsoft debería de dejar que el usuario decida que es lo que quiere sin limitar el alcance de el sistema operativo. Estoy seguro que bastaría con una edición para el usuario común: dejando que el mismo usuario instale el software profesional que el o ella quiera o no quiera. No es necesario diversificar el mercado de usuarios de computadoras personales solo para vender todos sus programas en un solo paquete: los gustos y las preferencias de los usuarios y el software cambia SIEMPRE.Con respecto a las ediciones empresariales el acercamiento parece mas apropiado al diversificar el mercado en negocios y empresas, eso irónicamente, es más realista.
 
-¿comentarios?... sigue la [segunda parte](https://rodrigoamaya.blogspot.com/2007/03/windows-vista-y-sus-problemitas-parte.html)
+¿comentarios?...

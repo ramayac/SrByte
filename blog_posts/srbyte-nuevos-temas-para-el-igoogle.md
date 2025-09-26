@@ -28,5 +28,3 @@ artístico:
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)    
 Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

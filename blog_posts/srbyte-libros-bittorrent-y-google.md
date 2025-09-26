@@ -31,5 +31,3 @@ Google no se queda atrás, ofrece la búsqueda de libros en su pagina [Google Bo
 "©2007 Google"
 
 Así que ya no se tiene excusa para NO buscar información en Internet, todo lo que necesites (con respecto a información!) probablemente esta... [ahí](https://srbyte.blogspot.com).
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

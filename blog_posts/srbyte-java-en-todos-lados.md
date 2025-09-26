@@ -20,4 +20,4 @@ Por eso se dice usualmente que Java esta en todos lados...
 
 [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg)
 "Java everywhere"
-Y ahora que Java es software libre, tendrá mucho mas apoyo y crecimiento convirtiéndose en una de las plataformas de desarrollo mas importante que existen en nuestra época.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Y ahora que Java es software libre, tendrá mucho mas apoyo y crecimiento convirtiéndose en una de las

@@ -19,4 +19,4 @@ Evangélica de El Salvador Fecha: Sábado 25 de abril del 2009 Detalles de la or
 
 Adicionalmente, en Kradssen nos comparte estas imágenes para usar en nuestro blog. Y cabe mencionar, que la organizadora del evento, en esta ocasión, es nada más y nada menos que la querida "Gabys", pueden visitar su blog dando [clic aquí](https://gabys.wordpress.com/2009/04/07/543/).
 
-¡No dejen de asistir! Habrán charlas muy interesantes, a las que SI vale la pena ir. Espero que nos podamos ver en el FLISOL, saludos!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+¡No dejen de asistir! Habrán charlas muy interesantes, a las que SI vale la

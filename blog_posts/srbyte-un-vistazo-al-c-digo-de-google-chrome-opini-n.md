@@ -54,5 +54,3 @@ otro navegador web mas."
 Ni siquiera Microsoft se ha podido deshacer aún de IE 6, mucho menos Chrome podrá erradicar de la faz de la tierra a Opera, Safari, IE y a Firefox. ¿Pronosticos?, reservado... ¿por qué? Simple porque Chrome es beta, y nadie en su sano juicio demanda, exige o emite pronósticos de software de un beta "0.2"; como se haría con un producto completo. Ahora, como Desarrollador Web bueno, esa es otra historia que se comentará luego ...
 
 ¿Y tu, ya descargaste y usaste Google Chrome? ¿Qué te pareció?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

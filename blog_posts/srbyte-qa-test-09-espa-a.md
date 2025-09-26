@@ -37,5 +37,3 @@ Dos breves comentarios sobre esta conferencia: 1. Espero que algun d'ia se celeb
 Ah!, pueden seguir el evento en twitter: [@qatest_bilbao](https://twitter.com/qatest_bilbao).
 
 ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

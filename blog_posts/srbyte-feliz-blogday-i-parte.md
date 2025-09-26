@@ -35,5 +35,3 @@ Una "veterana" mujer, muy exótica y mística que le gusta mucho la música rock
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SLr8zNHz-BI/AAAAAAAACDo/_ystQ6G97To/s400/blog4.png)    
 Un blog acerca de blogs. En este blog, Fernando hace una revisión de sitios que fueron lanzados tiempo atrás con la esperanza de volverse populares y exitosos pero que por razones diversas (las cuales el trata de explicar) estos no lograron su cometido. Cada post nos deja una lección de como debemos evitar cometer los mismos errores en los que cayeron dichos sitios, o sino, seremos los próximos en aparecer en dicho blog.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -32,5 +32,3 @@ El sitio web de JScreenFix, ademas, [ofrece vídeos para destrabar pixeles](http
 
 [1] Los Simpsons viendo el programa de TV: "Battling Seizure
 Robots", capitulo "Thirty Minutes over Tokyo". Creado por Matt Groening, todos los derechos reservados.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

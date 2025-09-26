@@ -41,5 +41,3 @@ Bien se dice por ahí que...
 > complicado, es en muchos casos, lo común; hacer lo complicado asombrosamente simple, ESO es
 > CREATIVIDAD.
 Rige tu código fuente bajo el principio de la simpleza. Simple es hermoso.
-
-Hasta luego!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

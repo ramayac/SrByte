@@ -22,5 +22,3 @@ aplicación que funciona en Windows, Mac y Linux, que mantiene un detallado cont
 RescueTime es gratuito cuando se usa de manera personal. Y para usarlo en grupo, si solo cinco (5) personas lo usan también es gratis, si se añaden más, se pagan $7.95 por usuario. Fuera interesante probarlo en equipos de desarrollo de software, o en grupos de autores de blogs. Ah, y claro, necesita una conexión constante a Internet para "subir" la información registrada.
 
 Estén pendientes con las demás herramientas que colocaremos, esperamos que sean utilidad y no se olviden de dejar sus opiniones.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

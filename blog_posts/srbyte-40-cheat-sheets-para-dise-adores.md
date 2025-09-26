@@ -48,5 +48,3 @@ El articulo original con los 40 Cheat Sheets se encuentra en [SixRevisions](http
 
 > href="https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/">https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/
 Espero que les sirvan, ¡saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

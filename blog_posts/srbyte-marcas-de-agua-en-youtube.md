@@ -17,4 +17,4 @@ Solo espero que NO se vea así:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/ReM3nOa0XAI/AAAAAAAAAJ8/9Jsr-qhNJNg/s400/idiocracy-tv2.jpg)    
 "Escena de la película
-Idiocracy (2006)" Ja ja! hasta la próxima!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Idiocracy (2006)"

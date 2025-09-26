@@ -25,5 +25,3 @@ Geek"
 
 "Camisetas con 8 bits de Corazones Animados que se iluminan cuando
 el dueño de la otra camiseta se encuentra cerca."
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -21,4 +21,4 @@ En todo caso si eso llegara a suceder... no molestaría ver esas calcomanías en
 la "plantilla" de las calcomanías para papel tamaño A4.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RglQw57huVI/AAAAAAAAAOg/j7I0m-PXFRE/s400/windows_vista_multiple.jpg)    
-fuente [Painting a Day](https://jeremiahpalecek.blogspot.com/) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+fuente

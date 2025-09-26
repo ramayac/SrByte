@@ -31,4 +31,4 @@ La calma, la buena disposiciones, la alegría y el ingenio dominaron durante tod
 ![image](https://bp2.blogger.com/_ayvorITawE4/RiuCaFLpwiI/AAAAAAAAASU/Ryp4a2LZQQE/s400/los+bloggers.jpg)    
 Aquí dejo la entrada de Snipe [¿Cuantos bloggers se necesitan para hacer un manifiesto?](https://snipedia.blogspot.com/2007/04/la-tertulia-v10-un-xito.html) , que fue redactada al momento de la reunión y en el que todos participamos. Y también vean la foto que Carlos tomo: [Foto censurada de bloggers Salvadoreños](https://ysfp.org/2007/04/22/reunion-blogger-y-llego-el-dia-5/). Fue un gusto conocerlos a todos, espero verlos nuevamente. Se cuidan y Dios los bendiga.
 
-PD: Si! lo acepto, robe vilmente las fotos de David ja ja!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+PD: Si! lo acepto, robe

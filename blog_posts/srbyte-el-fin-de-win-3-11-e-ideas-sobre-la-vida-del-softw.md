@@ -33,5 +33,3 @@ Quizás lo que mas me motivo a escribir sobre esto, fue que cuando lo leí: no p
 
 "¡Nostalgiaaaaaa!"
 Un saludo especial a todos aquellos lectores que usaron DOS y Windows 3.x ;) Y tu ¿Qué haces para que tus programas "vivan" más tiempo?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

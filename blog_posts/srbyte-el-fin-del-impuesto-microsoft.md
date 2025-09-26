@@ -21,5 +21,3 @@ Felicidades a Dell por hacer lo correcto y terminar el impuesto de Microsoft.
 Queridos lectores: ahora están presenciando un importante punto en la historia GNU\Linux y de las computadoras.
 
 Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

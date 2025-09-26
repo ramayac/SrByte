@@ -28,4 +28,4 @@ Si estás interesado en hacer un stop-motion en tu casa, sólo necesitas lo sigu
 
 Espero que intenten hacerlo en sus casas. Recuerden, "pequeños pasos para hacer grandes cosas". Bendiciones.
 
-Fuentes consultadas: Wikipedia, Enciclopedia Libre; palabra clave: stop motion: https://es.wikipedia.org/wiki/Stop-motionCopyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Fuentes consultadas: Wikipedia, Enciclopedia Libre; palabra clave: stop motion:

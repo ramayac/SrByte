@@ -46,4 +46,4 @@ Sin embargo, esta más que claro que Ubuntu 9.10 es solo una versión de transic
 "Los koalas no se reponen de la fiesta, por eso esta
 buggy el ubuntu :P"
 
-Al menos, esa es mi experiencia personal y la recomendación que puedo hacer con respecto de Karmic Koala. Me quedo con la curiosidad del Ubuntu Netbook Remix, y con la duda de sus impresiones personales. Se esperan comentarios :)Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Al menos, esa es mi experiencia personal y la recomendación que puedo hacer con respecto de Karmic Koala. Me quedo con la curiosidad del Ubuntu Netbook Remix,

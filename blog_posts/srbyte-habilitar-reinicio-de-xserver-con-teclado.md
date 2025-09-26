@@ -10,4 +10,4 @@ Mini nota: Recuerdo aquellos viejos tiempos en los que podia reiniciar mi XServe
 
 1. En el menu, ve a System->Preferences->Keyboard (solo Keyboard, no Keyboard Shorcuts) 2. Se elige la viñeta Layouts, y luego clic en el botón "Layout options" 3. Expanda el item con el nombre "Key sequence to kill  the X server". Y chequea "Ctrl+Alt+Backspace". 4. Listo.
 
-Espero que les sirva, saludos!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Espero que les sirva,

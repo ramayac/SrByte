@@ -17,5 +17,3 @@ Ahora la pregunta del "millón de colones" es...
 
 > ¿Cuando vendrá el PlayPump
 > a El Salvador?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

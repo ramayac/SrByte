@@ -51,5 +51,3 @@ Algún día esta tecnología será implementada en Google. Aunque otros se le es
 necesidad de consultas ni accesos directos!"
 
 Aún se encuentra en versión beta y para utilizarlo tienes que suscribirte y esperar a que los webmasters se apiaden de tu persona y decidan aceptarte, pero esperemos que pronto esté disponible para cualquiera.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

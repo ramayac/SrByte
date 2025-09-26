@@ -19,4 +19,4 @@ Hace poco [Mark Shuttleworth](https://es.wikipedia.org/wiki/Mark_Shuttleworth) s
 
 Y claro que Linux ya esta en ese camino... más cerca de lo que creen.
 
-Mas información de Ubuntu [aquí](https://ubuntu.com.es/), y no te olvides de visitar la [página oficial de Ubuntu](https://www.ubuntu.com/). Hasta luego!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Mas información de Ubuntu [aquí](https://ubuntu.com.es/), y no te olvides de visitar la [página oficial de Ubuntu](https://www.ubuntu.com/). Hasta

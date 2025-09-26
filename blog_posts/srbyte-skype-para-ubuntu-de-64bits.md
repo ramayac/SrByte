@@ -36,5 +36,3 @@ Mi problema es que Skype sólo está disponible en paquetes para arquitectura 32
 Skype :)"
 
 Bien, espero que esta pequeñisima guía le ayude a algun internauta por ahi, a instalar esta util aplicacion. Cabe mencionar que tambien existen aplicaciones 100% libres, que tiene casi la misma utilidad que Skype, como son: [Ekiga](https://www.gnomemeeting.org/) (antes conocido como GnomeMeeting), despues hablaremos un poco del porque usar Software Libre, en vez de Freeware.
-
-Saludos!

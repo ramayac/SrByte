@@ -14,5 +14,3 @@ Por supuesto, sin dudarlo, este blog fue uno de los primeros en ser agregados a 
 Espero que todo termine en sana competencia y no pase a mas, todos somos una comunidad muy unida según me he dado cuenta ahora que me he vuelto parte de ella, y todos posteamos con el objetivo de dar a conocer nuestras ideas, pensamientos, opiniones, experiencias y algunas otras cosas. Algunos por pasatiempo, otros por desahogo, proyectos académicos, tal vez alguno porque piensa que se puede hacer millonario con el adsense, jajaja. Todos tenemos una razón personal y particular.
 
 Espero que los amables y muy cultos (además de, con buen gusto de lectura) visitantes de este blog nos consideren merecedores de su voto.
-
-El link del blog en cuestión se encuentra [acá](https://elsalvadorblogs.blogspot.com/2008/02/primeros-10-blogs-en-el-certamen-esba08.html).Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

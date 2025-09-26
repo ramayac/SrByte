@@ -21,5 +21,3 @@ Este año tú puedes apoyar a tus nominados favoritos mediante tus votaciones a 
 - Mejor aplicación/servicio
 - etc.
 Para votar por tu favorito, visita [este vínculo](https://crunchies2008.techcrunch.com/votes/). Tienes hasta la medianoche del miércoles.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

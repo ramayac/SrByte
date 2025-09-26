@@ -24,4 +24,4 @@ Los principales precursores de DRM son las cuatro compañías disqueras mas gran
 ![image](https://bp3.blogger.com/_ayvorITawE4/RerQd_lE_BI/AAAAAAAAAKQ/kiIAI3r8RAc/s400/drm-is-killing-music.jpg)    
 Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados?.
 
-¿La solución para esta iniciativa?... [Creative Commons](https://rodrigoamaya.blogspot.com/2007/03/creative-commons-30.html) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+¿La solución para esta iniciativa?...

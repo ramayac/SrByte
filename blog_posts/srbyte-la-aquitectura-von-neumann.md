@@ -40,5 +40,3 @@ Pero no todo es amor y felicidad en la tierra de Von Neumann. La separación que
 
 ¿Interesante verdad? ¿Quieres saber más? Lee el articulo "[Lo que no sabias sobre las computadoras](https://srbyte.blogspot.com/2007/12/lo-que-no-sabias-de-las-computadoras.html)
 ".
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

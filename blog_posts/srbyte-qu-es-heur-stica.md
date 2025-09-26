@@ -38,4 +38,4 @@ O sino, el algoritmo heurístico se ejecuta razonablemente rápido, pero no hay 
 
 ...quiero cerrar esta breve explicación de un tema tan amplio citando al científico [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl): "Heurística, son métodos basados en búsquedas inteligentes de estrategias para resolver problemas computacionales utilizando muchos acercamientos alternativos."
 
-Espero que les sirva, ¡Saludos!
+Espero que les sirva,

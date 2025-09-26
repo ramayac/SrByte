@@ -38,5 +38,3 @@ Aca un vídeo de ejemplo del funcionamiento de Cacoo:
 
 "Video demostrativo del
 funcionamiento de Cacoo"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

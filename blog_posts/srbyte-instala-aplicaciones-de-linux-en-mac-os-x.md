@@ -12,5 +12,3 @@ mi consejo para los que tienen una Mac es simple: instalar GNU\Linux en su Mac..
 El blog "The Simplehelp" ha creado un excelente tutorial paso a paso para correr aplicaciones Linux en su Mac, usando (claro) Software Libre como Fink y FinkCommander.Aunque es un proceso de muchos pasos (laaargo), esta extremadamente detallado, asi que es bastante sencillo de entender y de no perderse.Espero que les sea de utilidad, y no olviden propagar el espíritu de libertad de el Software Libre:
 
 [Como instalar aplicaciones de Linux en OS X - una guia completa](https://www.simplehelp.net/2007/05/09/how-to-install-linux-applications-in-os-x-a-complete-walkthrough/)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -28,5 +28,3 @@ No hay duda que los sitios al estilo web 2.0 con contenido social (o medios soci
 English"
 
 Algo mas que deseen aportar sobre el tema?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

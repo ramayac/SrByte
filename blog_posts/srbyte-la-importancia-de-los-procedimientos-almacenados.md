@@ -43,4 +43,4 @@ Alquimia de SQL que usted debe conocer"
 
 Los SP en general, serán realmente útiles (y aplicables) en caso de estar desarrollando aplicaciones robustas, de categoría empresarial, o para servicios que deben ser seguros, que posean alta disponibilidad y con vistas a ser escalables.
 
-¿Y dónde aprendo, donde veo ejemplos, etc? ... como siempre, [Google tiene la respuesta](https://www.google.com/search?q=store+procedures). ¿Y tú, estas utilizando Procedimientos Almacenados en tu Software?
+¿Y dónde aprendo, donde veo ejemplos, etc? ... como siempre, [Google tiene la respuesta](https://www.google.com/search?q=store+procedures). ¿Y tú, estas utilizando Procedimientos Almacenados en tu

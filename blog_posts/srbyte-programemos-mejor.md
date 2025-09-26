@@ -16,4 +16,4 @@ Pero esta vez no fué así. El momento de contemplación no fué tan placentero 
 
 Después de desarrollarlo, uno sólo puede imaginarse la cara de los posteriores programadores encargados de la tarea de revisar el código fuente para agregarle mejoras, cuando se vayan topando con variables denominadas "foo" o "bar" o con esos métodos llamados CargarTablas1(), CargarTablas2() y CargarTablas3() que hacen exactamente lo mismo a diferencia de un par de líneas de código o el colmo de los colmos: líneas de código después de una sentencia return.
 
-Debido a este tipo de situaciones, las cuales no siempre son causadas por falta de tiempo, es que me he tomado la libertad de crear la nueva sección denominada "Programemos Mejor" en las que se escribirán experiencias propias de malas formas de programar algunas herramientas o técnicas útiles para corregirlas.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Debido a este tipo de situaciones, las cuales no siempre son causadas por falta de tiempo, es que me he tomado la libertad de crear la nueva sección denominada "Programemos Mejor" en las que se escribirán experiencias propias de malas formas de programar

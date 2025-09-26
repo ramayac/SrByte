@@ -24,4 +24,4 @@ Aquí unos ejemplos de cortinas:
 
 5. Cortina de Canal Cuatro de España:
 
-Que las bendiciones los presigan siempre. Más en este nuevo año.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Que las bendiciones los presigan siempre.

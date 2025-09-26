@@ -33,5 +33,3 @@ Para terminar los dejo con un vídeo de los ya conocidos sorprendentes efectos d
 
 "Efectos de Compiz Fusion, sobre Debian
 GNU/Linux"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -43,6 +43,4 @@ Ja ja, triste realidad, pero cierto, hay mucho que hacer antes de alcanzar al gi
 
 Y si aún no tienes FireFox 3.0, pues ¿qué esperas para descargarlo y usarlo?
 
-![image](https://sfx-images.mozilla.org/affiliates/Buttons/firefox3/468x60.png)    
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+![image](https://sfx-images.mozilla.org/affiliates/Buttons/firefox3/468x60.png)

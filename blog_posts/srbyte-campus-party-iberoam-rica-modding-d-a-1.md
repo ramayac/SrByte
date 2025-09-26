@@ -53,5 +53,3 @@ El Overclocking es el proceso -basicamente - que consiste en forzar un component
 ![image](https://farm4.static.flickr.com/3005/2984591598_faf7bb8b45.jpg?v=0)  
 
 ¡Espero que les guste!, atentos que luego les añadimos más fotos.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

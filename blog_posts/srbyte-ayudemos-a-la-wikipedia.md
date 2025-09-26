@@ -21,5 +21,3 @@ Mediante este espacio promovemos dicha campaña y animamos a todos los lectores 
 Para hacer tu donación, [haz clic acá](https://wikimediafoundation.org/wiki/Donate/Now/es?utm_source=2008_nometer_1_collapsed&utm_medium=sitenotice&utm_campaign=fundraiser2008).
 
 Para mas información [lee acá.](https://wikimediafoundation.org/wiki/Donate/Questions)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -32,4 +32,4 @@ Estas irregularidades me recuerdan dos cosas:
 
 1. Como le gusta exagerar a la gente los problemas 2. Como nos gusta usar cualquier excusa para divertirnos un rato Me voy a celebrar "12:34:56 7/8/9", apuro el paso y entrego más artículos la otra semana, siento haber dejado tirado el blog, pero estamos apretados con la Tesis, y bueno, hay prioridades, más adelante les cuento como sale todo eso. Saludos!
 
-Si quieren leer más sobre "el tiempo" en los sistemas Unix, pueden encontrar más información [aquí](https://en.wikipedia.org/wiki/Unix_time).
+Si quieren leer más sobre "el tiempo" en los sistemas Unix, pueden encontrar más información

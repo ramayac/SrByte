@@ -38,5 +38,3 @@ Parece que Ballmer esta en un terrible "estado de negación Zen". El problema de
 > "No es
 > caro cuando hay calidad."
 Apple iLoveyou!, espero que todos tengan un feliz día de la amistad.
-![image](https://bp3.blogger.com/_ayvorITawE4/RdRyNaSA98I/AAAAAAAAAG8/UhMnj-p_Ofs/s320/valentine_katamari.png)    Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-Byte

@@ -24,4 +24,4 @@ Los que son emprendedores, saben cuanto cuesta tener negocio propio, así que ap
 
 ¡Saludos al equipo de GamerSV y muchos exitos en todo lo que emprendan!
 
-Para más información visita GamerSV: [https://gamersv.com/](https://gamersv.com/) y la tienda GSVStore: [https://gamersv.com/gsvstore/](https://gamersv.com/gsvstore/) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Para más información visita GamerSV: [https://gamersv.com/](https://gamersv.com/) y la tienda GSVStore:

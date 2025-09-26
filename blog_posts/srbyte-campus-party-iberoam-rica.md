@@ -69,4 +69,4 @@ Y finalmente, [el Mapa para que no se pierdan:](https://maps.google.com/maps/ms?
 
 [View Larger Map](https://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=117139639938268086068.000459ddb9a1bc7a062c7&ll=13.69169,-89.241428&spn=0.050035,0.09922&source=embed)
 
-Espero que podamos encontrarnos en el Campus Party, ¡Allá nos vemos!
+Espero que podamos encontrarnos en el

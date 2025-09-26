@@ -60,5 +60,3 @@ O también puedes descargarlo (es un archivo ".jar") y luego abrir el cuadro de 
 el tema Silvermel"
 
 Y tú, amante de Firefox, ¿cuál es tu tema es tu preferido?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

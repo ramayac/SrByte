@@ -20,4 +20,4 @@ Conocí a Gustavo el año pasado, en la Campus Party Iberoamericana, y hace poco
 "Gito
 Gito"
 
-Este blog se une al luto de Happy Punk Panda, y oramos por la familia y amigos de Gustavo para resignarce ante la perdida. "Te fuiste a animar el cielo".
+Este blog se une al luto de Happy Punk Panda, y oramos por la familia y amigos de Gustavo para resignarce ante la perdida. "Te fuiste

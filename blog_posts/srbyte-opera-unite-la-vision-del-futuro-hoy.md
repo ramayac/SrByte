@@ -31,5 +31,3 @@ perfil y servicios disponibles"
 Este vídeo nos explica la ideología de Opera respecto a su nueva tecnología:
 
 Ya probaste esta nueva tecnología? Que opinas al respecto?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

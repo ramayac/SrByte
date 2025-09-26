@@ -26,5 +26,3 @@ Posteriormente, en Alemania se desarrolló el sistema [PAL](https://es.wikipedia
 El sistema Séquentiel Couleur À Mémoire (1966) basa su actuación en la trasmisión secuencial de cada componente de color, las cuales son moduladas en FM. De esta forma, se envía un componente por línea, para luego combinar y deducir el color de la imagen. Todos estos sistemas tenían ventajas e inconvenientes. Sin embargo, con el tiempo sus deficiencias serían superadas y mejoradas, para dar paso a la era de la digitalización.
 
 Fuentes consultadas: Producción de vídeo: disciplinas y técnicas (2002), Enciclopedia Libre, Wikipedia (2008)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

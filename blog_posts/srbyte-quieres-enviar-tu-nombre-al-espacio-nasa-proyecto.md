@@ -31,5 +31,3 @@ Esta idea publicitaria NASA, particularmente, porque no gozan de mucha popularid
 espacio :D"
 
 Espero que todos nuestros lectores nos acompañen participando en esta partícula oportunidad ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

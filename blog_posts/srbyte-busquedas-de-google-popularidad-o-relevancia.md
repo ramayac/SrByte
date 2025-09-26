@@ -21,5 +21,3 @@ Al parecer era tan común el error, que los dueños de Gamil hasta se tomaron la
 Resulta que hace unos días volví a cometer el mismo error de escribir "gamil" en lugar de "gmail" en la barra de direcciones de firefox y cual fue mi sorpresa al darme cuenta que esta vez me redirigía automáticamente a la pagina de gmail en lugar del blog de gamil y lo corrobore al realizar la búsqueda directamente en la pagina de Google: al buscar la palabra "gamil" el primer resultado que aparece es "gmail" como una posible corrección y como segundo resultado te muestra gamil, el cual posee mas relevancia.
 
 Mi conclusión ha sido que Google le ha dado mas importancia a la popularidad del sitio en los resultados de la búsqueda, en lugar de dársela a la relevancia de los mismos, aunque creo que podría ser una estrategia el ubicar sus propias URL por encima de los resultados con mas relevancia para aumentar sus visitas y por ende, su popularidad. Ustedes que creen?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

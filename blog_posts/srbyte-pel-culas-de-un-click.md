@@ -14,5 +14,3 @@ He de aclarar que algunos títulos de películas aparecen como disponibles, aunq
 Si quieres acceder a la página, pincha [aquí.](https://www.dospuntocerovision.com/)
 
 Espero logren sacarle el jugo a esta página y encuentren unas cuantas películas que les hagan disfrutar aún más estos últimos días del año.
-
-Shalom.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -67,5 +67,3 @@ Estos son algunos dispositivos en los que corre Opera:
 - Amino AmiNET
 - Psion
 Pueden visitar la pagina de Opera: [www.opera.com](https://www.opera.com/)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

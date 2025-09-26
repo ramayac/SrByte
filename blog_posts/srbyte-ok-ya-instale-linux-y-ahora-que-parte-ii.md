@@ -33,5 +33,3 @@ Para instalar estos Screenlets, te descargas el archivo comprimido de cada uno d
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_zlZhL7OI/AAAAAAAAEuA/525fa-nrclI/s400/ScreenletsManager.jpg)    
 "Apariencia de la ventana
 del Screenlets Manager"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

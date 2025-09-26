@@ -44,5 +44,3 @@ Todos sabemos que Microsoft es grande y lento, y que el desarrollo de software e
 Para mí es simplemente Ballmer que desboca y promete mostrar proyectos que ni siquiera tienen nombres oficiales aún. O puede ser que Ballmer: simplemente no pudo expresar que tendrá un borrador de borrador de borrador de Windows Cloud para la fecha prometido... dándole a Google suficiente tiempo para contra-atacar (si es que necesita tiempo), en todo caso sabremos más a finales de este mes...
 
 Y tu, ¿Usarías un nuevo sistema operativo de Microsoft?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

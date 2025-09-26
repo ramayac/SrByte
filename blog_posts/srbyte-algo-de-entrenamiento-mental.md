@@ -36,5 +36,3 @@ columna escribe las características: "Casa, Nacionalidad, Bebida, Cigarros, Mas
 ¡Algunos llegaron al colmo de escribir programas en C++ o Lisp para resolver el acertijo! Eso si ya sobrepasa mis limites. Si quieren ver el código, búsquen los links en [el artículo de la wikipedia relacionado con el acertijo](https://en.wikipedia.org/wiki/Zebra_Puzzle), en las referencias finales del mismo.
 
 P.D. en el artículo, mencionan al acertijo como "The Zebra Puzzle" o el acertijo de la zebra, el cual es otro nombre por el que se le conoce.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -20,4 +20,4 @@ A continuación, detallo las nueve categorías en las cuales se puede competir:
 
 1. Diseño de software 2. Desarrollo Integrado 3. Desarrollo de juego 4. Robótica y algoritmos 5. Cambio IT 6. MashUp 7. Fotografía 8. Cortometraje 9. Diseño
 
-Estaremos pendientes de cómo se desarrolle este evento, de los concursantes, pero sobre todo del gran ganador: Un Mundo Mundo. Shalom.
+Estaremos pendientes de cómo se desarrolle este evento, de los concursantes, pero sobre todo del gran ganador: Un Mundo Mundo.

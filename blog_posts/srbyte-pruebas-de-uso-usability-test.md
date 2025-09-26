@@ -73,5 +73,3 @@ Steve Krug en su libro [Don't Make Me Think!](https://www.amazon.com/Think-Commo
 Espero, sinceramente, que la próxima vez que estén en un proyecto de software, que se preocupen constantemente, en la opinión del usuario final, final, final (el que realmente usara tu software todos los dias, para hacer su vida mas fácil). Para que de esta forma, realmente estés produciendo software enfocado al uso o a la "usabilidad".
 
 Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

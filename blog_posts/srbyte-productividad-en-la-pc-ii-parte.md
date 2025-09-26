@@ -21,5 +21,3 @@ Este programa corre en Linux y Windows, y básicamente se limita restringir tiem
 "Captura de ventana de ejercicios"
 
 Recomiendo mucho esta aplicación para las personas que pasan muchas horas frente a la PC y desean mantener al menos el mínimo de movimiento en sus atrofiados cuerpos je je.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -27,5 +27,3 @@ El día PI se celebra comúnmente el día de hoy, 14 de marzo de cada año, de m
 Esto es debido a que en inglés, el símbolo PI se pronuncia algo así como "pai" en español, palabra que suena exactamente igual al conocido pie[1] o tarta de sabores, muy popular en los Estados Unidos.
 
 Otro suceso relevante que coincide con el día de hoy es el aniversario del nacimiento de Albert Einstein, científico judío-alemán muy conocido por desarrollar la teoría de la relatividad y más que todo por su peculiar peinado. Este nació un día como hoy, 14 de marzo en el año de 1879.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

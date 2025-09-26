@@ -84,5 +84,3 @@ El mercado de Firefox son los clientes inconformes y enojados que Internet Explo
 Experiencia: De Nokia (que [ya tiene sus años](https://en.wikipedia.org/wiki/Nokia) el mercado produciendo telefonos y dispositivos móviles) y Microsoft (la popular e infame empresa que masifico el ambiente gráfico) no tengo nada que mencionar, ambas empresas son destacadas en su respectivas areas. Firefox viene de una larga historia, llena de intrigas, competencias y dinero... que comienza con Netscape Comunications, que se convirtió luego en Mozilla Foundation y que luego, regalaron al mundo Mozilla Firefox, ellos en este caso tienen experiencia y trayectoria.
 
 ¿Y entonces? entonces, ¿tiene el software y el negocio que estas a punto de realizar: Marca, Mercado y Experiencia? si no lo tiene, ¿que esperas para comenzar a cultivarlos?.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

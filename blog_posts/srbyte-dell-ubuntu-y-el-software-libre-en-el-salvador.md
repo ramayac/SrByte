@@ -71,5 +71,3 @@ usar Ventanas 98 y usen GNU\Linux"
 
 > style="font-weight: bold;">¿Que crees tú que se
 > necesita?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

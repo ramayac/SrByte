@@ -40,5 +40,3 @@ Solo recuerda aumentar el cache de flash con esa pagina para obtener un máximo 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RjFNNkK33mI/AAAAAAAAAT0/dTHR5dsudgc/s400/cacheflashearth.jpg)    
 "Configuración de
 cache en Flash Earth"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

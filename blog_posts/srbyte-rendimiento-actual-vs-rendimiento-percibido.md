@@ -47,5 +47,3 @@ Aunque todas las barras de progreso del estudio completaban su tarea en el mismo
 "Imagen: Descargando Internet"
 
 En pocas palabras, desarrolladores de software, no comentan el mismo error que el equipo de desarrolladores de Vista hizo. Hay que pensar fuera de las pruebas de rendimiento, y comenzar a usar la inteligencia emocional, y comprender al usuario final... por que al final, el software siempre se diseña para el usuario.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

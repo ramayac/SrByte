@@ -50,4 +50,4 @@ La fecha entonces es: 13 de Diciembre de 2004.
 
 De todos estos datos ¿Cuales son importantes para el usuario?, ¿Y cuantos para los desarrolladores? La idea general de todo esto es confundir lo menos posible al usuario. Siempre que sea posible es mejor usar datos más simples para llamar un programa que utilizar versiones numéricas en su nombre y también variar un poco es bueno, por eso Windows Vista no se llama Windows 2005, esto es aplicable particularmente a los nombres enfocados para la comercialización de nuestro Software/producto.
 
-Hasta la próxima!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Hasta la

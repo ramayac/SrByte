@@ -39,4 +39,4 @@ Algunos pensaran que este escenario es un poco drástico, pero creanme que se ap
 " no soy dueño de la música, pero puedo escucharla.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Ra47mjD_h0I/AAAAAAAAAAg/hWIIT3HzlQ4/s400/18.jpg)    
-Es una movida bastante ingeniosa para ganar dinero y demandar, pero no es muy justa con el usuario final. Y si, lo acepto, el software propietario tiene ciertas ventajas sobre el software libre, pero no pesan lo suficiente para que decida comprar el permiso para usarlo.
+Es una movida bastante ingeniosa para ganar dinero y demandar, pero no es muy justa con el usuario final. Y si, lo acepto, el software propietario tiene ciertas ventajas sobre el software libre, pero no pesan lo suficiente para que decida

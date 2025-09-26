@@ -7,5 +7,3 @@ post_id: blog-3515952828243908885.post-491742759486427477
 ---
 
 pueblo@ElSalvador:~# apt-get remove ARENA && apt-get install FMLN
-
-([Bash Prompt](https://www.google.com.sv/search?q=bash+prompt))Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

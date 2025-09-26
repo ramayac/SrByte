@@ -15,5 +15,3 @@ colaboración del director Tim Burton y Johnny Depp, este ultimo interpretando a
 
 "Video: Canción Epiphany de
 la película Sweeney Todd" Comentario Final: Aunque sea un musical, en donde todos cantan "bien", por algunos instantes... solo por unos cuantos instantes, esta película se vuelve ligeramente soporífera. Pero el elenco y la música se encargan de rescatarte de un potencial aburrimiento. Quizás lo mas impactante es que; como el publico esta TAN acostumbrado a las ridículas cantidades de sangre que se ocupan en tanta película mediocre, quizás eso le roba un poco de la emotividad a las vividas y resaltantes escenas de degollamiento que toman lugar más seguido de lo que uno deseara (y quizás no tanto como algún par de enfermos quisieran, jaja). Johnny Depp resalta se consolida nuevamente como el anti-héroe. Macabra, cómica e ingeniosa, Sweeney Todd se eleva a películas de culto como Ed Wood y Edward Scissor Hands. Pero no puedo dejar de pensar en que resume lo mejor y lo peor de Tim Burton. Aun así, para los amantes del genero y los fans, es una obligación verla.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

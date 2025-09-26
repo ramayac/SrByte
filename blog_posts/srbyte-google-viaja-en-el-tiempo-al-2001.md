@@ -20,5 +20,3 @@ Si alguna vez se preguntaron como seria Google en el 2001, ¡ahora tienen la opo
 > href="https://www.google.com/search2001.html">https://www.google.com/search2001.html
 
 Y tú ¿Tenias Internet y usabas Google en el 2001? ¿Realmente se veía así?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

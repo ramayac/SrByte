@@ -29,5 +29,3 @@ Y finalmente, encontré [VisibleTweets.com](https://visibletweets.com/), que es 
 Animaciones."
 
 ¿Tienes otro servicio interesante que use contenido de Twitter?, Compartelo!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

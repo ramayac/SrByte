@@ -72,5 +72,3 @@ Generación de Música, ScreenSavers...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SUE3ITp6vJI/AAAAAAAABz0/Dg-FPTbYgX0/s320/Menger_5.jpg)    
 Construcción de Antenas Fractales, Estudio de Sismos y como mil cosas más... Que tan útil sean los fractales (o cualquier objeto, idea o concepto), no depende del concepto en si mismo, sino del uso que le de el individuo. Como siempre, esperamos que este articulo sea de su agrado. ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

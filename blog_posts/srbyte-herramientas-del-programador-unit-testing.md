@@ -55,5 +55,3 @@ Para poder hacer uso de los Unit Tests, necesitas instalar el framework apropiad
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBb1ATdcxI/AAAAAAAAFNw/tnFVnw_VhAU/s400/NetbeansShot.png)  
 "Captura de pantalla del IDE Netbeans, mostrando los resultados de
 la ejecución de los Unit Tests en un proyecto de Java (Clic para agrandar)"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

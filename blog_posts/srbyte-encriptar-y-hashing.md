@@ -58,4 +58,4 @@ A menos que .... Generemos un archivo de 4.3G, con datos completamente aleatorio
 ![image](https://bp3.blogger.com/_ayvorITawE4/Ruqm_Wy6MqI/AAAAAAAAAck/SjnoEtN5rME/s320/death.png)    
 "..."
 
-Esa aproximación jamas funcionaria para un archivo de 4.3 GB.... pero si para.... algo más pequeño. Espero haber aclarado términos, hasta la proxima!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Esa aproximación jamas funcionaria para un archivo de 4.3 GB.... pero si para.... algo más

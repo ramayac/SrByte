@@ -28,5 +28,3 @@ Es el nivel de desconocimiento lo que me deja anonadado, con gente que puede rep
 no tiene meta.... así que técnicamente es una marcha hacia la muerte."
 
 El punto es que quiero que me cuenten: ¿A cuantos de ustedes les ha tocado vivir una experiencia similar a esta?, ¿Y si eres un "Ingeniero de Pruebas", has visto casos similares?, ¿Que es lo mínimo que deben saber un Ingeniero de Pruebas?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

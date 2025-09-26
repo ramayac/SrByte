@@ -43,5 +43,3 @@ Cuando ya hay dinero de por medio, personalmente preferiría inclinarme por word
 Alternativas: Se encuentran las que se mencionaron anteriormente: blogger, typepad, hosting con el codigo fuente de un CMS, etc. ademas de otros no mencionados como blogit, obolog, etc.
 
 Algún otro servicio que deseen mencionar? alguien ya probo estos servicios y desea compartir sus experiencias?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

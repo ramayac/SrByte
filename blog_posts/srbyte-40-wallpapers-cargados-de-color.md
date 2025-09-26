@@ -47,5 +47,3 @@ Que gusto ver fondos de pantalla así, un verdadero festín visual. Visita la pa
 
 > href="https://www.webdesignerdepot.com/2008/11/40-wallpapers-loaded-with-color/">https://www.webdesignerdepot.com/2008/11/40-wallpapers-loaded-with-color/
 Espero que usen alguno, ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

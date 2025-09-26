@@ -44,5 +44,3 @@ Como instalo un tema?
 Haz clic en la URL debajo de cada captura de las que estan arriba, o si ya encontraste tu propio tema preferido en [gnome-look.org](https://gnome-look.org) , busca el vinculo que dice "download" y te descargaras un archivo de extension .tar.gz. Luego abre el administrador de apariencias (Menú Sistema -> Preferencias -> Apariencia) y haz clic en el botón "Instalar". En el cuadro de dialogo buscas y seleccionas el archivo .tar.gz que te descargaste y listo. Luego solo lo buscas y seleccionas dentro de la lista de temas disponibles que te muestra esta ventana.
 
 Algun otro tema en particular que te haya gustado?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

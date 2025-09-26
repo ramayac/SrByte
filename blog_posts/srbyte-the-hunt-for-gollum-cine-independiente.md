@@ -21,5 +21,3 @@ porcinaaaa!" Lo Bueno: El film es gratuito, y en teoría se puede descargar de: 
 Lo Malo: La fémina que hace el papel de Arwen Undómiel, ni se le acerca a Liv Tyler. Por lo demás, todo bien.
 
 Espero que les guste, ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

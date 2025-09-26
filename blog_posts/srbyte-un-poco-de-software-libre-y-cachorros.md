@@ -36,6 +36,3 @@ O acaso ¿criticas a un cachorro (de un mes de edad) que llevas a la casa porque
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rb9SBDD_h6I/AAAAAAAAABo/-8fT2qC3DmQ/s400/puppy2.jpg)    
 El problema es que muchos proyectos quedan como cachorros, y no pueden salir adelante, por falta de apoyo en lo que necesiten. Y quien sabe, quizás la próxima herramienta que necesites este entre ellos...
-
-![image](https://bp0.blogger.com/_ayvorITawE4/Rb9TFDD_h7I/AAAAAAAAABw/JkT620-o_kk/s400/puppies.jpg)    Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-Byte

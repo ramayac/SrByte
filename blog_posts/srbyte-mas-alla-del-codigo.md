@@ -17,5 +17,3 @@ Algunas de estas cosas no las descubres en la universidad, cuando ejecutas tus a
 Tampoco piensas en que tan fácil será extender tu aplicación cuando la empresa crezca y surjan nuevas necesidades de información o si tu aplicación puede migrarse a otras plataformas o comunicarse con otros sistemas.
 
 Estos conceptos los descubres y aplicas una vez que ya estás involucrado en un proyecto que requiere aplicarlos por lo que dedicaré algunos posts para que tomemos en cuenta que otras fases se llevan a cabo una vez que has escrito el código o qué otras características debes tomar en cuenta mientras lo escribes.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

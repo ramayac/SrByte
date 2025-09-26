@@ -44,5 +44,3 @@ Mi consejo:
 > NO compren una versión style="font-size:130%;"> Upgrade de
 > Vista.
 ...continua la [tercera parte](https://rodrigoamaya.blogspot.com/2007/02/windows-vista-y-sus-problemitas-parte.html).
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

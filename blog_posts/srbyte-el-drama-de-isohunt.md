@@ -46,5 +46,3 @@ Y las respectivas desventajas:
 
 - Menos seeders
 - Menor disponibilidad de torrents? (aun existe DHT)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

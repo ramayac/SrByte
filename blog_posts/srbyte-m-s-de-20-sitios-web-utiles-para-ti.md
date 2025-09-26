@@ -51,5 +51,3 @@ Cosas Gratis
 - [Phonezoo](https://www.phonezoo.com/Welcome.do): Crea y descarga una tonelada de ringtones para tu teléfono celular gratuitamente.
 - Aprende un nuevo idioma: Con [Mango](https://www.mangolanguages.com/) puedes aprender 12 diferentes lenguajes y con [FSI](https://fsi-language-courses.com/default.aspx) puedes hacer lo mismo, solo que FSI es un poco mejor. Puedes escoger, los dos son gratuitos.
 Si tienes algún sitio favorito útil, deja un comentario con el vinculo! Al Sr. Byte le encantaría saber que has encontrado en Internet.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

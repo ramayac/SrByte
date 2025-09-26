@@ -29,5 +29,3 @@ Esta alternativa, aparte de ser barata, es también amigable con el medio ambien
 Puedes comprar este tipo de productos en muchas tiendas nada mas buscando con las palabras clave solar energy lights o afines. Recomendamos también [este](https://www.siliconsolar.com/solar-christmas-lights.html) y [este](https://mysolarshop.com/holiday.html) sitio.
 
 Que mas crees que podemos hacer para ahorrar un poco de dinero en la epoca de fiestas?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

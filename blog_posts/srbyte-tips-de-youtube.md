@@ -45,4 +45,4 @@ Con el "&ap=%2526fmt%3D18" (estereo de 480x270):
 
 Más que clara la diferencia, en audio y en imagen. Espero que esta pequeña guia le sirva a los amigos blogueros y a cualquier internauta en general, que desee mejorar su experiencia general en YouTube. Solo falta esperar que estas opciones se generen automáticamente dependiendo del ancho de banda de los usuarios, y creo que todos estaremos felices.
 
-Y tu, ¿ves videos con mayor resolución cuando es posible? Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Y tu, ¿ves videos con mayor resolución cuando es posible?

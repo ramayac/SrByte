@@ -14,5 +14,3 @@ Además, en forma paralela, se ofrecen charlas, ponencias y talleres, sobre tem�
 El FLISOL 2007 se efectuará el día sábado 28 de abril a nivel Latinoamericano.
 
 Para más información pueden visitar [FLISOL 2007 en El Salvador](https://www.installfest.info/FLISOL2007/ElSalvador) o la pagina oficial del [FLISOL a nivel latinoamericano](https://www.installfest.info/FLISOL2007) en donde puedes ver si en tu ciudad se celebra el FLISOL y en donde se realiza.
-
-Hasta la próxima!

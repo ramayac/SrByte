@@ -22,5 +22,3 @@ Algunas de las atracciones que se pudieron observar en este show es, por ejemplo
 
 "Katy Perry interpretado Hot N Cold en
 la apertura del evento Youtube Live"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

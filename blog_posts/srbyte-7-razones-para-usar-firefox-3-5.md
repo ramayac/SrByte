@@ -46,5 +46,3 @@ El soporte multimedia es una gran mejora, especialmente porque en poco tiempo, e
 En [Mashable](https://mashable.com/2009/06/30/firefox-killer-features/) y [LifeHacker](https://lifehacker.com/5295655/top-10-firefox-35-features) pueden encontrar aun más razones para utilizar Firefox 3.5 :)
 
 ¿Y tu, que razones tienes para usar Firefox?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -19,4 +19,4 @@ es el primer carro que toma los principios del Software Libre en la rama automov
 
 Visita el sitio de [CMMN](https://www.autoindetoekomst.nl/website/)
 
-Y ahora... a buscar las piezas para hacer el mío ;) fuente [https://news.windingroad.com](https://news.windingroad.com/concept-cars/meet-cmmn-the-worlds-first-open-source-car/) Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Y ahora... a buscar las piezas para hacer el mío ;)

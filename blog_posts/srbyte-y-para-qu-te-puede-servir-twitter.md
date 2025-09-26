@@ -55,5 +55,3 @@ Si arrestan a alguna persona, o alguien tiene un accidente, probablemente usar T
 Esos son los elementos principales para lo que te puede servir Twitter. Es divertido, sumamente sencillo y versátil.
 
 ¿Y tú, de que otra forma usas Twitter?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

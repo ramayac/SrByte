@@ -32,5 +32,3 @@ Yahoo! Finance ([link](https://finance.yahoo.com/))
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/STbTSv7T42I/AAAAAAAAE1o/aADJUR84XzI/s400/yahoofinance.gif)    Yahoo! finance es
 toda una herramienta financiera para cualquier empresario o ejecutivo interesado en la bolsa de valores. Disponible desde tu cuenta de Yahoo!, puedes tener a la mano desde las estadísticas de los mercados mundiales hasta un conversor on-line de monedas, consejos de inversión, préstamos, etc.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

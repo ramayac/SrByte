@@ -32,5 +32,3 @@ Apt: El mismo gestor que, en Debian y Ubuntu te permiten instalar paquetes, tamb
 Para borrar los paquetes de instalación (.deb) que se han descargado y quedan en el caché, puedes ejecutar el comando apt-get clean o apt-get autoclean como root. Para borrar librerías o dependencias que ya no están siendo utilizadas por algún programa, ejecutas el comando apt-get autoremove también como root.
 
 Si tienen dudas o fallos con los comandos antes mencionados, déjanos un comentario.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

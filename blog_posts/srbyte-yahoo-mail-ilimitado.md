@@ -17,4 +17,4 @@ Para el año 2005 aumentaron la capacidad a 100 MB (nada mal), y actualmente cue
 "Yahoo Mail esta a punto de
 cambiar de talla"
 
-¿Qué hará Microsoft y Google al respecto?... si creyeron que la guerra de los correos electrónicos se había terminado... jamás se equivocaron tanto.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+¿Qué hará Microsoft y Google al respecto?... si creyeron que la guerra de los correos electrónicos se había terminado... jamás se equivocaron

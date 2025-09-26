@@ -30,5 +30,3 @@ Si una maquina Turing puede operar una función parcial de carácter definido (r
 
 ¿Interesante no? ¿Quieres saber más? Lee el articulo "[Lo que no sabias sobre las computadoras](https://srbyte.blogspot.com/2007/12/lo-que-no-sabias-de-las-computadoras.html)
 ".
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

@@ -15,5 +15,3 @@ Aparte de estas charlas, tuvimos la oportunidad de presenciar un par de Case Mod
 
 "Case Modding - Parte
 2"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

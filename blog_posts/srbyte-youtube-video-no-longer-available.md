@@ -39,5 +39,3 @@ Decepticons"
 
 "Dragon Ball Z, The
 Movie"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

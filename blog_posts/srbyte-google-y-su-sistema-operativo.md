@@ -39,4 +39,4 @@ Para que sigan más de cerca el proyecto, pueden visitar [el sitio oficial de lo
 
 Vemos a seguir más detenidamente el desarrollo de este y de otros  proyectos similares, en lo personal no les veo mucha utilidad en nuestro medio, pero sin lugar a dudas el concepto, que no es nada nuevo, no deja de ser atractivo. Lo que más me interesa quizás, es la sana competencia entre servicios basados en la nube y la sana competencia (que beneficia mucho al usuario final) que surgirá [cuando emerja Microsoft Azure](https://www.microsoft.com/windowsazure/products/#) para comenzar la verdadera competencia de gigantes, con sistemas operativos tan "Lite" como lo es "Chorme OS".
 
-Y tu, ¿piensas que en tu país podrías pasar conectado a Internet, de depender de manera primordial de todos los servicios que Google ofrece? A mi en latinoamerica, esa idea no me parece muy factible. ¡Saludos!
+Y tu, ¿piensas que en tu país podrías pasar conectado a Internet, de depender de manera primordial de todos los servicios que Google ofrece? A mi en latinoamerica, esa idea no me parece muy factible.

@@ -48,5 +48,3 @@ Más información:
 [https://es.wikipedia.org/wiki/JavaScript](https://es.wikipedia.org/wiki/JavaScript)
 [https://en.wikipedia.org/wiki/Firebug_%28Firefox_extension%29](https://en.wikipedia.org/wiki/Firebug_%28Firefox_extension%29)
 [https://es.wikipedia.org/wiki/Firebug](https://es.wikipedia.org/wiki/Firebug)
-
-¡Saludos!

@@ -39,5 +39,3 @@ Ademas el "Optimus" incluye un "key" saver, que es un screen saver para las tecl
 Maximus funcionando." Increíble teclado, y por lo que cuentan... parece que Apple va por ese camino también, planeando incluir en sus computadoras, teclados con teclas con display [OLED](https://es.wikipedia.org/wiki/OLED). Es algo que yo sinceramente, nunca espere, un teclado "dinámico". Pero quizás lo más increíble, es que esta tecnología es más antigua de lo que parece, profundizaremos en ese tema más adelante.
 
 ¡Hasta la próxima!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

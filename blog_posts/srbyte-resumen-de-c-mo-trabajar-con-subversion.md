@@ -17,5 +17,3 @@ Como montar un servidor de Subversion requiere algo de información sobre servid
 Por supuesto, los grandes y excelsos usuarios de Linux, acostumbrados a lidiar con la consola y a leer los manuales de los comandos, no necesitan que se les dé una explicación paso a paso de lo que tienen que hacer así que lo único que les adelanto es:
 
 1. apt-get install subversion subversion-tools 2. man subversion 3. man svn Un usuario Linux sabrá como seguir desde acá.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

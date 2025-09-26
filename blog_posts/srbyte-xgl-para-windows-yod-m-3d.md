@@ -34,4 +34,4 @@ Este programa es otra buena razón (aparte de estas cuatro adicionales adicional
 Pero como siempre, GNU/Linux gana...
 
 "¿Puede tu Windows hacer
-esto?" Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+esto?"

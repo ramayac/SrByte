@@ -33,5 +33,3 @@ Practicamente cualquier profesional o estudiante que tenga los conocimientos nec
 orientales, se asocia de manera negativa el termino de Freelancer con Ninjas asesinos pagados a sueldo. "
 
 Para terminar, solo quiero saber: ¿Cuantos de ustedes han realizado algun trabajo de Freelancer?, ¡esperamos sus respuestas!, Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

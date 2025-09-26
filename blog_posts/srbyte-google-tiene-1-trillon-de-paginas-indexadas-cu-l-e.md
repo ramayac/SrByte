@@ -21,5 +21,3 @@ Lo mas interesante quizás, es que las URL's son Infinitas, haciendo que encontr
 misma gente de Google. Lo que si se sabe es que la cantidad de información y contenido crece a un ritmo exponencial. Pero eso no detiene a Google, porque su objetivo siempre ha sido "indexar toda la información mundial". Siempre y cuando Google honre esa meta no dejara de crecer nunca. Por eso mismo, otro punto interesante del logro de Google, es la calidad o mas bien, la escalabilidad de su sistema de búsqueda e indexado. Es admirable que aun con 1 trillon de URL únicas, realizar una búsqueda Google tarde apenas un par de milisegundos. ¿Se han fijado que casi todos los productos de Google son algún tipo de "plataforma"? por ejemplo: Google (el buscador) es una plataforma para anuncios (Adsense). Para que los productos de Google sirvan como una plataforma, siempre hay que pensar en "Escalabilidad": ¿Como hago para que mi producto/sistema, tenga oportunidad para crecer y adaptarse?. Ese es el secreto de este suceso:
 > "La escalabilidad hace que un sistema tenga éxito,
 > siempre."
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

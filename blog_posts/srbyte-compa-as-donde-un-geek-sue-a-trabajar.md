@@ -21,5 +21,3 @@ que mejor trata a sus empleados"
 
 "La Empresa No. 1 de la
 revista Fortune"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

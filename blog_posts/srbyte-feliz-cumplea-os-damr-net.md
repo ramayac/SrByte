@@ -12,4 +12,4 @@ post_id: blog-3515952828243908885.post-195792457405184704
 "Imagen: Captura del blog de
 David Media."
 
-¡Felicidades David! Muchos exitos y un "googol" de años más bloggeando :) Atte. Staff del Sr. Byte
+¡Felicidades David! Muchos exitos y un "googol" de años más bloggeando :) Atte. Staff del Sr.

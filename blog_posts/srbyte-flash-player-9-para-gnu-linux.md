@@ -11,4 +11,4 @@ finalmente libero el tan esperado Adobe Flash Player 9 para GNU/Linux. Y aunque 
 
 fuente:[https://news.com.com/Adobe+ships+Flash+player+for+Linux/2100-7344_3-6150956.html](https://news.com.com/Adobe+ships+Flash+player+for+Linux/2100-7344_3-6150956.html)
 
-UPDATE: Parece que IceWeasel siempre tiene problemas con las transparencias, me gustaria saber si FireFox soporta transparencias a la perfeccion, como la pagina de [www.tigo.com.sv](https://www.tigo.com.sv/). Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+UPDATE: Parece que IceWeasel siempre tiene problemas con las transparencias, me gustaria saber si FireFox soporta transparencias a la perfeccion, como la pagina de [www.tigo.com.sv](https://www.tigo.com.sv/).

@@ -29,5 +29,3 @@ Puedes descargar TimeTracker aquí:
 
 > href="https://addons.mozilla.org/en-US/firefox/addon/1887">https://addons.mozilla.org/en-US/firefox/addon/1887
 Seguiremos probando algunos complementos y otras aplicaciones para brindarles las mejores herramientas, por el momento queremos saber ¿Que herramientas usas para mejorar tu productividad en la PC? y ¿Te has preguntado si realmente eres productivo?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

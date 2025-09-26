@@ -42,5 +42,3 @@ Opera, mostrando la pagina de configuracion donde se deshabilitan los iFrames"
 barra de estado la informacion de bloqueos de NoScript y en una ventana emergente, la configuracion del NoScript y donde se deshabilitan los iFrames"
 
 - Internet Explorer Safari y Chrome: Resignense a estar vulnerables, esperen a que los fabricantes encuentren una solución o cambien de navegador.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

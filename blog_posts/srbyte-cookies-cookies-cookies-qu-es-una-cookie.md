@@ -41,5 +41,3 @@ Dos consejos finales. Por los problemas reales que comprometen la privacidad de 
 Para más informacion sobre las cookies, puede visitar la [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie) , tambien Java Tips ([usar una cookie de una JSP](https://www.java-tips.org/java-ee-tips/javaserver-pages/using-cookies-from-jsp.html)) y [Cookie Central](https://www.cookiecentral.com/faq/).
 
 ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

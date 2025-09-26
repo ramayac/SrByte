@@ -63,5 +63,3 @@ Tools -> Validate HTML: La cual nos lleva a la página de validación del w3c.or
 stackoverflow.com desde la opción del WebDeveloper podemos ver que según el w3c validator este posee unos cuantos errores. Sin embargo la validación básica que aparece en la barra de herramientas bajo la WebDeveloper nos dice que el HTML es válido."
 
 Próximamente hablaremos de otro add-on de Firefox que merece un post completo debido a su gran complejidad y al hecho que es un add-on que soporta más add-ons. Estén pendientes.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

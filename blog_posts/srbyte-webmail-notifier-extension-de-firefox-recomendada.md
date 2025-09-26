@@ -45,5 +45,3 @@ Y si no esta el proveedor que utilizas y conoces javascript: puedes realizar tu 
 Y nuevamente, el sitio para descargar el complemento es:
 [> https://addons.mozilla.org/en-US/firefox/addon/4490](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y
 tu que usas para revisar todas las cuentas de correo que posees?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

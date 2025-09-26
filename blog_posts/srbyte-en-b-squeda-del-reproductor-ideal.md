@@ -48,5 +48,3 @@ para Windows, capaz de ser portado a Linux mediante wine. Con la capacidad de co
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)    
 Que reproductor agregarías tu a las lista?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

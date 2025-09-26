@@ -11,5 +11,3 @@ Si estabas buscando un fondo de pantalla (Wallpaper) relacionado a [FireFox](htt
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHqP7POgiVI/AAAAAAAAA40/45mlWEyD_VA/s400/beautiful-firefox.png)    
 "Click en la imagen para ver
 los 70 wallpapers"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

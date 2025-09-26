@@ -34,4 +34,4 @@ Tanta fue la emoción del viaje que Sir Hawking hasta se tomo una fotografía co
 "Stephen Hawking con su
 manzana"
 
-Sigue, Stephen, con tus teorías sobre el espacio y física cuántica, formulando principios para la creación de agujeros negros y leyes gravitacionales. Pero sobre todas las cosas sigue soñando, así vences la gravedad que te ata a tu silla de ruedas y nos regalas una historia de inspiración para alojar en nuestros corazones.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Sigue, Stephen, con tus teorías sobre el espacio y física cuántica, formulando principios para la creación de agujeros negros y leyes gravitacionales. Pero sobre todas las cosas sigue soñando, así

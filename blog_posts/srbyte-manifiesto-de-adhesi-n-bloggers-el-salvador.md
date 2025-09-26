@@ -23,4 +23,4 @@ MANIFESTAMOS QUE:
 
 Dios, Unión, Libertad... (eso lo agregue YO)
 
-Para ver una lista de blogs que se adhieren al manifiesto den click [aqui](https://www.svbloggers.ysifueraposible.org/).Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Para ver una lista de blogs que se adhieren al manifiesto

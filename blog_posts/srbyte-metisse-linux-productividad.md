@@ -29,5 +29,3 @@ Metisse + Linux produce un escritorio interesante y vistoso, sin complicados efe
 Pueden visitar el sitio oficial del proyecto Metisse aquí: [https://insitu.lri.fr/metisse/](https://insitu.lri.fr/metisse/)
 
 Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

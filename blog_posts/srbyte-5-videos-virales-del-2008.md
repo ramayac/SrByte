@@ -32,5 +32,3 @@ Mario al fin vence a sus enemigos y rescata a la mujer que tanto tiempo ha trata
 Este video es súper reciente, no dudo en que se propague como pólvora, y solo puedo mencionar: ¡Bravo!, y que lastima que no le enterró el zapato en la cara.
 
 ¿Te gustaría enterrarle un zapato en la cara a Bush? Ajem... ¿Cuales son tus videos favoritos de este año? ;)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

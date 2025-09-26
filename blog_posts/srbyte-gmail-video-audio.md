@@ -19,5 +19,3 @@ Para más información visita:
 [https://mail.google.com/videochat](https://mail.google.com/videochat)
 > href="https://mail.google.com/videochat">https://mail.google.com/videochat
 ¿Crees que Gmail destronara a MSN Live de una vez por todas?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

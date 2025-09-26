@@ -71,5 +71,3 @@ Varios:
 ![image](https://farm4.static.flickr.com/3029/2983730333_cdbd203142.jpg?v=0)  
 
 ¡Esperen más fotografías del evento! Saludos.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

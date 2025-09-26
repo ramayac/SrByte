@@ -49,5 +49,3 @@ En lo personal, quiero una PC Mac, pero solo para instalarle Linux :) Todos esta
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)    
 Yo soy un PC Linux, y tu ¿qué PC eres?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

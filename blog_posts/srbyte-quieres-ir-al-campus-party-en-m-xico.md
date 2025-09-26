@@ -24,4 +24,4 @@ Requisitos mínimos:
 
 También se pueden poner en contacto con la amiga [@darkela](https://twitter.com/darkela) para organizar la salida en bus y obtener detalles adicionales. Recomiendo que se suscriban al grupo en FB, esto es muy importante para estar al tanto de la ida al CP en Mexico.
 
-¡Espero que les salga el viaje, saludos!
+¡Espero que

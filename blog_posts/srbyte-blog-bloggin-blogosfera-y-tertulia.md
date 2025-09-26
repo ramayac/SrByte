@@ -52,5 +52,3 @@ Fecha: Sábado 21 de Abril 2007 Lugar: ... en San Salvador ;) Hora: desde las 2:
 Se espera que lleguen en su mayoría los integrantes de la blogosfera Salvadoreña, y los que no sabían que se apunten y lleguen. Veremos que sucede, como nos va y que podemos hacer para fomentar "la cultura del blog", mejores contenidos en los artículos que se escriben y mil cosas más.
 
 Bloggers Salvadoreños: ¡Nos vemos el Sábado! Y para mis lectores, ¡hasta luego!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

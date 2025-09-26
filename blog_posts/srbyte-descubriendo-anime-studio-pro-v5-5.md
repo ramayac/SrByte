@@ -21,5 +21,3 @@ Sin embargo, les dejo algunos link donde pueden comprar y conocer más sobre est
 -[Macintosh Graphics Products](https://my.smithmicro.com/mac/graphics.html)
 
 - [Tutorial de Anime Studio Pro](https://www.tutoriales-gratis.com/busqueda.php?buscar=anime%20studio%20pro)
-
-Bendiciones.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

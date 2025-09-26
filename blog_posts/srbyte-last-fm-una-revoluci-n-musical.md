@@ -15,4 +15,4 @@ Este es un ejemplo de una lista generada por Last.fm:
 
 ![image](https://imagegen.last.fm/lastfmblue/oartists/ramayac.gif)    
 "Top 10 de mis
-artistas más escuchados." Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+artistas más escuchados."

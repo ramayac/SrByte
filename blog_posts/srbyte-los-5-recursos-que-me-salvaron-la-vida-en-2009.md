@@ -38,4 +38,4 @@ Ah si, y Google Reader... es solo para mantenerme informado de los temas que má
 
 Como pueden ver, no es nada fuera de este mundo, son cosas sencillas y accesibles que creo que cualquier diseñador web, programador, administrador de sistemas o usuario común pueden llegar a utilizar.
 
-Espero que esta lista de recursos que para mi fue indispensable, les ayude tanto como a mi. ¡Feliz 2010!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Espero que esta lista de recursos que para mi

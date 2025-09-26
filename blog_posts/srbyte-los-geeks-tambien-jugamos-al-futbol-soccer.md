@@ -22,5 +22,3 @@ Otro tipo de personas como amigo [Hugo](https://hugolfutbolymas.blogspot.com/) s
 El motivo de todo esto es para confirmar nuestra asistencia y para anunciar el evento futbolístico entre bloggers que estan organizando [Hugo](https://www.blogger.com/profile/09732801508756249569) y [FaFa](https://www.blogger.com/profile/07480442035448216247). Aun esta en veremos la fecha y el lugar pero espero que se apunten. Si no fuera para jugar, aunque sea para apoyar a alguno de los equipos y pasar un momento agradable entre bloggeros. Todos están invitados, no hay excepciones. Acá los esperamos en la ciudad morena.
 
 Esten pendientes de los siguientes posts aquí y en el blog de Hugo para estar al tanto de los últimos detalles del evento.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

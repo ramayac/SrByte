@@ -52,4 +52,4 @@ Como todo buen proyecto de software libre, Amarok disfruta de un amplio equipo d
 Amarok es multiplataforma (por usar las librerias QT de TrollTech), pero nadie se ha dado la tarea de compilarlo para M$ Windows o Mac OS X. ¿Por qué?... pues Amarok es TAN bueno, que llama a nuevos usuarios al mundo del Software Libre. Y ya el usuario estando en ese mundo, no quiere regresar (¿y quien quiere?). El Sr. Byte recomienda Amarok y les promete que no se van a arrepentir de usarlo.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rgaat8DxhaI/AAAAAAAAANY/W3l6E9wM_ro/s400/happytux.png)    Dejo la pagina para
-ver [algunas capturas de pantalla](https://amarok.kde.org/d/en/index.php?q=gallery&g2_itemId=103) de la pagina oficial de Amarok. Hasta luego!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+ver [algunas capturas de pantalla](https://amarok.kde.org/d/en/index.php?q=gallery&g2_itemId=103) de la pagina oficial de Amarok.

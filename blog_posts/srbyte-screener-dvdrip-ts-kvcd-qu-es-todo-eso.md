@@ -51,4 +51,4 @@ Maiz".
 
 ¡Saludos y hasta la próxima!
 
-Aclaración del niño bueno: Sr. Byte no se hace responsable por el uso de esta información, ni de lo que sus lectores hagan con ella, esta entrada en el blog es meramente de carácter informativo, de ninguna forma se realiza con la intención de incentivar la violación de las leyes internacionales de derechos de autor. Se exhorta a los lectores a respetar las leyes contra la piratería y la propiedad intelectual.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Aclaración del niño bueno: Sr. Byte no se hace responsable por el uso de esta información, ni de lo que sus lectores hagan con ella, esta entrada en el blog es meramente de carácter informativo, de ninguna forma se realiza con la intención de incentivar la violación de las leyes internacionales de derechos de autor. Se exhorta a los lectores a

@@ -43,4 +43,4 @@ UML es una herramienta increíblemente didáctica y útil; que servirá para exp
 "UML
 Interactivo"
 
-Hasta la próxima!Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Hasta la

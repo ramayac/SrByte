@@ -51,5 +51,3 @@ Oh Dont Forget es una versión mucho mas simple y minimalista que las anteriores
 Este es quizá el mas minimalista de todos ya que nada mas consiste en un sitio web con una caja de texto en la que escribimos la lista de cosas por hacer en cada linea disponible y posteriormente cada actividad nos va apareciendo en el sitio junto a un botón "done" el cual, al presionarlo, nos muestra la siguiente actividad de la lista. Así de sencillo y simple. Por cierto, esta lista la guarda en una cookie para que aunque cierres el navegador no pierdas la información.
 
 Conoces algún otro sitio de utilidad para no olvidar las cosas? Que otras cosas importantes has olvidado? Cuéntanos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

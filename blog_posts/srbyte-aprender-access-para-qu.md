@@ -33,5 +33,3 @@ que apesta?"
 problemas de bases de datos portables"
 
 Yo use Access con VB 6.0, y desde entonces me propuse no contaminar mi mente nunca más con ese tipo de "soluciones informáticas", y claro, estoy arrepentido de haberlo usado, jaja. Y tu: ¿alguna vez utilizaste Access para desarrollar Software?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

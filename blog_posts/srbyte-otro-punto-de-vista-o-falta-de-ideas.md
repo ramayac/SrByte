@@ -24,4 +24,4 @@ QUARANTINE
 
 REC
 
-Cómo último dato, se rumora que los españoles están pensando hacer Rec 2. Estaremos dándole seguimiento. Shalom.
+Cómo último dato, se rumora que los españoles están pensando hacer Rec 2. Estaremos dándole seguimiento.

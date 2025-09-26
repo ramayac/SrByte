@@ -39,5 +39,3 @@ No se agobie pensando en los feeds que tiene que leer, ni en los twitts que tien
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SKXoDbwbX7I/AAAAAAAABEE/JUY3c1Z6pq0/s320/Water+under+west+bridge1.jpg)    
 Y tú, ¿te ahogas en tus feeds?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

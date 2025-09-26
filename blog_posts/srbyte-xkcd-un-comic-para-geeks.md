@@ -49,5 +49,3 @@ fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencil
 
 > href="https://xkcd.com/">https://xkcd.com/
 Y si ya estas suscrito, el Sr. Byte quiere saber: ¿Cual es tu tira de xkcd favorita?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

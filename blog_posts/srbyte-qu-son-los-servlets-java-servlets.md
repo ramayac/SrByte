@@ -38,5 +38,3 @@ Algunos recursos adicionales sobre los Servlets:
 - [Sun's servlet tutorial](https://java.sun.com/j2ee/tutorial/1_3-fcs/doc/Servlets.html)
 - [Sun's servlet product description](https://java.sun.com/products/servlet)
 Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

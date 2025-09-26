@@ -43,5 +43,3 @@ Definitivamente Windows necesita una GRAN bocanada de aire fresco, y precisament
 > mejor buscar compañía africana (Ubuntu) o europea (Mandriva), o mejor internacional
 > (Debian)...
 ¿Bien, y que opinan los lectores, les dará igual o no que saquen del mercado a XP, sienten nostalgia, están tristes, irán a celebrar con sus amigos linuxeros? ¡Cuéntanos!, el Sr. Byte quiere saber.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

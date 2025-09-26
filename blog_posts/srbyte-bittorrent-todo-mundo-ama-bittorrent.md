@@ -58,4 +58,3 @@ Aquí Pedro busca lo que necesita y luego...
 compartir archivos en Bittorrent"
 
 Para entender mejor esta jerga pueden ver la [terminología de bittorrent en la wikipedia](https://es.wikipedia.org/wiki/Bittorrent#Terminolog.C3.ADa). De esta manera nuestro amigo Pedro puede bajar TODOS los capítulos de los Pitufos para recordar sus buenos tiempos... por eso ¡todo mundo ama bittorrent! Espero les haya servido, hasta la próxima!
-![image](https://bp0.blogger.com/_ayvorITawE4/Rf63tcU_3dI/AAAAAAAAAL4/l-zCjlIB4A4/s400/lospitufos.jpg)

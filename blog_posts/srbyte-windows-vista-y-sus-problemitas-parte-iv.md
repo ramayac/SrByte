@@ -45,4 +45,3 @@ Bibliografía digital:
 > href="https://badvista.fsf.org/">https://badvista.fsf.org/
 > href="https://www.fsf.org/">https://www.fsf.org/
 > href="https://www.gnu.org/">https://www.gnu.org/
-[https://www.gnu.org/](https://www.gnu.org/)

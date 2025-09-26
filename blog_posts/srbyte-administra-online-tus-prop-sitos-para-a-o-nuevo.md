@@ -43,5 +43,3 @@ Uno de los mejores servicios para crear listas de cosas por hacer (TODOs) que me
 ![image](https://docs.google.com/File?id=djh57d7_319s35gfcm_b)  
 
 Aun administrando tus propósitos, metas y tareas de corto alcance en una aplicación web, muchas veces es difícil tener la disciplina de estar revisando el progreso de cada una de ellas y realizando las tareas para cada día. Muchas veces la emoción de los propósitos de año nuevo no pasan del mes de Enero así que para asegurarnos de llevar una vida más productiva recomiendo leer libros como [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) o [Zen to Done](https://www.amazon.com/Zen-Done-Ultimate-mple-Productivity/dp/1438258488/ref=sr_1_1?ie=UTF8&s=books&qid=1261855933&sr=1-1), al igual que suscribirse a los feeds de los blogs relacionados con estos libros.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

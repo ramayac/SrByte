@@ -51,6 +51,4 @@ Repitan conmigo:
 > costos".
 En la empresa en la que estoy trabajando, la mayoría de desarrolladores piensan que los "usuarios" son los enemigos. Para mi, el código es el enemigo, y para la empresa también.
 
-Una cosa más, para los desarrolladores que leen este articulo... sigan como consejo la sabiduría innegable de xkcd: ![image](https://2.bp.blogspot.com/_ayvorITawE4/SWJiaF7V27I/AAAAAAAAB1g/KJwtCBX2VU8/s320/goto.png)    
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Una cosa más, para los desarrolladores que leen este articulo... sigan como consejo la sabiduría innegable de xkcd: ![image](https://2.bp.blogspot.com/_ayvorITawE4/SWJiaF7V27I/AAAAAAAAB1g/KJwtCBX2VU8/s320/goto.png)

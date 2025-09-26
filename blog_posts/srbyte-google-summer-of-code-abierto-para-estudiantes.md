@@ -27,5 +27,3 @@ Entre las organizaciones (y su respectivo software) que este año han propuesto 
 Muchos de nosotros como programadores (yo me incluyo, en primera fila) hemos llegado a pensar que no tenemos la capacidad de competir o de desarrollar código que este a la altura de programadores extranjeros y posiblemente sea así en un inicio debido a la calidad de la educción superior en el país (de la cual escribiré en otro post) pero eso no es motivo para desanimarse sino mas bien para disponerse a tomar la iniciativa y aprender de estos a quienes consideramos superiores, de perder el miedo y experimentar a participar en eventos así donde, aunque posiblemente no se gane a la primera, se obtenga mucha experiencia y conocimientos los cuales te ayudaran a crecer como programador y mejorar la calidad de lo que desarrollas. Por eso te invito a que dediques el tiempo que ocupas regularmente en otras actividades y te atrevas a participar en iniciativas como esta donde aprendes realmente que es desarrollar aplicaciones en el mundo real.
 
 (Si, lo se. Tenia ya mucho tiempo sin escribir un post. Pero volví)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

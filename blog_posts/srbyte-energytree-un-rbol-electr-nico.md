@@ -24,4 +24,4 @@ El concepto completo detrás de EnergyTree es tener una maceta con una interfaz 
 
 Visita la pagina de [Energy Tree](https://benarent.co.uk/portfolio/energy_tree/energytree.html)
 
-El 15 de mayo (de este año) sabremos si este concepto se elige como ganador entre los 34 finalistas de la competencia.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+El 15 de mayo (de este año) sabremos si este concepto se elige como ganador entre

@@ -71,4 +71,4 @@ Pero si algo es seguro, es que Instalar GNU\Linux en una maquina, es tan difíci
 ![image](https://www.acota.de/pics/humor/tux/dummy1024x768.jpg)    
 "Sick of Crashing? Fondo de pantalla"
 
-Espera los mitos de GNU\Linux desmitificados muy pronto! Saludos!
+Espera los mitos de GNU\Linux desmitificados muy pronto!

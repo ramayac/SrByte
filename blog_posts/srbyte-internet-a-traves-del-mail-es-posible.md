@@ -41,5 +41,3 @@ correo electrónico enviado a webinmail, pidiendo recibir la pagina del Sr Byte 
 en respuesta por la consulta enviada anteriormente. (Clic para ver en tamaño completo)"
 
 Quizá la forma de negación parezca un tanto arcaica y no te permita descargar archivos o recibir transmisiones de audio/vídeo vía streaming para ver vídeos de youtube o entrar a sitios que te piden tu usuario y clave pero por lo menos te puede sacar de apuros si no tienes nada mas que tu cuenta de correo electrónico y necesitas googlear o buscar ayuda en foros.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

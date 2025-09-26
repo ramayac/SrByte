@@ -30,4 +30,4 @@ Ja! y ¿creíste que no tenia buenas razones?. La tecnología DRM que ocupa es u
 
 ¿Qué significa esto para nuestro futuro?...No uso justo, no compra y reventa, no compartir, no respaldar, no intercambiar, no mezclas, no privacidad, no bienes comunes, no control sobre nuestras computadoras. Claro que ataca problemas como la piratería (y la frena muuuucho, lo acepto) pero su implementación es en buen Salvadoreño, como una "patada al pecho".
 
-Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados? ¿comentarios?... [lee la ultima parte.](https://rodrigoamaya.blogspot.com/2007/02/windows-vista-y-sus-problemitas-parte_09.html)
+Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados?

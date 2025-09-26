@@ -53,5 +53,3 @@ en las ramas de los arboles, en las venas de las hojas, en las hojas de helechos
 ![image](https://www.miqel.com/images_1/fractal_math_patterns/natural-patterns/Fern.jpg)  
 
 redes neuronales, etc etc etc... Espero que nadie le tema a las matemáticas, porque estamos rodeados por ella. ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

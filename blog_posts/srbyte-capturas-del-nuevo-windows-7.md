@@ -93,5 +93,3 @@ Los dejo con el vídeo de la Calculadora de Windows 7:
 Esperemos que con Windows 7 Microsoft se reponga de la falta de popularidad de Vista. Recuerden que estas son capturas de pantalla de un producto BETA, programado hasta finales de 2009, así que no hay que apresurarnos a formular conclusiones, pero se pueden reír de la calculadora jejeje... En fin, para ver más imágenes hagan [click aquí](https://www.thinknext.net/).
 
 Y a tí ¿te gusta la nueva calculadora de Windows 7? ;)
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

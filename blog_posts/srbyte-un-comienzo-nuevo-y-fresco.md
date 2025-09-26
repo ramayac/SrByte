@@ -17,5 +17,3 @@ Gracias Señor: por un año mas de vida. Gracias por la familia, por los amigos 
 never by the leaves that fall. Count your days by golden hours; Don't remember clouds at all. Count your nights by stars, not shadows.
 
 Count your life with smiles, not tears. And with joy on every birthday, Count your age by friends, not years!"
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

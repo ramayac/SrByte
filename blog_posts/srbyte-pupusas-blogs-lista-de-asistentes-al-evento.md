@@ -36,5 +36,3 @@ Mas vale tarde que nunca. El día 30 de Noviembre del 2008 los miembros del staf
 - Katherine Montero: @queith cuya pasión en la vida es escribir en [queith.com](https://queith.com/)
 - Sandra Marroquin: @sannmarroquin quien es ama y señora del blog [Sann Marroquin](https://sannmarroquin.blogspot.com/)
 Lamentamos también que no estuvieran presentes todos los bloggers que realmente conforman nuestra comunidad, debido a diversas razones que les impidió llegar, aun así esto queda como un preludio para futuras reuniones quiza mas organizadas y con un proposito mas alla de simplemente conocernos y degustar pupusas.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

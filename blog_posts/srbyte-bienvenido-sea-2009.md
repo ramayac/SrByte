@@ -17,5 +17,3 @@ Esperamos sigan fieles al blog y estén pendientes de todo lo nuevo que tenemos 
 ¡FELIZ AÑO 2009!
 
 Bendiciones.
-
-Atte. Los autores.-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

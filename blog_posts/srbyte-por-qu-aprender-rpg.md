@@ -30,5 +30,3 @@ World escrito en RPG IV (ILE) tomado de [The Hello World Collection](https://www
 Por este hecho, si tienes la oportunidad de trabajar en algún lugar donde cuenten con un servidor AS/400 les recomiendo de sobremanera aprender a utilizar el lenguaje RPG con el que podrán optar a nuevas y mejores oportunidades de empleo.
 
 Admito que ni el lenguaje ni la plataforma se llevan bien con la filosofía del software libre o código abierto. IBM siempre ha sido muy cerrado en este aspecto pero aun así todos sabemos que los sistemas basados en el software libre son hoy en día una realidad inminente y la adaptación algo inevitable por lo que esperemos que IBM tome en consideración este hecho así como Sun Microsystems lo hizo alguna vez con Java.
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

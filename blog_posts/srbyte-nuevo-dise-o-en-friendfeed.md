@@ -33,5 +33,3 @@ Estas son algunas de las características nuevas de FriendFeed, para comenzarlas
 ¿Quienes de ustedes usan FriendFeed? Si desean seguirnos, puede hacerlo en las siguientes direcciones: Robertux: [https://friendfeed.com/robertux](https://friendfeed.com/robertux) Ramayac: [https://friendfeed.com/ramayac](https://friendfeed.com/ramayac)
 
 fuente: https://blog.friendfeed.com/2008/08/preview-new-friendfeed-design.html
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

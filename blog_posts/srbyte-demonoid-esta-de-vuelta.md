@@ -21,5 +21,3 @@ Quizás la única mala noticia, es que "Deimos", el admin del sitio, ya no tiene
 El viejo staff se mantiene, y es ahora "Umlauf" quien asume la administracion del sitio ^^
 
 No solo Demonoid es uno de los mejores trackers privados, sino que tiene una de las comunidades mas unidas y activas de usuarios de bittorrent en el mundo. ¡Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

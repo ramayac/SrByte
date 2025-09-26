@@ -27,4 +27,3 @@ Solo podemos decir, bye bye Bill, te retiras en el momento adecuado...
 
 [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA)
 "Homenaje a Bill Gates"
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

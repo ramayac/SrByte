@@ -25,5 +25,3 @@ Además los vídeos tiene subtítulos, para que no tengan excusa para no verlo:
 
 [Aquí esta el discurso completo traducido](https://angelmaria.com/2007/04/12/discurso-de-steve-jobs-en-la-universidad-de-stanford/), espero les haya gustado, y que la experiencia
 del Sr. Jobs les sea de utilidad. Saludos!
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

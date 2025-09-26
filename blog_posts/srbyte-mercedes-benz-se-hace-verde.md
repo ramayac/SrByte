@@ -33,5 +33,3 @@ evitar las trabazones de San Salvador."
 Quizás pido mucho, al menos los primeros tres espero verlos (en este siglo), para mientras ahorro y y guardo la esperanza.
 
 ¿Y tu, comprarías un carro que use energía eléctrica?
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

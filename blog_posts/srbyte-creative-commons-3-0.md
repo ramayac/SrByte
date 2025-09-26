@@ -12,5 +12,3 @@ fue liberada la versión 3.0 de la licencia [Creative Commons](https://creativec
 Si ya estas protegiendo tu trabajo bajo las magnificas alas de la licencia CC, deberías de tomar un tiempo para ver las nuevas licencias. Pero si no has visto nunca una licencia CC, te aseguro que no hay mejor tiempo como AHORA. Para conocer mas acerca de esta licencia da [click aquí.](https://rodrigoamaya.blogspot.com/2007/03/qu-es-creative-commons.html)
 
 Saludos!
-
-PD: Todo este BLOG esta bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/deed.es)

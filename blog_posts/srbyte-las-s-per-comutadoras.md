@@ -70,5 +70,3 @@ Un grupo de estudiandes del departamento de ingeniería eléctrica de la Univers
 
 ¿Interesante verdad? ¿Quieres saber más? Lee el articulo "[Lo que no sabías sobre las computadoras](https://srbyte.blogspot.com/2007/12/lo-que-no-sabias-de-las-computadoras.html)
 "
-
-Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
