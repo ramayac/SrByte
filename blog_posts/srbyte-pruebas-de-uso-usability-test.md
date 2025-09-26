@@ -20,9 +20,9 @@ Que este sea el mantra de esta semana:
 
 > "Mi aplicación deberá facilitar la vida del usuario
 > final."
-La manera para asegurarte de que este mantra se cumpla lo máximo posible es utilizando las [Pruebas de Uso](http://en.wikipedia.org/wiki/Usability_testing). En el sentido técnico una Prueba de Uso consiste en realizar una prueba de "caja negra" a tu software. Es decir, observar a las personas que van a usar el producto, REALMENTE usándolo para descubrir errores y ÁREAS de mejora.
+La manera para asegurarte de que este mantra se cumpla lo máximo posible es utilizando las [Pruebas de Uso](https://en.wikipedia.org/wiki/Usability_testing). En el sentido técnico una Prueba de Uso consiste en realizar una prueba de "caja negra" a tu software. Es decir, observar a las personas que van a usar el producto, REALMENTE usándolo para descubrir errores y ÁREAS de mejora.
 
-[![](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s320/eyetracking_corporate_site_about_us.png)](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s1600-h/eyetracking_corporate_site_about_us.png)
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s320/eyetracking_corporate_site_about_us.png)    
 "Google realiza pruebas de
 uso, para conocer que áreas de una pagina son las que mas son 'visitadas' por el cursor (esto también es conocido como HeatMap)"
 
@@ -31,13 +31,13 @@ Suele ser de caja negra, porque no importa lo que hace en el fondo el sistema, s
 - Exactitud -- ¿Cuantos errores realizaron las personas? (Fueron errores fatales, recuperables, etc).
 - Recuerdo-- ¿Que tan bien se recuerda el uso del programa, después de largos periodos de no utilizarlo?
 - Respuesta Emocional -- ¿Como se siente una persona al completar una tarea? ¿Estresada, Confiada, Emocionada?
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s320/usability_testing_absplit.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s1600-h/usability_testing_absplit.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s320/usability_testing_absplit.jpg)    
 "Es necesario conocer que piensa el usuario
 final del software que usara"
 
 ¿Fácil no? ¿Ves a donde vamos con la implementar de una Prueba de Uso? Con estas pruebas, nos estamos asegurando que:
 
-1. No estas perdiendo tu tiempo ([Codificas lo que realmente se necesita](http://www.srbyte.com/2008/12/en-una-empresa-el-codigo-es-el-enemigo.html)) 2. Facilitas la vida del usuario final (Diseñar buenas GUI) 3. Tienes una retro-alimentación constante (Alimentas el proceso de desarrollo con criticas constructivas y mantienes los pies en la tierra) 4. Se mantienes una participación ACTIVA y proactiva del usuario y los developers (o el equipo de desarrollo). Y definitivamente, es algo que quieres estar haciendo cada quince días o un mes como máximo, no es necesario que cien usuario prueben constantemente el software, uno siempre es mejor que ninguno. A continuación, les describo la mas simple Prueba de Usabilidad que se puedan imaginar:
+1. No estas perdiendo tu tiempo ([Codificas lo que realmente se necesita](https://www.srbyte.com/2008/12/en-una-empresa-el-codigo-es-el-enemigo.html)) 2. Facilitas la vida del usuario final (Diseñar buenas GUI) 3. Tienes una retro-alimentación constante (Alimentas el proceso de desarrollo con criticas constructivas y mantienes los pies en la tierra) 4. Se mantienes una participación ACTIVA y proactiva del usuario y los developers (o el equipo de desarrollo). Y definitivamente, es algo que quieres estar haciendo cada quince días o un mes como máximo, no es necesario que cien usuario prueben constantemente el software, uno siempre es mejor que ninguno. A continuación, les describo la mas simple Prueba de Usabilidad que se puedan imaginar:
 
 - Eliges un usuario final (operativo, gerencia, financiero, etc)
 - Se aísla al usuario, y se le presenta el software.
@@ -46,7 +46,7 @@ final del software que usara"
 - Se pregunta al usuario que piensa de la tarea (¿cuando esta en el proceso?, ¿como cree que puede mejorarlo?)
 - Cuando el usuario termina la prueba (si la termina sin que le de un ataque cardíaco, por la frustración), se le pregunta lo siguiente: ¿Como se siente con respecto a la tarea? ¿Que recuerda del proceso? etc...
 - Repita el proceso, con los usuarios aislados (siempre es mejor, probar a un solo usuario, que a varios para las Pruebas de Uso) y evalué en base a los resultados de las pruebas anteriores.
-En el [blog de Robin Good](http://www.masternewmedia.org/es/2007/05/02/pruebas_de_usabilidad_analisis_del.htm), se puede encontrar en detalle una introducción al método "A/B Split Testing", les presento un extracto:
+En el [blog de Robin Good](https://www.masternewmedia.org/es/2007/05/02/pruebas_de_usabilidad_analisis_del.htm), se puede encontrar en detalle una introducción al método "A/B Split Testing", les presento un extracto:
 
 ##
 
@@ -55,20 +55,20 @@ En el [blog de Robin Good](http://www.masternewmedia.org/es/2007/05/02/pruebas_d
 > style="font-size:85%;">Por Lisa Halabi
 
 > A partir de cualquier estudio de usabilidad de
-> sitio web, generalmente se encuentran un número de href="http://www.masternewmedia.org/es/2006/12/13/pruebas_de_usabilidad_de_sitios.htm">problemas
+> sitio web, generalmente se encuentran un número de href="https://www.masternewmedia.org/es/2006/12/13/pruebas_de_usabilidad_de_sitios.htm">problemas
 > de usabilidad. A menudo puede suscitarse un debate dentro de una organización para
 > hallar la solución a cada problema, sin que nadie conozca realmente la solución óptima.
 > En vez de dejar que
 > prevalezca la opinión de la persona que grita más style="font-size:85%;">, una mejor opción puede ser probar dos soluciones en un entorno en
 > vivo. Aquella que tenga el mejor rendimiento es claramente la solución superior. ¡Bienvenido
-> al A/B split testing! href="http://www.masternewmedia.org/es/2007/05/02/pruebas_de_usabilidad_analisis_del.htm">...
+> al A/B split testing! href="https://www.masternewmedia.org/es/2007/05/02/pruebas_de_usabilidad_analisis_del.htm">...
 > click aquí para leer mas."
 >
 
 Aquí la clave (resaltada en negritas) es no dejar que prevalezca la opinión del que grita mas, sino la mejor opción, pero para el usuario.
 
-[![](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s1600-h/steveDontMakeMeThink.jpg)
-Steve Krug en su libro [Don't Make Me Think!](http://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](http://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)    
+Steve Krug en su libro [Don't Make Me Think!](https://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](https://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
 
 Espero, sinceramente, que la próxima vez que estén en un proyecto de software, que se preocupen constantemente, en la opinión del usuario final, final, final (el que realmente usara tu software todos los dias, para hacer su vida mas fácil). Para que de esta forma, realmente estés produciendo software enfocado al uso o a la "usabilidad".
 

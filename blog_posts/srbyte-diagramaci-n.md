@@ -9,7 +9,7 @@ post_id: blog-3515952828243908885.post-6381244369875684970
 En el periodismo escrito, la adecuada distribución de las imágenes y el texto es muy importante. No sólo porque ésta debe ser agradable a los ojos del lector, sino porque muchas veces no se cuenta con el espacio suficiente para colocar todos los elementos, por lo que se necesita priorizar y optimizar los recursos con los que se cuenta.
 
 Este proceso de ubicación es lo que se conoce como digramación. Conocido también como maquetación, ésta es la manera de organizar y diseñar todo tipo de contenidos escritos, visuales y adiovisuales en medios impresos. Ejemplo de ello lo son los libros, los diarios y las revistas. Sin embargo, la diagramación no es exclusiva de los medios impresos. También los sitios web están sujetos a este orden.
-![](https://3.bp.blogspot.com/_JbB9KsZ238w/SXlDXJjnoBI/AAAAAAAAATU/u-Ak9x-R4uI/s320/peri1.jpg)
+![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SXlDXJjnoBI/AAAAAAAAATU/u-Ak9x-R4uI/s320/peri1.jpg)  
 
 "Algunos elementos gráficos de la diagramación impresa de un
 periódico."
@@ -38,7 +38,7 @@ De igual manera tienen ciertas desventajas:
 
 - elementos demasiado grandes para ser cargados por la página (fotos, videos o audios)
 
-![](https://4.bp.blogspot.com/_JbB9KsZ238w/SXlCpy6p7gI/AAAAAAAAATM/WBOYAiRAJCM/s320/untitled.bmp)
+![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SXlCpy6p7gI/AAAAAAAAATM/WBOYAiRAJCM/s320/untitled.bmp)  
 "En esta diagramación, las
 imágenes no estorban con el texto. Por el contrario, se complementan."
 

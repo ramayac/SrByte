@@ -6,7 +6,7 @@ tags: divertido, animacion, software, adobe, flash, manga, informacion, anime
 post_id: blog-3515952828243908885.post-8568108239776860512
 ---
 
-[![](https://3.bp.blogspot.com/_JbB9KsZ238w/SQVN_ZrWujI/AAAAAAAAAO4/gJO_9CdxrT0/s320/ANIME.JPG)](https://3.bp.blogspot.com/_JbB9KsZ238w/SQVN_ZrWujI/AAAAAAAAAO4/gJO_9CdxrT0/s1600-h/ANIME.JPG)
+![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SQVN_ZrWujI/AAAAAAAAAO4/gJO_9CdxrT0/s320/ANIME.JPG)    
 
 Hace no mucho estuve recibiendo un curso sobre animación, que más que una obligación, fue un proyecto personal. El curso fue de Adobe Flash CS3. Este programa permite al animador muchas facilidades para crear contenidos interactivos. Es dinámico, con una plataforma accesible y entendible, que permite a cualquiera dar con facilidad sus primeros pininos en el dibujo y la animación.
 
@@ -18,8 +18,8 @@ Aún no me he familiarizado con el programa por completo. Trás haber leído las
 
 Sin embargo, les dejo algunos link donde pueden comprar y conocer más sobre esta aplicación:
 
--[Macintosh Graphics Products](http://my.smithmicro.com/mac/graphics.html)
+-[Macintosh Graphics Products](https://my.smithmicro.com/mac/graphics.html)
 
-- [Tutorial de Anime Studio Pro](http://www.tutoriales-gratis.com/busqueda.php?buscar=anime%20studio%20pro)
+- [Tutorial de Anime Studio Pro](https://www.tutoriales-gratis.com/busqueda.php?buscar=anime%20studio%20pro)
 
 Bendiciones.Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

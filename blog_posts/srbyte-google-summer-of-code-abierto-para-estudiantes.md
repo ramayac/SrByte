@@ -6,7 +6,7 @@ tags: srbyte
 post_id: blog-3515952828243908885.post-3221408087273400056
 ---
 
-[![](https://2.bp.blogspot.com/_jH77WNrMVRA/Scm8pWBtlPI/AAAAAAAAFro/pCuEM2nIEyg/s400/2009+summer+of+code+logo+final+r3-01.png)](https://2.bp.blogspot.com/_jH77WNrMVRA/Scm8pWBtlPI/AAAAAAAAFro/pCuEM2nIEyg/s1600-h/2009+summer+of+code+logo+final+r3-01.png)
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/Scm8pWBtlPI/AAAAAAAAFro/pCuEM2nIEyg/s400/2009+summer+of+code+logo+final+r3-01.png)    
 "Logo del Google Summer of
 Code de este año"
 
@@ -19,7 +19,7 @@ Google abre un espacio en el cual organizaciones y empresas pueden publicar idea
 Por supuesto, estos estudiantes son evaluados durante periodos de tiempo establecidos para determinar que son aptos para participar en el proyecto y para determinar si realmente se dedicaran al proyecto y no lo dejaran tirado a medio camino como muchos tenemos por costumbre con la mayoría de hobbies o proyectos personales. Además, google te motiva a participar ofreciéndote una jugosa recompensa de cinco mil dolares (de los cuales quinientos van destinados para la empresa u organización participante) por haber concluido exitosamente tu proyecto, además de ganar una buena reputación y experiencia como programador y quien sabe, hasta podrían contratarte por parte de la organización dueña del software o por los mismos de Google!
 
 - Cómo inscribirte?
-Puedes hacerlo desde la [pagina oficial de Google Summer of Code](http://socghop.appspot.com/), donde también encontraras mas información sobre este programa y las propuestas de proyectos en las que puedes participar. También te recomiendo que los sigas en [twitter](http://www.twitter.com/gsoc) y te hagas fan de su pagina en [facebook](http://www.facebook.com/pages/Google-Summer-of-Code/72468835990).
+Puedes hacerlo desde la [pagina oficial de Google Summer of Code](https://socghop.appspot.com/), donde también encontraras mas información sobre este programa y las propuestas de proyectos en las que puedes participar. También te recomiendo que los sigas en [twitter](https://www.twitter.com/gsoc) y te hagas fan de su pagina en [facebook](https://www.facebook.com/pages/Google-Summer-of-Code/72468835990).
 
 Entre las organizaciones (y su respectivo software) que este año han propuesto ideas de mejoras o desarrollo se encuentran Eclipse, MySql, Drupal, Debian, FreeBSD, Gimp, Gnome, Kde y Wine por mencionar a las mas conocidas.
 

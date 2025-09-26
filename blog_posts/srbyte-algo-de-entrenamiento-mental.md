@@ -18,7 +18,7 @@ Da la casualidad que por razones de la vida, recientemente me topé con un famos
 
 Les ruego que no busquen la repuesta en internet, tómense su tiempo. También les sugiero que lo consideren como un problema de sudoku, solamente que en lugar de números posees características parcialmente relacionadas. Yo utilicé esa lógica para resolverlo, en realidad existen muchas (Ahhhhh, tenía que salir a relucir mi ego. No podía quedarme sin mencionar que yo lo había resuelto en 35 min., jajaja).
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s320/Albert_Einstein_Head.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s1600-h/Albert_Einstein_Head.jpg)
+![image](https://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s320/Albert_Einstein_Head.jpg)    
 "Mi querido amigo Albert.
 Seguramente estaría diciendo: Con que te crees capaz de resolver mi acertijo ah? A ver, inténtalo."
 
@@ -33,7 +33,7 @@ Hechos · El británico vive en la casa roja · El sueco tiene un perro · El da
 [la mayoría elabora una tabla en cuya primera
 columna escribe las características: "Casa, Nacionalidad, Bebida, Cigarros, Mascota" e intenta rellenar las filas correspondientes a cada característica con lo que cada uno supone que es la relación correcta, hasta a encontrar al dueño del bendito pez]
 
-¡Algunos llegaron al colmo de escribir programas en C++ o Lisp para resolver el acertijo! Eso si ya sobrepasa mis limites. Si quieren ver el código, búsquen los links en [el artículo de la wikipedia relacionado con el acertijo](http://en.wikipedia.org/wiki/Zebra_Puzzle), en las referencias finales del mismo.
+¡Algunos llegaron al colmo de escribir programas en C++ o Lisp para resolver el acertijo! Eso si ya sobrepasa mis limites. Si quieren ver el código, búsquen los links en [el artículo de la wikipedia relacionado con el acertijo](https://en.wikipedia.org/wiki/Zebra_Puzzle), en las referencias finales del mismo.
 
 P.D. en el artículo, mencionan al acertijo como "The Zebra Puzzle" o el acertijo de la zebra, el cual es otro nombre por el que se le conoce.
 

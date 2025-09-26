@@ -10,7 +10,7 @@ En cualquier escrito es muy importante la buena ortografía, la claridad, la coh
 
 La Real Academia de la Lengua Española define el estilo en la redacción como "Manera de escribir o de hablar peculiar de un escritor u orador". Ampliando el concepto, diremos que estilo es el sello personal que se le imprime a cualquier escrito, obra, acción o circunstancia que emprendemos. Esto hace que todo lo que hagamos nos individualice y caracterice de manera única e irrepetible.
 
-![](https://2.bp.blogspot.com/_JbB9KsZ238w/SZYvPkKv-PI/AAAAAAAAAT0/4-JCGbjyDpc/s320/pluma.bmp)
+![image](https://2.bp.blogspot.com/_JbB9KsZ238w/SZYvPkKv-PI/AAAAAAAAAT0/4-JCGbjyDpc/s320/pluma.bmp)  
 
 "El estilo es el ropaje del pensamiento; y un pensamiento bien
 vestido, como un hombre bien vestido, se presenta mejor"-- Conde de Chesterfield.
@@ -26,7 +26,7 @@ También, existen los denominados manuales de estilo, cuya utilización es más 
 
 Todos tenemos un estilo al momento de escribir. Éste se va perfilando y diferenciando en la medida en que se practica la escritura y se siguen las reglas básicas de la gramática y la ortografía. Por ello es recomendable ejercitar la escritura, contínuamente, de manera que exploremos y descrubamos el estilo de nuestra propia redacción.
 
-A continuación les dejo un texto que, en lo personal, me gusta mucho no sólo por la originalidad en la historia; sino también, por el estilo único que sólo [Franz Kafka](http://es.wikipedia.org/wiki/Kafka) sabía darle a sus relatos. Un estilo que para saborearle, se necesita mucha atención e imaginación.
+A continuación les dejo un texto que, en lo personal, me gusta mucho no sólo por la originalidad en la historia; sino también, por el estilo único que sólo [Franz Kafka](https://es.wikipedia.org/wiki/Kafka) sabía darle a sus relatos. Un estilo que para saborearle, se necesita mucha atención e imaginación.
 
 Aqui, un corto ejemplo:
 

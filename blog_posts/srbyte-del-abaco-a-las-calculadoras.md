@@ -12,7 +12,7 @@ El calculo (sencillo) es una habilidad natural del ser humano. Así como los cue
 
 El ábaco, hecho por los babilonios (en el 2400 antes de Cristo) y popularizado por los chinos, es un instrumento de ayuda de calculo, que atiende a la necesidad del ser humano para manejar cantidades numéricas enormes.
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RsRbMvK3CcI/AAAAAAAAAbo/a1ADB_7A-QM/s320/abaco.JPG)](http://bp3.blogger.com/_ayvorITawE4/RsRbMvK3CcI/AAAAAAAAAbo/a1ADB_7A-QM/s1600-h/abaco.JPG)
+![image](https://bp3.blogger.com/_ayvorITawE4/RsRbMvK3CcI/AAAAAAAAAbo/a1ADB_7A-QM/s320/abaco.JPG)    
 "Imagen de un
 ábaco"
 
@@ -22,7 +22,7 @@ Y vaya que lo hicieron, en 1623 Wilhelm Shickard comienza la era del calculo aut
 
 Mas tarde un hombre llamado Gottfried Wilhelm von Leibniz descubrió la conveniencia de usar un sistema binario en vez de uno decimal (1679), el sistema binario es la base de toda computadora moderna. A Leibniz se le conoce popular mente como el padre del "bit y del calculo".
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RsRcEvK3CfI/AAAAAAAAAcA/9hcVs7Ekoi4/s320/Gottfried_Wilhelm_von_Leibniz.jpg)](http://bp3.blogger.com/_ayvorITawE4/RsRcEvK3CfI/AAAAAAAAAcA/9hcVs7Ekoi4/s1600-h/Gottfried_Wilhelm_von_Leibniz.jpg)
+![image](https://bp3.blogger.com/_ayvorITawE4/RsRcEvK3CfI/AAAAAAAAAcA/9hcVs7Ekoi4/s320/Gottfried_Wilhelm_von_Leibniz.jpg)    
 "Retrato de Gottfried
 Wilhelm von Leibniz"
 
@@ -30,7 +30,7 @@ Si, padre del calculo, Leibniz perfecciono la notación matemática de la integr
 
 Muchos ya estarán pensado: ¿y Blaise Pascal? ¿y la Pascalina?.... Pues para responder a esas preguntas, Blaise Pascal invento la segunda maquina calculadora, llamada después la Pascalina o "Arithmetique", y lo hizo en 1645, 22 años después de Shickard. Lo siento por los profesores de informática que creían lo contrario (ja ja).
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RsRbjvK3CdI/AAAAAAAAAbw/EtFmlKfwrbA/s320/Blaise_Pascal.jpeg)](http://bp3.blogger.com/_ayvorITawE4/RsRbjvK3CdI/AAAAAAAAAbw/EtFmlKfwrbA/s1600-h/Blaise_Pascal.jpeg)
+![image](https://bp3.blogger.com/_ayvorITawE4/RsRbjvK3CdI/AAAAAAAAAbw/EtFmlKfwrbA/s320/Blaise_Pascal.jpeg)    
 "Retrato de Blaise
 Pascal"
 
@@ -38,13 +38,13 @@ Un avance importante de la Pascalina con el "reloj calculador": es que la Pascal
 
 Mas tarde (mucho mas tarde, casi 100 años después) aparece un señor ingles, matemático, filosofo, ingeniero mecánico que tuvo la brillante idea de una computadora programable. Este prolífico individuo era nada menos que Charles Babbage.
 
-[![](http://bp1.blogger.com/_ayvorITawE4/RsRbyPK3CeI/AAAAAAAAAb4/x8Q6wKXE-YI/s320/CharlesBabbage.jpg)](http://bp1.blogger.com/_ayvorITawE4/RsRbyPK3CeI/AAAAAAAAAb4/x8Q6wKXE-YI/s1600-h/CharlesBabbage.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/RsRbyPK3CeI/AAAAAAAAAb4/x8Q6wKXE-YI/s320/CharlesBabbage.jpg)    
 "Retrato de Charles
 Babbage"
 
 Algo muy interesante acerca de "Charlie", es que su maquina diferencial nunca pudo ser construida por completo. Pero en 1991, el museo de ciencias de Londres construyo, usando los planos originales de Babbage, una maquina diferencial completa y funcional con materiales similares a los disponibles en el siglo 19.
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RsRccvK3CgI/AAAAAAAAAcI/tWcB8W259i4/s320/diferencial.jpg)](http://bp3.blogger.com/_ayvorITawE4/RsRccvK3CgI/AAAAAAAAAcI/tWcB8W259i4/s1600-h/diferencial.jpg)
+![image](https://bp3.blogger.com/_ayvorITawE4/RsRccvK3CgI/AAAAAAAAAcI/tWcB8W259i4/s320/diferencial.jpg)    
 "Maquina diferencial de
 Babbage"
 

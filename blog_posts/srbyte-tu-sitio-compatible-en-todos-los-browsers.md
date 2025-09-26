@@ -6,7 +6,7 @@ tags: javascript, firefox, framework, explorer, safari, chrome, google, Opera, c
 post_id: blog-3515952828243908885.post-8708910136689830358
 ---
 
-[![](https://4.bp.blogspot.com/_jH77WNrMVRA/Siymb7gqwCI/AAAAAAAAFtA/d-rNTzrK0NM/s400/browsers.png)](https://4.bp.blogspot.com/_jH77WNrMVRA/Siymb7gqwCI/AAAAAAAAFtA/d-rNTzrK0NM/s1600-h/browsers.png)
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/Siymb7gqwCI/AAAAAAAAFtA/d-rNTzrK0NM/s400/browsers.png)    
 "Logotipos de los
 navegadores mas populares del mercado: Firefox, Internet Explorer, Safari, Opera y Chrome"
 
@@ -14,15 +14,15 @@ Todo diseñador-desarrollador web ha tenido que lidiar mas de alguna vez con el 
 
 Porque sucede esto? Sucede porque no todos los navegadores web cumplen a cabalidad con los estándares definidos para el web. Además cada navegador quiere sobresalir implementando sus propios estándares para poder hacer más cosas que las demas. Ejemplo de ello son las propiedades CSS que inician con el prefijo -moz- o -webkit-
 
-[![](https://1.bp.blogspot.com/_jH77WNrMVRA/Si810qCVfQI/AAAAAAAAFtI/7Ki22CkyW1k/s400/acid3.png)](https://1.bp.blogspot.com/_jH77WNrMVRA/Si810qCVfQI/AAAAAAAAFtI/7Ki22CkyW1k/s1600-h/acid3.png)
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/Si810qCVfQI/AAAAAAAAFtI/7Ki22CkyW1k/s400/acid3.png)    
 "Prueba del Acid3. Asi es
-como deberias ver esta imagen al visitar [este sitio](http://acid3.acidtests.org/) si es que tu browser cumple con los estándares aca impelemtados."
+como deberias ver esta imagen al visitar [este sitio](https://acid3.acidtests.org/) si es que tu browser cumple con los estándares aca impelemtados."
 
 Para estar seguro que tu sitio se ve bien en cualquier navegador, sugiero estas tres alternativas:
 
 - Usa Frameworks que te Aseguren la Independencia del Navegador
 
-[![](https://2.bp.blogspot.com/_jH77WNrMVRA/Si9cXLdcggI/AAAAAAAAFtQ/tzNWPRRxoWU/s400/csstest.png)](https://2.bp.blogspot.com/_jH77WNrMVRA/Si9cXLdcggI/AAAAAAAAFtQ/tzNWPRRxoWU/s1600-h/csstest.png)
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/Si9cXLdcggI/AAAAAAAAFtQ/tzNWPRRxoWU/s400/csstest.png)    
 "Página de prueba de la alineación y apariencia
 de los elementos de un formulario, usando Blueprints"
 
@@ -30,10 +30,10 @@ de los elementos de un formulario, usando Blueprints"
 
 - Crea una Versión Diferente de tu Sitio por cada Navegador/Arquitectura
 
-[![](https://1.bp.blogspot.com/_jH77WNrMVRA/Si9zN0PgSGI/AAAAAAAAFtY/zZq57EAwPS8/s400/nokiatwitter.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/Si9zN0PgSGI/AAAAAAAAFtY/zZq57EAwPS8/s1600-h/nokiatwitter.jpg)
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/Si9zN0PgSGI/AAAAAAAAFtY/zZq57EAwPS8/s400/nokiatwitter.jpg)    
 "Versión mobil de Twitter,
 visualizada desde un Nokia n95"
 
-Debido a estas diferencias entre los navegadores, existen muchos sitios que solo son capaces de funcionar o lucir bien en uno u otro navegador, de manera que cuando lo visualizas en cualquier otro el sitio es un completo desastre, como los listados en [este sitio](http://toastytech.com/good/badsitelistframe.html).
+Debido a estas diferencias entre los navegadores, existen muchos sitios que solo son capaces de funcionar o lucir bien en uno u otro navegador, de manera que cuando lo visualizas en cualquier otro el sitio es un completo desastre, como los listados en [este sitio](https://toastytech.com/good/badsitelistframe.html).
 
 Conoces algun sitio importante que se solamente se vea bien en uno u otro navegador?

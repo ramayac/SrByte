@@ -22,4 +22,4 @@ Y competencia para los "Skaters":
 
 . Tambien existen super computadoras que se usan para simular explociones nucleares, sismos, mareas rojas, huracanes... y casi todo tipo de desastre y plaga apocaliptica conocida.
 
-[![](http://bp1.blogger.com/_ayvorITawE4/ReMShOa0W-I/AAAAAAAAAJk/tmU2BaQzFsg/s400/mitch1.jpg)](http://bp1.blogger.com/_ayvorITawE4/ReMShOa0W-I/AAAAAAAAAJk/tmU2BaQzFsg/s1600-h/mitch1.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/ReMShOa0W-I/AAAAAAAAAJk/tmU2BaQzFsg/s400/mitch1.jpg)

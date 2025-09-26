@@ -6,11 +6,11 @@ tags: luto, tertulia, blog
 post_id: blog-3515952828243908885.post-9187335112997375702
 ---
 
-Un blog, también conocido como weblog o [cuaderno de bitácora](http://es.wikipedia.org/wiki/Cuaderno_de_bit%C3%A1cora) (lista de sucesos, como la bitácora del capitán Kirk en Star Trek... ¿recuerdan?), es un sitio web periódicamente actualizado que recopila cronológicamente artículos de uno o varios autores, apareciendo primero el más reciente, donde el autor conserva siempre la libertad de dejar publicado lo que crea pertinente. Habitualmente los lectores pueden escribir sus comentarios y el autor darles respuesta, de forma que es posible establecer un diálogo en base a los artículos escritos. El uso o temática de cada blog es particular, existen muchos (demasiados) de tipo personal (razón principal de la popularidad de los blog, los blogs son para muchas personas como un "Mi querido diario virtual publico") existen otros tantos [periodísticos](http://es.wikipedia.org/wiki/Periodismo), empresariales o corporativos, tecnológicos (como este blog), educativo (edublogs), políticos, eróticos, religiosos, splogs (spam blogs) etc, etc, etc. fuente wikipedia
+Un blog, también conocido como weblog o [cuaderno de bitácora](https://es.wikipedia.org/wiki/Cuaderno_de_bit%C3%A1cora) (lista de sucesos, como la bitácora del capitán Kirk en Star Trek... ¿recuerdan?), es un sitio web periódicamente actualizado que recopila cronológicamente artículos de uno o varios autores, apareciendo primero el más reciente, donde el autor conserva siempre la libertad de dejar publicado lo que crea pertinente. Habitualmente los lectores pueden escribir sus comentarios y el autor darles respuesta, de forma que es posible establecer un diálogo en base a los artículos escritos. El uso o temática de cada blog es particular, existen muchos (demasiados) de tipo personal (razón principal de la popularidad de los blog, los blogs son para muchas personas como un "Mi querido diario virtual publico") existen otros tantos [periodísticos](https://es.wikipedia.org/wiki/Periodismo), empresariales o corporativos, tecnológicos (como este blog), educativo (edublogs), políticos, eróticos, religiosos, splogs (spam blogs) etc, etc, etc. fuente wikipedia
 
 Y existen tantos blogs y la gente escribe tantas cosas en ellos, que es dificil decidir si es locura o creatividad, arte o garabatos, humor o sarcasmo...
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s320/421934061_075233b186.jpg)](http://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s1600-h/421934061_075233b186.jpg)
+![image](https://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s320/421934061_075233b186.jpg)    
 "Al final, cada loco con su
 tema... :) "
 
@@ -18,7 +18,7 @@ Bloggin, que es el nombre anglo para la actividad de publicar información en un
 
 Bloggear (publicar artículos en un blog) es una tendencia explosiva que esta llegando a todas las sociedades del mundo y es también una moda para millones de personas. De acuerdo con recientes estadísticas del sitio Technorati (que es un blog tracker, es decir un sitio web que se encarga de seguirle la pista a cada publicación de blogs que estén suscritos a el) la blogosfera se ha duplicado por los últimos tres años.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s400/masthead.png)](http://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s1600-h/masthead.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s400/masthead.png)    
 "Logo de
 Technorati.com"
 
@@ -32,7 +32,7 @@ Por eso la blogosfera se considera también como:
 
 > un barómetro de la conectividad digital del
 > mundo...
-...en el que noticias especificas aumentan o desencadenan una serie de publicaciones asociadas con la misma. Un ejemplo actual tiene que ver con [La Masacre de Virginia Tech](http://technorati.com/search/%22virginia%20tech%22) perpetrada la mañana del lunes 16 de abril de este año (buscado con las etiquetas "virginia tech" en Technorati) al momento en que se redacto este articulo ha generado:
+...en el que noticias especificas aumentan o desencadenan una serie de publicaciones asociadas con la misma. Un ejemplo actual tiene que ver con [La Masacre de Virginia Tech](https://technorati.com/search/%22virginia%20tech%22) perpetrada la mañana del lunes 16 de abril de este año (buscado con las etiquetas "virginia tech" en Technorati) al momento en que se redacto este articulo ha generado:
 > 4,161
 > publicaciones, 6,783 fotos y 20 vídeos (etiquetados)
 > y 97,588
@@ -44,7 +44,7 @@ Nuestros corazones están con las víctimas de tan terrible suceso.
 
 La blogosfera además son blogs agrupados por algún criterio específico como localización, temática, idioma, etc. Existe en el país una blogosfera Salvadoreña pronta a conoserce en carne y hueso en la primera reunión de bloggers guanacos, llamada la "Tertulia 1.0":
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s400/tertulia01.jpg)](http://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s1600-h/tertulia01.jpg)
+![image](https://bp0.blogger.com/_ayvorITawE4/RiY4Ane2e7I/AAAAAAAAARE/EqxQ0SXgtaQ/s400/tertulia01.jpg)    
 "La Tertulia 1.0"
 
 Fecha: Sábado 21 de Abril 2007 Lugar: ... en San Salvador ;) Hora: desde las 2:00 p.m. en adelante.

@@ -6,18 +6,18 @@ tags: java, divertido, hoygan, .net, fun, lolcode, codigo, humor, lenguaje, prog
 post_id: blog-3515952828243908885.post-4954368188901091760
 ---
 
-[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SUg-LGUmOmI/AAAAAAAAFPI/FVRjwTxKvr8/s400/2542236565_bd6b4a87df_o.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/SUg-LGUmOmI/AAAAAAAAFPI/FVRjwTxKvr8/s1600-h/2542236565_bd6b4a87df_o.jpg)
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUg-LGUmOmI/AAAAAAAAFPI/FVRjwTxKvr8/s400/2542236565_bd6b4a87df_o.jpg)    
 "Imagen LOLCat, haciendo
 referencia al LOLCode"
 
-Como [ya mencionamos alguna vez](http://www.srbyte.com/2007/01/el-lenguaje-de-programacion-perfecto.html), la lista de lenguajes de programación disponibles es extensa, hay muchos muy populares, bien fundamentados y con gran soporte por parte de sus creadores, como Java y .Net pero también hay otros llamados esotéricos u oscuros que son poco conocidos, orientados a una rama específica y quizá un tanto difíciles de aprender. Cada programador debe buscar el lenguaje en el que se sienta cómodo y satisfaga sus necesidades y los requerimientos de los programas que desarrolla.
+Como [ya mencionamos alguna vez](https://www.srbyte.com/2007/01/el-lenguaje-de-programacion-perfecto.html), la lista de lenguajes de programación disponibles es extensa, hay muchos muy populares, bien fundamentados y con gran soporte por parte de sus creadores, como Java y .Net pero también hay otros llamados esotéricos u oscuros que son poco conocidos, orientados a una rama específica y quizá un tanto difíciles de aprender. Cada programador debe buscar el lenguaje en el que se sienta cómodo y satisfaga sus necesidades y los requerimientos de los programas que desarrolla.
 
-Uno de estos programas poco conocidos y quizá de los mas recientes es el [LOLCODE](http://lolcode.com/). Este lenguaje, creado por Adam Linsay en el pasado 2007, se caracteriza por utilizar frases al estilo LOLCAT como comandos y palabras reservadas de manera que sea mucho mas fácil desarrollar programas para gente conocedora de este estilo, el cual, ha tenido un gran auge en Internet.
+Uno de estos programas poco conocidos y quizá de los mas recientes es el [LOLCODE](https://lolcode.com/). Este lenguaje, creado por Adam Linsay en el pasado 2007, se caracteriza por utilizar frases al estilo LOLCAT como comandos y palabras reservadas de manera que sea mucho mas fácil desarrollar programas para gente conocedora de este estilo, el cual, ha tenido un gran auge en Internet.
 
-[LOLCAT?](http://en.wikipedia.org/wiki/Lolcat) Es un termino que se usa para referirse a imágenes o
+[LOLCAT?](https://en.wikipedia.org/wiki/Lolcat) Es un termino que se usa para referirse a imágenes o
 fotografías cómicas relacionadas comúnmente con gatos, seguida de una frase alusiva. También se suele llamar con este nombre al tipo de escritura que se usa para dichas frases, ya que es un inglés mal hablado o como diríamos acá: caliche.
 
-En otras palabras, es el equivalente al [HOYGAN](http://es.wikipedia.org/wiki/Usuario:Francisco_Mochis/HOYGAN) en castellano. Que tampoco sabes lo que es un hoygan? acá unos ejemplos tomados de foros, fotologs y Yahoo Answers:
+En otras palabras, es el equivalente al [HOYGAN](https://es.wikipedia.org/wiki/Usuario:Francisco_Mochis/HOYGAN) en castellano. Que tampoco sabes lo que es un hoygan? acá unos ejemplos tomados de foros, fotologs y Yahoo Answers:
 
 > HOYGAN C0Mo arr3gl0 la l3tr4
 > ALA izqui3rd4 de la J

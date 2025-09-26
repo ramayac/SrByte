@@ -6,9 +6,9 @@ tags: bad, interesante, descifrar, microsoft, nerd
 post_id: blog-3515952828243908885.post-8888143693865710740
 ---
 
-Dentro de poco, comenzara a circular en todos los medios de comunicación algún articulo sobre la historia, vida y partida de Bill Gates de su preciado negocio, Microsoft. Aparentemente, la mayoría de personas creen que Bill realmente se retira. Cuando uno lee estos artículos e historias no se me ocurre nada más que pensar en todo este asunto como un gran chiste, o como dicen los gringos... [BS](http://en.wikipedia.org/wiki/Bullshit).
+Dentro de poco, comenzara a circular en todos los medios de comunicación algún articulo sobre la historia, vida y partida de Bill Gates de su preciado negocio, Microsoft. Aparentemente, la mayoría de personas creen que Bill realmente se retira. Cuando uno lee estos artículos e historias no se me ocurre nada más que pensar en todo este asunto como un gran chiste, o como dicen los gringos... [BS](https://en.wikipedia.org/wiki/Bullshit).
 
-La idea de que Bill Gates deje su corporación para dedicar "todo su tiempo" a la fundación "[Bill & Melinda Gates](http://www.gatesfoundation.org/default.htm)
+La idea de que Bill Gates deje su corporación para dedicar "todo su tiempo" a la fundación "[Bill & Melinda Gates](https://www.gatesfoundation.org/default.htm)
 " es ridícula.
 
 Déjenme decirles porque: La fundación esta tan bien hecha que podría funcionar sin que Bill nunca se acerque a ella. Y todo mundo sabe que Melinda puede manejar la fundación tan bien como Bill maneja Microsoft (y hasta mejor quizás). Aunque Bill provea una importante figura estratégica y será valorada en la fundación, les pregunto a ustedes:
@@ -16,7 +16,7 @@ Déjenme decirles porque: La fundación esta tan bien hecha que podría funciona
 > ¿Por que un icono de los negocios y la
 > tecnología piensa en dejar su monopólico negocio para asistir a las aburridas reuniones de una
 > institución de caridad?
-![](http://uk.gizmodo.com/bill%20gates.jpg)
+![image](https://uk.gizmodo.com/bill%20gates.jpg)    
 "Imagen: Bill
 Gates."
 
@@ -24,23 +24,23 @@ Gates."
 
 Permitanme explicar...
 
-Para mi, Bill quiere extraerse "completamente" de Microsoft, y así dejar a su compañía a la deriva. ¿Quien quedará en el poder? ¿Steve Ballmer? ¡No!, sin Bill, lo más probable es que Ballmer también se vaya. Y a menos de que pongan a algún tipo como Jeff Raikes (o algún clon de Bill) entonces la compañía esta "destinada" (antepongan la palabra: estrategicamente) a fracasar (y de todas formas, con la partida de Bill, [la "vieja guardia" también se quiere retirar](http://blogs.guardian.co.uk/technology/2008/01/12/microsofts_jeff_raikes_plans_to_step_down_fitzgerald_quits.html)).
+Para mi, Bill quiere extraerse "completamente" de Microsoft, y así dejar a su compañía a la deriva. ¿Quien quedará en el poder? ¿Steve Ballmer? ¡No!, sin Bill, lo más probable es que Ballmer también se vaya. Y a menos de que pongan a algún tipo como Jeff Raikes (o algún clon de Bill) entonces la compañía esta "destinada" (antepongan la palabra: estrategicamente) a fracasar (y de todas formas, con la partida de Bill, [la "vieja guardia" también se quiere retirar](https://blogs.guardian.co.uk/technology/2008/01/12/microsofts_jeff_raikes_plans_to_step_down_fitzgerald_quits.html)).
 
 Ya hemos visto algo similar con Apple...
 
-Después de mandar hipotéticamente a Siberia a Steve Jobs, Apple paso al mando de [John Scully](http://en.wikipedia.org/wiki/John_Sculley)(antes presidente de Pepsi), Steve se fué y finalmente Apple comenzó a navegar sin rumbo. Paso a ser timoneado por otros administradores "profesionales" que simplemente no pudieron hacer nada para mejorar la situación. Hasta que Jobs regresó:
+Después de mandar hipotéticamente a Siberia a Steve Jobs, Apple paso al mando de [John Scully](https://en.wikipedia.org/wiki/John_Sculley)(antes presidente de Pepsi), Steve se fué y finalmente Apple comenzó a navegar sin rumbo. Paso a ser timoneado por otros administradores "profesionales" que simplemente no pudieron hacer nada para mejorar la situación. Hasta que Jobs regresó:
 
 "Video: El Retorno de Steve
 Jobs" No tomaría mucho tiempo para ver esos mismos estragos en Microsoft. Luego, de acuerdo con el -supuesto- plan,el Sr. Gates no tendría más opción que regresar como el héroe a salvar la compañía. Y aunque no hay nada de original en esta idea, si Bill lo hace, pues seria ESPECTACULAR.......
 
-[![](http://bp1.blogger.com/_ayvorITawE4/R8jgDzAI-nI/AAAAAAAAAlI/W39ehfpEZrU/s320/funny-pictures-the-bill-gates-empire-xFw.jpg)](http://bp1.blogger.com/_ayvorITawE4/R8jgDzAI-nI/AAAAAAAAAlI/W39ehfpEZrU/s1600-h/funny-pictures-the-bill-gates-empire-xFw.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/R8jgDzAI-nI/AAAAAAAAAlI/W39ehfpEZrU/s320/funny-pictures-the-bill-gates-empire-xFw.jpg)    
 "Si a Bill le saliera la
 jugada, fuera espectacular."
 
-Espectacular para Microsoft, sus Fan Boys y sus accionistas. Mejoraría inclusive "[El Retorno del Fundador Prodigo](http://www.wired.com/techbiz/media/news/1996/12/1137)
-" (El Retorno de Steve Jobs) y quizás por eso mismo, este plan no tiene tantas probabilidades de funcionar. Ya [Ted Waitt](http://en.wikipedia.org/wiki/Ted_Waitt) intento hacer lo mismo con [Gateway](http://en.wikipedia.org/wiki/Gateway%2C_Inc.)... y falló miserablemente. Ahora Gateway no es mas que una subsidiaria de [Acer](http://en.wikipedia.org/wiki/Acer_%28company%29), una compañía China (jaja).
+Espectacular para Microsoft, sus Fan Boys y sus accionistas. Mejoraría inclusive "[El Retorno del Fundador Prodigo](https://www.wired.com/techbiz/media/news/1996/12/1137)
+" (El Retorno de Steve Jobs) y quizás por eso mismo, este plan no tiene tantas probabilidades de funcionar. Ya [Ted Waitt](https://en.wikipedia.org/wiki/Ted_Waitt) intento hacer lo mismo con [Gateway](https://en.wikipedia.org/wiki/Gateway%2C_Inc.)... y falló miserablemente. Ahora Gateway no es mas que una subsidiaria de [Acer](https://en.wikipedia.org/wiki/Acer_%28company%29), una compañía China (jaja).
 
-![](http://blogs.itworldcanada.com/insights/files/2007/08/gateway-logo.jpg)
+![image](https://blogs.itworldcanada.com/insights/files/2007/08/gateway-logo.jpg)    
 "Imagen: Logo
 Gateway."
 
@@ -48,7 +48,7 @@ Gateway."
 
 Y aunque les duela, Bill Gates es un personaje único en la historia de los negocios, y posee dos características que lo vuelven muy particular: posee una habilidad increíble para saber y llegar a donde quiere ir, y ademas posee una ridícula naturaleza competitiva incomparable. El punto es que Bill no se retira nunca de un reto, y en este medio el contendiente es Steve Jobs.
 
-![](http://www.zdnet.com.au/story_media/339277901/photos-when-bill-gates-met-steve-jobs_6.jpg)
+![image](https://www.zdnet.com.au/story_media/339277901/photos-when-bill-gates-met-steve-jobs_6.jpg)    
 "Bill Gates vs. Steve
 Jobs... ¿Quien esta ganando la batalla?"
 
@@ -59,7 +59,7 @@ Así que, después de todo esto, todavía piensas que Bill realmente se quiere r
 > ¡Bill Gates es como un nerd salido del
 > infierno!
 
-[![](http://bp1.blogger.com/_ayvorITawE4/R8jhKzAI-oI/AAAAAAAAAlQ/fs_futLfDDc/s320/BillGates1977.jpg)](http://bp1.blogger.com/_ayvorITawE4/R8jhKzAI-oI/AAAAAAAAAlQ/fs_futLfDDc/s1600-h/BillGates1977.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/R8jhKzAI-oI/AAAAAAAAAlQ/fs_futLfDDc/s320/BillGates1977.jpg)    
 "Imagen: Bill Gates en sus
 días de rebeldía."
 

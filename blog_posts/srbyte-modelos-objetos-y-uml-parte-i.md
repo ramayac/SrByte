@@ -27,7 +27,7 @@ Se construyen modelos de un sistema porque no se puede comprender un sistema en 
 > Vencerás...
 aplicada al desarrollo de software.
 
-[![](http://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s400/DivideConquer.JPG)](http://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s1600-h/DivideConquer.JPG)
+![image](https://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s400/DivideConquer.JPG)    
 "Portada del libro: "Divide
 y Venceras""
 
@@ -42,4 +42,4 @@ Y algo más importante que lo anterior es que:
 > "realidad"
 Cualquier sistema informático no trivial se aborda mejor a través de un pequeño conjunto de modelos casi independientes con múltiples puntos de vista para asegurar el éxito del sistema.
 
-Ve la segunda parte [da click aquí.](http://srbyte.blogspot.com/2007/04/modelos-objetos-y-uml-parte-ii.html)
+Ve la segunda parte [da click aquí.](https://srbyte.blogspot.com/2007/04/modelos-objetos-y-uml-parte-ii.html)

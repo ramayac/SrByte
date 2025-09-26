@@ -12,7 +12,7 @@ Introducción: Con PAPRIKA, el director Satoshi Kon (también director de TOKYO 
 
 "Video Trailer Paprika."
 
-[![](http://bp0.blogger.com/_ayvorITawE4/R7cXTrTZHaI/AAAAAAAAAjU/6RkkQQjifog/s320/paprika.jpg)](http://bp0.blogger.com/_ayvorITawE4/R7cXTrTZHaI/AAAAAAAAAjU/6RkkQQjifog/s1600-h/paprika.jpg) Sinopsis: Paprika es una adaptación de una historia
+![image](https://bp0.blogger.com/_ayvorITawE4/R7cXTrTZHaI/AAAAAAAAAjU/6RkkQQjifog/s320/paprika.jpg)    Sinopsis: Paprika es una adaptación de una historia
 escrita por el aclamado escritor Yasutaka Tsutsui. En un futuro no muy distante, un grupo de científicos desarrolla un nuevo tratamiento de psicoterapia llamado PT, que coincide con la invención de un dispositivo llamado "DC Mini". El "DC Mini" permite entrar en los sueños de un sujeto de prueba y explorar el extraño y fantástico mundo de la mente inconsciente y en el proceso solucionar los problemas del individuo. Pero un día el "DC Mini" se pierde, y su desaparición obliga al equipo de científicos a buscar al terrorista que esta invadiendo desconsideradamente el ultimo santuario de la privacidad humana, el mundo de los sueños. El terrorista "ataca" al equipo de científicos creadores del "DC Mini", incrustando sueños psicóticos y abundantes en delirios de grandeza, que termina en la mezcla de la realidad y la fantasía, provocando a las victimas la locura y luego, la muerte. ¿Quien podrá moverse entre este mundo de confusión, en donde la realidad y los sueños se mezclan, para evitar que la tragedia siga, y así proteger nuestros sueños?
 
 "Video: Principio película Paprika."

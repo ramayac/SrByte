@@ -6,7 +6,7 @@ tags: administrar, linux, limitar, trickle, internet, bandwith
 post_id: blog-3515952828243908885.post-8103715126442289826
 ---
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RwzyBFmN2bI/AAAAAAAAAgo/UP4azpHUO_o/s320/work_bandwidth.jpg)](http://bp3.blogger.com/_ayvorITawE4/RwzyBFmN2bI/AAAAAAAAAgo/UP4azpHUO_o/s1600-h/work_bandwidth.jpg)
+![image](https://bp3.blogger.com/_ayvorITawE4/RwzyBFmN2bI/AAAAAAAAAgo/UP4azpHUO_o/s320/work_bandwidth.jpg)    
 "Estoy seguro de que muchos
 de nosotros usaríamos esta camisa..."
 
@@ -19,7 +19,7 @@ Una de las cosas que mas me gusta hacer, es hacer una actualización del sistema
 
 Y ese programa del que les hablo es trickle y trickled (daemon de trickle). Trickle se encarga de limitar (pero como tu la limitas, tu administras ;) el uso de ancho de banda de "subida" y "bajada" de una aplicación que le especifiquemos.
 
-[![](http://bp1.blogger.com/_ayvorITawE4/Rwzw-lmN2aI/AAAAAAAAAgg/MIIGtUo8v-o/s320/masanchobanda.jpg)](http://bp1.blogger.com/_ayvorITawE4/Rwzw-lmN2aI/AAAAAAAAAgg/MIIGtUo8v-o/s1600-h/masanchobanda.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/Rwzw-lmN2aI/AAAAAAAAAgg/MIIGtUo8v-o/s320/masanchobanda.jpg)    
 "¡Usa más Ancho de
 Banda!"
 
@@ -31,7 +31,7 @@ Entonces trickle limitaría "apt-get upgrade" para usar solo 5 Kbps de "subida" 
 
 En lenguaje Geek: trickle es una aplicación del espacio de usuarios, que puede trabajar en forma colaborativa con trickled o en modo solitario (stand alone).
 
-Definitivamente una muy útil aplicación, que puede ser usada para mil cosas más. Visiten la pagina de Trickle para obtener más información: [http://monkey.org/~marius/pages/?page=trickle](http://monkey.org/%7Emarius/pages/?page=trickle)
+Definitivamente una muy útil aplicación, que puede ser usada para mil cosas más. Visiten la pagina de Trickle para obtener más información: [https://monkey.org/~marius/pages/?page=trickle](https://monkey.org/%7Emarius/pages/?page=trickle)
 
 Saludos!
 

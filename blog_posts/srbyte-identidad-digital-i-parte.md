@@ -10,7 +10,7 @@ Recuerdo que hace un par de años, un amigo me comento que hay compañías en Es
 
 Fue tanto el impacto que me causo conocer esa "técnica de selección", que inmediatamente comencé a imaginar una forma de tener mi nombre regado por Internet. Y no es solo por diversión, existe un factor que te da una ventaja competitiva sobre las demás personas que no exponen o publican su trabajo en Internet.
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s1600-h/contratando2.jpg)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)    
 "Gana enfoque exponiendo tu trabajo en Internet"
 
 Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue siendo eso. Este blog, actúa como carta de presentación y como herramienta de conocimiento personal-técnico, y claro, a más de alguien también le ayuda en algo :)
@@ -19,7 +19,7 @@ Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue
 > class="Apple-style-span" style="font-weight: bold;">Identidad
 > Digital...
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s320/identidad.png)](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s1600-h/identidad.png)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s320/identidad.png)    
 "Forma tu identidad digital
 mediante el contenido que generas"
 
@@ -29,7 +29,7 @@ En el mundo real tenemos gente que nos reconoce (compañeros universitarios, de 
 
 La identidad es una cualidad que se refiere a la existencia, su desarrollo involucra el entrono, la historia y la voluntad. No esta dada, sino que es un potencial, y eso es lo que nos interesa. Estoy seguro que ya pasamos la época, de este cómic:
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s320/idog.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s1600-h/idog.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s320/idog.jpg)    
 "En Internet, nadie
 sabe que eres un perro."
 

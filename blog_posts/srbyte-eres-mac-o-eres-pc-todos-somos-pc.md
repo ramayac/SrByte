@@ -11,7 +11,7 @@ de la fabulosa campaña de anuncios que lanzo Apple contra las PC del mundo.
 
 Y es que lo fabuloso de la campaña, es que logra hacer que los usuarios de PC parezcan gente tonta y nerviosa, los videos son entretenidos, cómicos y muy efectivos; pero también fomentan enormemente uno de los mas grandes errores de percepción que puedan existir: "toda computadora que use Windows es una PC, y las Mac son ... otra cosa". Y claro, esto es totalmente incorrecto.
 
-Para que el anuncio fuese correcto, el comediante [John Hodman](http://en.wikipedia.org/wiki/John_Hodgman) (el que encarna a una PC) tiene que decir: "Yo soy una PC", y [Justin Long](http://en.wikipedia.org/wiki/Justin_Long) (el que hace de 'Mac') tiene que decir: "y Yo también soy una PC".
+Para que el anuncio fuese correcto, el comediante [John Hodman](https://en.wikipedia.org/wiki/John_Hodgman) (el que encarna a una PC) tiene que decir: "Yo soy una PC", y [Justin Long](https://en.wikipedia.org/wiki/Justin_Long) (el que hace de 'Mac') tiene que decir: "y Yo también soy una PC".
 
 ¿Queeeeeeeeeeeeeee?, ¡Blasfemia! ... desde aquí puedo escuchar a la "Maqueros" rasgar sus vestiduras y condenarme a una eternidad usando Vista. ¿Por qué me atrevo a decir semejante atrocidad?, por que es cierto, lo siento mucho, pero es la realidad imparcial y justa.
 > Una Mac es una PC.
@@ -19,7 +19,7 @@ Las siglas "PC" significan: Personal Computer ó Computadora Personal, eso creo 
 
 Un Poco de Historia 1984 la industria en general se refería a las PC como IBM PC. Luego Apple, luego de la caída Apple II y de la poca popularidad que tuvo Lisa, lanzo su sistema operativo Macintosh...
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/STFrUNoqvPI/AAAAAAAABd4/iY3f_GSqs40/s320/macintosh-128k.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/STFrUNoqvPI/AAAAAAAABd4/iY3f_GSqs40/s1600-h/macintosh-128k.jpg)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrUNoqvPI/AAAAAAAABd4/iY3f_GSqs40/s320/macintosh-128k.jpg)    
 "The
 Macintosh"
 
@@ -28,10 +28,10 @@ Antes de eso, prácticamente todas las IBM PC y las PC clones (las que no eran I
 Nada divino en las Mac Sin duda alguna los productos de Apple son maravillosos, en el sentido de la consistencia, diseño, eficiencia y fidelidad a sus precios elevados. Pero...
 > la MacBook Air no crece en los arboles, los iPod no salen del
 > trasero a un Fénix mágico y Steve Jobs no es Moisés...
-[![](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s320/and062107blog.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s1600-h/and062107blog.jpg)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s320/and062107blog.jpg)    
 Recuerden, ahora todas las Mac emplean un CPU de Intel, y con Boot Camp, hasta las Mac ejecutan el SO Windows. ¿Me pregunto si la gente que hace eso (usar Boot Camp) se refieren a sus Mac como PC?
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/STFrTXcclhI/AAAAAAAABdo/ySKcEKYySwU/s320/bootcamp_macbooks2.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/STFrTXcclhI/AAAAAAAABdo/ySKcEKYySwU/s1600-h/bootcamp_macbooks2.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/STFrTXcclhI/AAAAAAAABdo/ySKcEKYySwU/s320/bootcamp_macbooks2.jpg)    
 "Una MacBook con Windows...
 que bizarro"
 
@@ -40,14 +40,14 @@ Entiendo perfectamente, que esta serie de videos y campañas no funcionarían co
 > 10"
 ...sería una catástrofe, aunque seria la realidad. Las computadoras de Apple ni me vienen, ni me van. En lo personal, creo que son buenas... muy buenas, tan buenas como una:
 
-[Dell XPS ONE](http://www.dell.com/content/products/productdetails.aspx/xpsdt_one?c=us&cs=19&l=en&s=dhs)
+[Dell XPS ONE](https://www.dell.com/content/products/productdetails.aspx/xpsdt_one?c=us&cs=19&l=en&s=dhs)
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/STFtDysbFHI/AAAAAAAABeI/dAt85qU3bUc/s320/desktop-xps-a2420-hero.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/STFtDysbFHI/AAAAAAAABeI/dAt85qU3bUc/s1600-h/desktop-xps-a2420-hero.jpg)ó [Sony VAIO VGC-LT29U](http://cgi.ebay.com/Sony-VAIO-VGC-LT29U-DesktopPC-Blu-Ray-Burner-1000GB-NIB_W0QQitemZ110310935712QQcmdZViewItem)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STFtDysbFHI/AAAAAAAABeI/dAt85qU3bUc/s320/desktop-xps-a2420-hero.jpg)    ó [Sony VAIO VGC-LT29U](https://cgi.ebay.com/Sony-VAIO-VGC-LT29U-DesktopPC-Blu-Ray-Burner-1000GB-NIB_W0QQitemZ110310935712QQcmdZViewItem)
 
-[![](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s320/vaio.JPG)](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s1600-h/vaio.JPG)
+![image](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s320/vaio.JPG)    
 En lo personal, quiero una PC Mac, pero solo para instalarle Linux :) Todos estamos usando computadoras personales, y depende de las necesidades personales elegir que utilizar para obtener mejor calidad en el entretenimiento, ser más productivo y en general, tener una mejor experiencia digital... sin embargo, y sin importar cuanto lo digan los anuncios y cuanto repitas tu mantra "Think Mac"... al final, todos somos PC.
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s1600-h/macandpc.jpg)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)    
 Yo soy un PC Linux, y tu ¿qué PC eres?
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

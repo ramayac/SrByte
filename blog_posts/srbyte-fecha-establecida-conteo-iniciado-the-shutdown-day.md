@@ -6,7 +6,7 @@ tags: divertido, programador, idea, computadoras, fun, interesante, day, geek, c
 post_id: blog-3515952828243908885.post-135227451282870820
 ---
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/SAZSAvKZm8I/AAAAAAAAA1c/iNCjTcaUeC0/s320/logo.gif)](http://bp3.blogger.com/_jH77WNrMVRA/SAZSAvKZm8I/AAAAAAAAA1c/iNCjTcaUeC0/s1600-h/logo.gif)
+![image](https://bp3.blogger.com/_jH77WNrMVRA/SAZSAvKZm8I/AAAAAAAAA1c/iNCjTcaUeC0/s320/logo.gif)    
 "Logo Oficial del Sitio y
 Evento ShutdownDay 2008"
 
@@ -18,7 +18,7 @@ Esta ideología y evento son iniciativa de Denis Bystrov, un programador de Mont
 
 El evento fué todo un éxito en el 2007 y ahora comienza el desafío para este año 2008.
 
-En [su sitio oficial](http://www.shutdownday.org/) puedes ver la cuenta regresiva y registrarte para poder dar tu opinión acerca de si podrías o no superar el desafío. Además te permiten participar realizando [flash mobs](http://en.wikipedia.org/wiki/Flash_mob), comprando camisetas, capturando fotografías y vídeos sobre tus ideas de lo que haces(o harás) ese día en especifico (con lo cual te puedes hacer merecedor de uno de los premios que ofrecen para las mejores ideas), patrocinando el evento, etc.
+En [su sitio oficial](https://www.shutdownday.org/) puedes ver la cuenta regresiva y registrarte para poder dar tu opinión acerca de si podrías o no superar el desafío. Además te permiten participar realizando [flash mobs](https://en.wikipedia.org/wiki/Flash_mob), comprando camisetas, capturando fotografías y vídeos sobre tus ideas de lo que haces(o harás) ese día en especifico (con lo cual te puedes hacer merecedor de uno de los premios que ofrecen para las mejores ideas), patrocinando el evento, etc.
 
 "Video promocional del
 evento: 'Is Not You' "

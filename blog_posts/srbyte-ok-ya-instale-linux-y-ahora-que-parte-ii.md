@@ -12,25 +12,25 @@ Estos accesorios los podemos agregar al panel principal (nos basaremos en el gno
 
 Para agregar un nuevo elemento al panel de GNome simplemente hacemos clic derecho sobre el y seleccionamos la opción "Agregar al Panel". De la ventana que aparece seleccionamos los applets de nuestra elección. Algunos de los applets recomendados son el "Forzar la Salida" el cual permite cerrar una aplicación que deje de responder simplemente haciendo clic sobre ella, "Indicador de Distribución de Teclado" para los que tenemos teclado inglés y toca estar cambiando a distribucion latinoamericana y el "Deskbar", el cual es un buscador todo en uno.
 
-[![](https://4.bp.blogspot.com/_jH77WNrMVRA/SS_h0bvNGgI/AAAAAAAAEto/7GfYPh3vkCc/s400/GnomePanelShot.png)](https://4.bp.blogspot.com/_jH77WNrMVRA/SS_h0bvNGgI/AAAAAAAAEto/7GfYPh3vkCc/s1600-h/GnomePanelShot.png)
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SS_h0bvNGgI/AAAAAAAAEto/7GfYPh3vkCc/s400/GnomePanelShot.png)    
 "Imagen del Gnome Panel
 mostrando algunos applets como el indicador del teclado, la fecha/hora, el deskbar, forzar salida y las estadísticas del CPU/RAM/Red. Mostrando también la ventana para agregar mas applets"
 
 Otra muy conveniente forma de tener accesorios en nuestro escritorio es usando los Screenlets. Estos accesorios son tan útiles como variados y fáciles de administrar. No se requiere mas que hacer un apt-get install screenlets para tenerlos a nuestra disposicion. Al final, podemos hacer que nuestro escritorio luzca de esta forma (clic para agrandar):
 
-[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SS_mtezm0uI/AAAAAAAAEtw/kXRiMm5ykyk/s400/600px-Mydesk.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/SS_mtezm0uI/AAAAAAAAEtw/kXRiMm5ykyk/s1600-h/600px-Mydesk.jpg)
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SS_mtezm0uI/AAAAAAAAEtw/kXRiMm5ykyk/s400/600px-Mydesk.jpg)    
 "Escritorio de Gnome
 haciendo uso de varios screenlets como el ClockRings en el fondo del escritorio, Reloj, Calendario, CPU Stats, etc."
 
-[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_nVNdQP8I/AAAAAAAAEt4/o43cq0ZM9Fo/s400/linux+vista.jpg)](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_nVNdQP8I/AAAAAAAAEt4/o43cq0ZM9Fo/s1600-h/linux+vista.jpg)
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_nVNdQP8I/AAAAAAAAEt4/o43cq0ZM9Fo/s400/linux+vista.jpg)    
 "Otra serie de Screenlets
 los cuales junto con el tema y el fondo de escritorio dan la apariencia de Vista Gadgets en un Widows Vista."
 
-La mayoria de screenlets no vienen por defecto al instalar la aplicación desde apt-get así que los podremos descargar de [gnome-look](http://gnome-look.org/index.php?xcontentmode=6700) o de la [página oficial del proyecto Screenlets](http://screenlets.org/index.php/Category:UserScreenlets) en la cual tambien te indican las instrucciones de instalación y uso. Entre los Screenlets recomendados se encuentran el [GMail Checker](http://screenlets.org/index.php/Gmail), [CPU Meter](http://screenlets.org/index.php/CPU_Meter_Vista%27ish), [Now Calendar](http://screenlets.org/index.php/Now_Calendar_Screenlet) (con capacidades de consumir eventos de calendarios como Google Calendar, via iCal), el [Sidebar](http://screenlets.org/index.php/Sidebar) y el [Circle Clock](http://screenlets.org/index.php/CircleClock), [Wireless Screenlet](http://screenlets.org/index.php/WirelessScreenlet2).
+La mayoria de screenlets no vienen por defecto al instalar la aplicación desde apt-get así que los podremos descargar de [gnome-look](https://gnome-look.org/index.php?xcontentmode=6700) o de la [página oficial del proyecto Screenlets](https://screenlets.org/index.php/Category:UserScreenlets) en la cual tambien te indican las instrucciones de instalación y uso. Entre los Screenlets recomendados se encuentran el [GMail Checker](https://screenlets.org/index.php/Gmail), [CPU Meter](https://screenlets.org/index.php/CPU_Meter_Vista%27ish), [Now Calendar](https://screenlets.org/index.php/Now_Calendar_Screenlet) (con capacidades de consumir eventos de calendarios como Google Calendar, via iCal), el [Sidebar](https://screenlets.org/index.php/Sidebar) y el [Circle Clock](https://screenlets.org/index.php/CircleClock), [Wireless Screenlet](https://screenlets.org/index.php/WirelessScreenlet2).
 
 Para instalar estos Screenlets, te descargas el archivo comprimido de cada uno de los vínculos anteriores, lo descomprimes y copias la carpeta descomprimida en la carpeta /usr/share/screenlets/ o en la carpeta .screenlets/ luego abres el Screenlets Manager (Menu Aplicaciones -> Accesorios -> Screenlets) y los verás listados en dicha ventana para que nada mas los actives y los ubiques en la posición que quieras dentro de tu escritorio.
 
-[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_zlZhL7OI/AAAAAAAAEuA/525fa-nrclI/s400/ScreenletsManager.jpg)](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_zlZhL7OI/AAAAAAAAEuA/525fa-nrclI/s1600-h/ScreenletsManager.jpg)
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_zlZhL7OI/AAAAAAAAEuA/525fa-nrclI/s400/ScreenletsManager.jpg)    
 "Apariencia de la ventana
 del Screenlets Manager"
 

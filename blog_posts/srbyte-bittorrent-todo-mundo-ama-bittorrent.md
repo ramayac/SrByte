@@ -6,10 +6,10 @@ tags: libre, linux, bittorrent, software
 post_id: blog-3515952828243908885.post-8205011244286664646
 ---
 
-[![](http://bp1.blogger.com/_ayvorITawE4/Rf62CsU_3bI/AAAAAAAAALo/_QyRSjVFftQ/s400/bittorrent_logo.gif)](http://bp1.blogger.com/_ayvorITawE4/Rf62CsU_3bI/AAAAAAAAALo/_QyRSjVFftQ/s1600-h/bittorrent_logo.gif) BitTorrent es un protocolo de comunicación diseñado
-para el intercambio de archivos entre iguales (osea peer to peer o P2P), y no solo eso, su creador (el programador estadounidense) Bram Cohen también codifico el cliente principal de bittorrent (el programa con el que te conectas con la red de bittorrent, por eso el nombre de cliente). El programa está escrito en el lenguaje de programación Python y distribuido bajo la [licencia MIT](http://es.wikipedia.org/wiki/Licencia_MIT). Esta es la magia de Bittorrent:
+![image](https://bp1.blogger.com/_ayvorITawE4/Rf62CsU_3bI/AAAAAAAAALo/_QyRSjVFftQ/s400/bittorrent_logo.gif)    BitTorrent es un protocolo de comunicación diseñado
+para el intercambio de archivos entre iguales (osea peer to peer o P2P), y no solo eso, su creador (el programador estadounidense) Bram Cohen también codifico el cliente principal de bittorrent (el programa con el que te conectas con la red de bittorrent, por eso el nombre de cliente). El programa está escrito en el lenguaje de programación Python y distribuido bajo la [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Esta es la magia de Bittorrent:
 
-[![](http://bp2.blogger.com/_ayvorITawE4/Rf6r_8U_3ZI/AAAAAAAAALY/RSPe-GYyKgw/s400/Torrentcomp_small.gif)](http://bp2.blogger.com/_ayvorITawE4/Rf6r_8U_3ZI/AAAAAAAAALY/RSPe-GYyKgw/s1600-h/Torrentcomp_small.gif)
+![image](https://bp2.blogger.com/_ayvorITawE4/Rf6r_8U_3ZI/AAAAAAAAALY/RSPe-GYyKgw/s400/Torrentcomp_small.gif)    
 "BitTorrent reduce enormemente la carga en el
 servidor, ya que los usuarios generalmente descargan los archivos entre ellos, no del servidor. Como muestran las barras coloreadas debajo de cada cliente, el archivo es descargado en un orden aleatorio, en lugar de llevar un orden secuencial." fuente: Wikipedia español (18 marzo 2007)
 
@@ -20,7 +20,7 @@ El párrafo anterior, en español quiere decir que bittorrent DISTRIBUYE la carg
 
 - Pedro: Quiero bajar todos los capítulos de los Pitufos, ¿donde los puedo bajar?
 
-[![](http://bp2.blogger.com/_ayvorITawE4/Rf6098U_3aI/AAAAAAAAALg/N2nF_venEnQ/s400/21784_clip_image002.jpg)](http://bp2.blogger.com/_ayvorITawE4/Rf6098U_3aI/AAAAAAAAALg/N2nF_venEnQ/s1600-h/21784_clip_image002.jpg)
+![image](https://bp2.blogger.com/_ayvorITawE4/Rf6098U_3aI/AAAAAAAAALg/N2nF_venEnQ/s400/21784_clip_image002.jpg)    
 "Pitufo socialista, dedicado a Daniel :)
 ja!"
 
@@ -35,17 +35,17 @@ Para conseguir todos los capítulos de los Pitufos, Pedro tiene que seguir estos
 
 1. Azureus 2. BitComet 3. uTorrent 4. kTorrent
 
-y hay como un centenar más... ¿Cual te conviene?... pues [lee esta tabla comparativa de clientes de bittorrent para tener una idea](http://es.wikipedia.org/wiki/Comparaci%C3%B3n_de_clientes_BitTorrent).
+y hay como un centenar más... ¿Cual te conviene?... pues [lee esta tabla comparativa de clientes de bittorrent para tener una idea](https://es.wikipedia.org/wiki/Comparaci%C3%B3n_de_clientes_BitTorrent).
 
 2. Buscar lo que quiere conseguir."Solo el que busca encuentra" - Picasso.
 
 Así que a buscar en un buscador de archivos torrent, los más populares:
 
-- [www.demonoid.com](http://www.demonoid.com/)
-- [www.piratebay.org](http://www.piratebay.org/)
-- [www.LegalTorrents.com](http://www.legaltorrents.com/) (contenido 100% legal, bajo licencia [Creative Commons](http://rodrigoamaya.blogspot.com/2007/03/creative-commons-30.html) )
-- [www.isohunt.com](http://www.isohunt.com/)
-- [www.bittorrent.com](http://www.bittorrent.com/)
+- [www.demonoid.com](https://www.demonoid.com/)
+- [www.piratebay.org](https://www.piratebay.org/)
+- [www.LegalTorrents.com](https://www.legaltorrents.com/) (contenido 100% legal, bajo licencia [Creative Commons](https://rodrigoamaya.blogspot.com/2007/03/creative-commons-30.html) )
+- [www.isohunt.com](https://www.isohunt.com/)
+- [www.bittorrent.com](https://www.bittorrent.com/)
 Aquí Pedro busca lo que necesita y luego...
 
 3. Bajar el archivo ".torrent" Este archivo (que son muy pequeños) son los que CONTIENEN LA INFORMACIÓN de en que computadoras buscar para encontrar y descargar de ellas el archivo que se busca.
@@ -53,9 +53,9 @@ Aquí Pedro busca lo que necesita y luego...
 4. Y finalmente Bajar el/los archivo/s que quiere. Se abre el archivo .torrent con el cliente que tengamos y nos ponemos a bajar los archivos. Este es un proceso que depende de:
 
 1. Tamaño del archivo (un libro de Shakespeare que es "pequeño", o hasta un DVD mas de 3.0 GB!) 2. Cuanta gente tiene este archivo COMPLETO (seeders), esta es la característica más importante. 3. Cuanta gente esta bajando este archivo (leechers)
-[![](http://bp2.blogger.com/_ayvorITawE4/Rf62u8U_3cI/AAAAAAAAALw/SmQaomYyL9s/s400/bittorrentanimationcp0.gif)](http://bp2.blogger.com/_ayvorITawE4/Rf62u8U_3cI/AAAAAAAAALw/SmQaomYyL9s/s1600-h/bittorrentanimationcp0.gif)
+![image](https://bp2.blogger.com/_ayvorITawE4/Rf62u8U_3cI/AAAAAAAAALw/SmQaomYyL9s/s400/bittorrentanimationcp0.gif)    
 "Así se ""ve"" (dale click) el proceso de
 compartir archivos en Bittorrent"
 
-Para entender mejor esta jerga pueden ver la [terminología de bittorrent en la wikipedia](http://es.wikipedia.org/wiki/Bittorrent#Terminolog.C3.ADa). De esta manera nuestro amigo Pedro puede bajar TODOS los capítulos de los Pitufos para recordar sus buenos tiempos... por eso ¡todo mundo ama bittorrent! Espero les haya servido, hasta la próxima!
-![](http://bp0.blogger.com/_ayvorITawE4/Rf63tcU_3dI/AAAAAAAAAL4/l-zCjlIB4A4/s400/lospitufos.jpg)
+Para entender mejor esta jerga pueden ver la [terminología de bittorrent en la wikipedia](https://es.wikipedia.org/wiki/Bittorrent#Terminolog.C3.ADa). De esta manera nuestro amigo Pedro puede bajar TODOS los capítulos de los Pitufos para recordar sus buenos tiempos... por eso ¡todo mundo ama bittorrent! Espero les haya servido, hasta la próxima!
+![image](https://bp0.blogger.com/_ayvorITawE4/Rf63tcU_3dI/AAAAAAAAAL4/l-zCjlIB4A4/s400/lospitufos.jpg)

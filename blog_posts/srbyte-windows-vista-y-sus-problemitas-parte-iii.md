@@ -7,19 +7,19 @@ post_id: blog-3515952828243908885.post-8195922108950999487
 ---
 
 Sigue la controversia:
-[(lea el articulo anterior)](http://rodrigoamaya.blogspot.com/2007/03/windows-vista-y-sus-problemitas-parte.html)
+[(lea el articulo anterior)](https://rodrigoamaya.blogspot.com/2007/03/windows-vista-y-sus-problemitas-parte.html)
 Microsoft en vez de innovar el entorno gráfico de Windows Vista se ha limitado a mimetizar otros entornos graficos. Practica hecha a lo largo de los años en varios de sus productos. Vean este vídeo divertido e irónico que ejemplifica lo dicho anteriormente:
 
-Como pueden ver, Vista esta agregando características que son solamente innovadoras en SU producto... porque en otros sistemas operativos existen desde hace BUEN RATO. Nada acerca de Windows Vista es innovador o atrayente. ¿Y de quien "toma" estas características? pues nada menos que de el sistema operativo de [Apple Inc.](http://www.apple.com/):
+Como pueden ver, Vista esta agregando características que son solamente innovadoras en SU producto... porque en otros sistemas operativos existen desde hace BUEN RATO. Nada acerca de Windows Vista es innovador o atrayente. ¿Y de quien "toma" estas características? pues nada menos que de el sistema operativo de [Apple Inc.](https://www.apple.com/):
 
-> href="http://www.apple.com/macosx/leopard/index.html">Mac OS X Leopard
+> href="https://www.apple.com/macosx/leopard/index.html">Mac OS X Leopard
 Un sistema operativo verdaderamente amigable:
 
-![](http://images.apple.com/macosx/leopard/images/indexdesktop20060807.jpg)
+![image](https://images.apple.com/macosx/leopard/images/indexdesktop20060807.jpg)    
 Y superior a Vista en términos de usabilidad y calidad:
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RcqJODfQLfI/AAAAAAAAAEE/6uOE7Men7BI/s400/OSchart.jpg)](http://bp0.blogger.com/_ayvorITawE4/RcqJODfQLfI/AAAAAAAAAEE/6uOE7Men7BI/s1600-h/OSchart.jpg) Además Windows
-Vista incluye una extensiva re-codificación de elementos críticos de el núcleo del sistema para proveer protección al "contenido premium", típicamente datos de [Blu-Ray](http://es.wikipedia.org/wiki/Blu-ray) y High Definition DVD's. Al proveer esta protección (con complicados algoritmos para encriptar y des-encriptar estos datos) se incurre en costos muy considerables en términos de desempeño, estabilidad de sistema, soporte técnico inclusive y costo de hardware y software. Al comprar una computadora con Vista se obtiene una PC de alto rendimiento, pero con Vista instalado es como: quebrarle las piernas a un corredor, ponerle muletas y ver que tan rápido "corre" con ellas. Esto afecta no solo a los usuarios de Vista, sino también a toda la industria de las PC's. Y los efectos de protección como [Digital Right Managment (DRM)](http://es.wikipedia.org/wiki/Gesti%C3%B3n_de_derechos_digitales) afectan la privacidad de los consumidores (como siempre). Existen diferentes mecanismos de DRM, diseñados por distintas empresas, pero en general todos tienen en común algunas características:
+![image](https://bp0.blogger.com/_ayvorITawE4/RcqJODfQLfI/AAAAAAAAAEE/6uOE7Men7BI/s400/OSchart.jpg)    Además Windows
+Vista incluye una extensiva re-codificación de elementos críticos de el núcleo del sistema para proveer protección al "contenido premium", típicamente datos de [Blu-Ray](https://es.wikipedia.org/wiki/Blu-ray) y High Definition DVD's. Al proveer esta protección (con complicados algoritmos para encriptar y des-encriptar estos datos) se incurre en costos muy considerables en términos de desempeño, estabilidad de sistema, soporte técnico inclusive y costo de hardware y software. Al comprar una computadora con Vista se obtiene una PC de alto rendimiento, pero con Vista instalado es como: quebrarle las piernas a un corredor, ponerle muletas y ver que tan rápido "corre" con ellas. Esto afecta no solo a los usuarios de Vista, sino también a toda la industria de las PC's. Y los efectos de protección como [Digital Right Managment (DRM)](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_derechos_digitales) afectan la privacidad de los consumidores (como siempre). Existen diferentes mecanismos de DRM, diseñados por distintas empresas, pero en general todos tienen en común algunas características:
 - detectan quién accede a cada obra, cuándo y bajo qué condiciones, y reportan esta información al proveedor de la obra (ya comienzo a sentirme paranoico)
 - autorizan o deniegan de manera inapelable el acceso a la obra, de acuerdo a condiciones que pueden ser cambiadas unilateralmente por el proveedor de la obra;
 - cuando autorizan el acceso, lo hacen bajo condiciones restrictivas que son fijadas unilateralmente por el proveedor de la obra, independientemente de los derechos que la ley otorgue al autor o al público.
@@ -30,4 +30,4 @@ Ja! y ¿creíste que no tenia buenas razones?. La tecnología DRM que ocupa es u
 
 ¿Qué significa esto para nuestro futuro?...No uso justo, no compra y reventa, no compartir, no respaldar, no intercambiar, no mezclas, no privacidad, no bienes comunes, no control sobre nuestras computadoras. Claro que ataca problemas como la piratería (y la frena muuuucho, lo acepto) pero su implementación es en buen Salvadoreño, como una "patada al pecho".
 
-Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados? ¿comentarios?... [lee la ultima parte.](http://rodrigoamaya.blogspot.com/2007/02/windows-vista-y-sus-problemitas-parte_09.html)
+Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados? ¿comentarios?... [lee la ultima parte.](https://rodrigoamaya.blogspot.com/2007/02/windows-vista-y-sus-problemitas-parte_09.html)

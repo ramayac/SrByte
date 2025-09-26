@@ -6,9 +6,9 @@ tags: gnu, dell, linux, free, software, ubuntu
 post_id: blog-3515952828243908885.post-430860281738037604
 ---
 
-Dado el amor que tiene Michael Dell's (CEO de Dell) por Ubuntu ([Feisty Fawn](http://www.engadget.com/2007/04/19/ubuntu-7-04-feisty-fawn-released/), específicamente) y el anuncio anterior instalar [GNU\Linux en laptops Dell y computadoras de escritorio](http://srbyte.blogspot.com/2007/03/dell-y-gnulinux.html). Al parecer el grito de los "linuxeros" fue escuchado (y fue muy fuerte), para que Dell ofreciera Linux pre instalado en sus sistemas. Solo se espera que Dell anuncie que Ubuntu sea la distribución de preferencia de la compañía. ¿Y cuando comenzaremos a ver esas computadoras (mas baratas, seguras y estables) con Ubuntu? Parece que sera una opción para modelos selectos para consumidores, y sera cuestión de semanas para ver esa opción en el pedido de computadoras.
+Dado el amor que tiene Michael Dell's (CEO de Dell) por Ubuntu ([Feisty Fawn](https://www.engadget.com/2007/04/19/ubuntu-7-04-feisty-fawn-released/), específicamente) y el anuncio anterior instalar [GNU\Linux en laptops Dell y computadoras de escritorio](https://srbyte.blogspot.com/2007/03/dell-y-gnulinux.html). Al parecer el grito de los "linuxeros" fue escuchado (y fue muy fuerte), para que Dell ofreciera Linux pre instalado en sus sistemas. Solo se espera que Dell anuncie que Ubuntu sea la distribución de preferencia de la compañía. ¿Y cuando comenzaremos a ver esas computadoras (mas baratas, seguras y estables) con Ubuntu? Parece que sera una opción para modelos selectos para consumidores, y sera cuestión de semanas para ver esa opción en el pedido de computadoras.
 
-[![](http://bp0.blogger.com/_ayvorITawE4/Rjf6BEK33qI/AAAAAAAAAU4/RghdBbLNOW4/s400/ubuntu-dell-laptop.jpg)](http://bp0.blogger.com/_ayvorITawE4/Rjf6BEK33qI/AAAAAAAAAU4/RghdBbLNOW4/s1600-h/ubuntu-dell-laptop.jpg)
+![image](https://bp0.blogger.com/_ayvorITawE4/Rjf6BEK33qI/AAAAAAAAAU4/RghdBbLNOW4/s400/ubuntu-dell-laptop.jpg)    
 "GNU\Linux en todos los
 escritorios ya no es un sueño"
 
@@ -18,7 +18,7 @@ No es esta, solamente una buena noticia para el mundo, sino que también afecta 
 - ¿Estas seguro qué quieres comprar una licencia por cada computadora?
 - ¿No es más fácil bajar una distribución de GNU\Linux e instalarlo en todo lo que quieras (hasta en la refrigeradora o la lavadora) sin problemas legales?
 - ¿Con un precio de $0 dolares?
-[¡Al fin se quitara el mito de que es difícil instalar o usar un sistema GNU\Linux!](http://srbyte.blogspot.com/2007/04/es-dificil-instalar-gnulinux.html)
+[¡Al fin se quitara el mito de que es difícil instalar o usar un sistema GNU\Linux!](https://srbyte.blogspot.com/2007/04/es-dificil-instalar-gnulinux.html)
 
 Lo mas hermoso sera que la gente comience a comprar computadoras portátiles y cuando vean que la diferencia en las computadoras que tiene "Ventanas" y GNU\Linux es de $100 a $300 dolares.
 
@@ -52,7 +52,7 @@ align="justify"> style=";font-family:Verdana,Arial,Helvetica,sans-serif;font-siz
 > FRUSTRACIÓN DE NO HABER CONSEGUIDO LOS PRESTAMOS DE LA ASAMBLEA LEGISLATIVA EN DONDE GRAN
 > PARTE DEL PRÉSTAMO ESTABA DEDICADO A CONÉCTATE. ESO HA SIDO UNA VERDADERA LASTIMA, Y OJALA QUE
 > ESTO PASE."
-> Estracto de href="http://www.casapres.gob.sv/presidente/discursos/2007/02/disc0501.html">http://www.casapres.gob.sv/presidente/discursos/2007/02/disc0501.html
+> Estracto de href="https://www.casapres.gob.sv/presidente/discursos/2007/02/disc0501.html">https://www.casapres.gob.sv/presidente/discursos/2007/02/disc0501.html
 >
 
 align="justify"> style=";font-family:Verdana,Arial,Helvetica,sans-serif;font-size:85%;" > lang="ES-TRAD">
@@ -63,7 +63,7 @@ Claro el tipo tiene que ver como se las ingenia para que el poco dinero que se a
 > que los alumnos solo trabajen en notepad, wordpad y paint?
 Otro ejemplo de esto son los Infocentros... ¿por qué siguen con Windows 98? Pues no tienen $ para actualizar Hardware y más licencias de Ventanas XP. ¿Y por que no usan GNU\linux? ... pues simplemente por idiotas. No quieren entender que GNU\Linux puede ser tanto o mas fácil de instalar, administrar y usar en las computadoras, y que no necesitan actualizar el hardware para tener una computadora funcional y con un sistema operativo "moderno".
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RjgH80K33sI/AAAAAAAAAVI/iXz5VUqpfoQ/s200/MaxLinuxPenguin.jpg)](http://bp0.blogger.com/_ayvorITawE4/RjgH80K33sI/AAAAAAAAAVI/iXz5VUqpfoQ/s1600-h/MaxLinuxPenguin.jpg)
+![image](https://bp0.blogger.com/_ayvorITawE4/RjgH80K33sI/AAAAAAAAAVI/iXz5VUqpfoQ/s200/MaxLinuxPenguin.jpg)    
 "Es mucho pedir que los Infocentros dejen de
 usar Ventanas 98 y usen GNU\Linux"
 

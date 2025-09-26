@@ -6,7 +6,7 @@ tags: diseño, desarrollo, codigo, tecnicas, programacion, empresa, tecnologia, 
 post_id: blog-3515952828243908885.post-6666859612758395412
 ---
 
-[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SXO4m_QJfQI/AAAAAAAAFog/y2zJ6wa_Lso/s400/speed-typing.jpg)](https://2.bp.blogspot.com/_jH77WNrMVRA/SXO4m_QJfQI/AAAAAAAAFog/y2zJ6wa_Lso/s1600-h/speed-typing.jpg)
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SXO4m_QJfQI/AAAAAAAAFog/y2zJ6wa_Lso/s400/speed-typing.jpg)    
 "Escribir el código es sólo
 una parte del proceso de desarrollo de software"
 

@@ -15,7 +15,7 @@ Google posee un motor de búsqueda para cada servicio de brinda a sus usuarios, 
 - Mapas
 y más...
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RlC3FKos2nI/AAAAAAAAAXE/10_q1EnYCOs/s400/ymas.jpg)](http://bp2.blogger.com/_ayvorITawE4/RlC3FKos2nI/AAAAAAAAAXE/10_q1EnYCOs/s1600-h/ymas.jpg)
+![image](https://bp2.blogger.com/_ayvorITawE4/RlC3FKos2nI/AAAAAAAAAXE/10_q1EnYCOs/s400/ymas.jpg)    
 "Servicios adicionales de
 Google"
 
@@ -25,11 +25,11 @@ El problema antes con todos los buscadores es que teniamos que especificar que e
 
 Ejemplificando, pueden introducir la búsqueda "Darth Vader". Google entiende que estamos interesados en conseguir la mayor información posible sobre uno de los protagonistas de "La Guerra de las Galaxias". Por eso, en los resultados mezclará vídeos, blogs y libros dedicados al malvado Vader, o noticias sobre los proyectos de George Lucas -director del film-. En definitiva, cualquier tipo de contenido que tenga relación con el personaje.
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RlC4maos2oI/AAAAAAAAAXM/xVoFPFYpGe8/s320/googledarthvader.jpg)](http://bp3.blogger.com/_ayvorITawE4/RlC4maos2oI/AAAAAAAAAXM/xVoFPFYpGe8/s1600-h/googledarthvader.jpg)
+![image](https://bp3.blogger.com/_ayvorITawE4/RlC4maos2oI/AAAAAAAAAXM/xVoFPFYpGe8/s320/googledarthvader.jpg)    
 "Captura de busqueda de
 Darth Vader en Google"
 
-[![](http://bp1.blogger.com/_ayvorITawE4/RlC486os2pI/AAAAAAAAAXU/Y-jotxIadlI/s320/googledarthvaderexpanded.jpg)](http://bp1.blogger.com/_ayvorITawE4/RlC486os2pI/AAAAAAAAAXU/Y-jotxIadlI/s1600-h/googledarthvaderexpanded.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/RlC486os2pI/AAAAAAAAAXU/Y-jotxIadlI/s320/googledarthvaderexpanded.jpg)    
 "Captura de vídeo empotrado
 en las búsquedas del nuevo Google"
 
@@ -43,4 +43,4 @@ Marissa Mayer, vicepresidenta de productos de búsqueda y experiencia de usuario
 
 De momento, esta nueva forma de buscar sólo está disponible en la página principal de Google (Google.com, en inglés).
 
-Fuente: http://www.24horaslibre.com
+Fuente: https://www.24horaslibre.com

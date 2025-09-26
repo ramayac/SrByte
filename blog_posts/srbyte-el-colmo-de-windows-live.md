@@ -6,7 +6,7 @@ tags: hotmail, bad, email, windows, microsoft
 post_id: blog-3515952828243908885.post-371346792654983943
 ---
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s400/wtf%3F.png)](http://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s1600-h/wtf%3F.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s400/wtf%3F.png)    
 "Captura de la
 basca de Hotmail Live"
 

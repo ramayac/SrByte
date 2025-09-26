@@ -6,7 +6,7 @@ tags: gimp, libre, gnu, linux, photoshop, software, graficos, adobe, google
 post_id: blog-3515952828243908885.post-3667254230756861856
 ---
 
-[![](http://bp0.blogger.com/_jH77WNrMVRA/R8bj23l5lyI/AAAAAAAAAlQ/a5Y0eNrXNUI/s320/gimp-splash-2.4.png)](http://bp0.blogger.com/_jH77WNrMVRA/R8bj23l5lyI/AAAAAAAAAlQ/a5Y0eNrXNUI/s1600-h/gimp-splash-2.4.png)
+![image](https://bp0.blogger.com/_jH77WNrMVRA/R8bj23l5lyI/AAAAAAAAAlQ/a5Y0eNrXNUI/s320/gimp-splash-2.4.png)    
 "Pantalla de Inicio del
 Gimp, en la versión 2.4 "
 

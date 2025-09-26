@@ -22,11 +22,11 @@ Error, grave, grave error....
 
 ¿Saben como me dí cuenta de lo equivocado que estaba?: cuando note, que no podía hacer participe de mi alegría en alguna asignatura/trabajo a mi mamá, y contarle que al fin entendí el concepto de "instancia de una clase" (no me lo explicaron bien en Progra II), o pude compilar por primera vez un kernel sin que diera "Kernel Panic"... porque para mi era demasiado difícil explicarle lo que había hecho... bien fregado.
 
-Luego el aprendizaje y programación se volvieron solitarios, y por lo tanto aburridos, y luego me tope con la filosofía del software libre, y la idea de compartir el código y programar bien (para que la gente entienda ese código) y discutir el código, mejorarlo, y de pronto... me gusto eso de las comunidades de Linux y software libre (como la de [Ubuntu SV](http://ubuntusv.org/ubuntu_web/), que los veo muy unidos). Que bueno que esos dias ya pasaron y ahora todo es más sencillo, y este blog es prueba de eso, o al menos, eso intentamos.
+Luego el aprendizaje y programación se volvieron solitarios, y por lo tanto aburridos, y luego me tope con la filosofía del software libre, y la idea de compartir el código y programar bien (para que la gente entienda ese código) y discutir el código, mejorarlo, y de pronto... me gusto eso de las comunidades de Linux y software libre (como la de [Ubuntu SV](https://ubuntusv.org/ubuntu_web/), que los veo muy unidos). Que bueno que esos dias ya pasaron y ahora todo es más sencillo, y este blog es prueba de eso, o al menos, eso intentamos.
 
 Verán, quieran o no, la gente SI importa en este medio, y vale la pena escribir y explicar la tecnología (y aprender a explicarlo) y reducir la famosa "brecha digital".
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s320/brain-on-chip-main.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s1600-h/brain-on-chip-main.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SsqucEccfLI/AAAAAAAACLo/wVUBoOLgr4s/s320/brain-on-chip-main.jpg)    
 
 Si vos, lector, crees que nunca vas a tener que tratar con gente por darle mantenimiento a tu super servidor, en un cuarto frío, o que gastas horas de tu vida programando como loco y no podes socializar "fuera de la cajita", dejame decirte (con mucho respeto) que estas tirando tu vida al carajo.
 
@@ -34,12 +34,12 @@ Acordate que por eso: estudiar en grupo es mejor y más divertido, y que hacer "
 
 La informática, en si misma, sin programadores, sin usuarios, sin bloggers, sin gente bayunca que atesta sus paginas de Hi5 con miles de tonterías, y sin los que sueña con cambiar el fondo de su pagina en FaceBook, pues seria terriblemente aburrida (a mi ya me dan risa).
 
-[![](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s1600-h/spamFB.png)¡FaceBook
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook
 Spam!
 
 La informática, sin gente, se convierte en simples unos y ceros, "sentados" en un disco duro, inertes.
 
-[![](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s320/programmer.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s1600-h/programmer.jpg)
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucp_UjzI/AAAAAAAACLw/3XIVC9wSSLo/s320/programmer.jpg)    
 
 "Real programmers code for people"
 
@@ -47,7 +47,7 @@ En mi experiencia, pocas cosas dan tanta satisfacción como saber que lo que est
 
 No hay como saber, que la gente esta usando todos los días un software en el que ayudaste, y en algún momento, esos unos y ceros se van a mover y transformar en datos útiles, en proyecciones, estadísticas, reportes, imágenes, sonidos, sorpresas, en alegrías o tristezas.
 
-[![](https://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s320/stock-photo-happy-users.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s1600-h/stock-photo-happy-users.jpg)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SsqudUwmurI/AAAAAAAACMA/ENz6mOwsuuU/s320/stock-photo-happy-users.jpg)    
 
 "Se trabaja para el usuario, no para la máquina"
 

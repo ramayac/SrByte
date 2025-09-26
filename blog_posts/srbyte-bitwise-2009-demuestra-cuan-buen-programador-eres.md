@@ -6,7 +6,7 @@ tags: premios, c++, gcc, lenguaje, codigo, programacion, matematica
 post_id: blog-3515952828243908885.post-7492151323197734901
 ---
 
-[![](https://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s400/Bitwise+2009.png)](https://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s1600-h/Bitwise+2009.png)
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s400/Bitwise+2009.png)    
 "Logo del Bitwise, concurso
 online de programacion"
 
@@ -20,7 +20,7 @@ Eso no es todo! también se ofrecen premios en efectivo (rupias indias) a los pr
 
 Pueden acceder al sitio en cuestión desde esta URL:
 
-[http://www.bitwise.iitkgp.ernet.in/home](http://www.bitwise.iitkgp.ernet.in/home)
+[https://www.bitwise.iitkgp.ernet.in/home](https://www.bitwise.iitkgp.ernet.in/home)
 
 La inscripción se cierra mañana 8 de febrero así que aún tienes tiempo para inscribir a tu equipo y hacer gala de tus habilidades como programador.
 

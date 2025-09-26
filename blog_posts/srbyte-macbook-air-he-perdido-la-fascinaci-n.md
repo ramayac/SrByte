@@ -28,9 +28,9 @@ Si compro una MacBook Air...
 
 ¿Tengo MUCHOS puertos USB? No, solo UN puerto USB. Que me imagino que pasara bastante ocupado, porque la MacBook Air no tiene puertos de Ethernet o Modem, y tampoco tiene micrófono incluido. Lo que esta bien si no los usas... pero si no es así... tendrás que cargar muchos cables. ¿Obtengo poder de procesamiento? Si, pero parece que la MacBook Air puede sobre calentarse con facilidad... y al calentarse, para reducir la temperatura, pues uno de los procesadores deja de funcionar, lo que se traduce en menos poder de procesamiento... solo cuando se "calienta".
 
-¿Realmente obtengo la computadora mas liviana y delgada del mundo? Si, pero no dejen que la idea de tener la computadora más delgada y mas liviana nuble su mente, seria mejor comprar una [laptop fujitsu LIFEBOOK Q2010](http://www.fujitsu-siemens.com/campaigns/lifebook_q2010/index.html) que es solamente 0.5 mm mas gruesa que la MacBook Air y solo pesa 1 Kg, o simplemente mejor, comprar una laptop con más prestaciones y un poquito pasada de peso.
+¿Realmente obtengo la computadora mas liviana y delgada del mundo? Si, pero no dejen que la idea de tener la computadora más delgada y mas liviana nuble su mente, seria mejor comprar una [laptop fujitsu LIFEBOOK Q2010](https://www.fujitsu-siemens.com/campaigns/lifebook_q2010/index.html) que es solamente 0.5 mm mas gruesa que la MacBook Air y solo pesa 1 Kg, o simplemente mejor, comprar una laptop con más prestaciones y un poquito pasada de peso.
 
-![](http://www.fujitsu-siemens.com/Resources/67/606398809.jpg)
+![image](https://www.fujitsu-siemens.com/Resources/67/606398809.jpg)    
 "Imagen: LIFEBOOK Q2010, dale click para verla más
 grande."
 

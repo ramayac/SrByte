@@ -6,7 +6,7 @@ tags: propietario, bad, software, microsoft
 post_id: blog-3515952828243908885.post-4897511027394864358
 ---
 
-[![](http://bp0.blogger.com/_ayvorITawE4/RjiPW0K33tI/AAAAAAAAAVQ/fCEw6sfxCZc/s400/logo_main_sl.gif)](http://bp0.blogger.com/_ayvorITawE4/RjiPW0K33tI/AAAAAAAAAVQ/fCEw6sfxCZc/s1600-h/logo_main_sl.gif)
+![image](https://bp0.blogger.com/_ayvorITawE4/RjiPW0K33tI/AAAAAAAAAVQ/fCEw6sfxCZc/s400/logo_main_sl.gif)    
 "Logo de Microsoft
 Silverlight"
 
@@ -21,7 +21,7 @@ Silverlight, es la alternativa propuesta del gigante al ya popular y mundialment
 Ok, ahora lo interesante: Microsoft anuncia y predica las bondades y virtudes de su multiplataforma y multinavegador SilverLight para la web y "contenidos creativos". El problema es que mientras Silverlight trabaja en Safari, Firefox, y Mac (10.4.8 o superior) y en Internet Explorer y Windows... el soporte para Linux y Opera esta perdido, con poca o nula intención de soporte por parte de Microsoft.
 
 > ¡Pero que hipócritas!
-Pero no todo es (tan) malo, representantes del Software Libre aplaudieron que Microsoft por lo menos genera Silverlight para Safari, Firefox y Mac usando términos de [licencia](http://www.microsoft.com/resources/sharedsource/licensingbasics/permissivelicense.mspx) mas generosos, y por incluir lenguajes script como Python y Ruby en .NET. Aun así, Silverlight jamas sera Open Source. Sin embargo siempre hay áreas en las que Microsoft puede intentar ser "mejor"... y es precisamente esa área en la que da mas problemas.
+Pero no todo es (tan) malo, representantes del Software Libre aplaudieron que Microsoft por lo menos genera Silverlight para Safari, Firefox y Mac usando términos de [licencia](https://www.microsoft.com/resources/sharedsource/licensingbasics/permissivelicense.mspx) mas generosos, y por incluir lenguajes script como Python y Ruby en .NET. Aun así, Silverlight jamas sera Open Source. Sin embargo siempre hay áreas en las que Microsoft puede intentar ser "mejor"... y es precisamente esa área en la que da mas problemas.
 
 Ray Ozzie, pronto la nueva cabeza de Microsoft, ha criticado con anterioridad la tecnología AJAX, respondiendo a esa critica que argumenta a AJAX como "limitado", el co-fundador de Zend Technologies (la gente de PHP) Andi Gutmans dijo:
 
@@ -30,7 +30,7 @@ Ray Ozzie, pronto la nueva cabeza de Microsoft, ha criticado con anterioridad la
 > operativo."
 Es más que evidente que el mercado de las tecnologías web quieran algo que se ejecute en cualquier cosa, un servidor web, un Iceweasel en Debian, en un Arch Linux, en Opera, o en un Safari.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RjiPhUK33uI/AAAAAAAAAVY/12VhqpUsjFk/s400/manybrowsers.png)](http://bp2.blogger.com/_ayvorITawE4/RjiPhUK33uI/AAAAAAAAAVY/12VhqpUsjFk/s1600-h/manybrowsers.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RjiPhUK33uI/AAAAAAAAAVY/12VhqpUsjFk/s400/manybrowsers.png)    
 "Muchos navegadores
 web"
 

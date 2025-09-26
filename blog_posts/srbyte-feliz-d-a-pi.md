@@ -6,7 +6,7 @@ tags: pi, matematica
 post_id: blog-3515952828243908885.post-6526077740239626451
 ---
 
-[![](http://bp0.blogger.com/_jH77WNrMVRA/R9mFlNxJydI/AAAAAAAAAnw/niYOdn6XY-s/s320/2190712270_b57a62e511.jpg)](http://bp0.blogger.com/_jH77WNrMVRA/R9mFlNxJydI/AAAAAAAAAnw/niYOdn6XY-s/s1600-h/2190712270_b57a62e511.jpg)
+![image](https://bp0.blogger.com/_jH77WNrMVRA/R9mFlNxJydI/AAAAAAAAAnw/niYOdn6XY-s/s320/2190712270_b57a62e511.jpg)    
 "Tarta de Calabaza con el
 Símbolo de PI"
 
@@ -17,7 +17,7 @@ Pueda que algunos solo lo hayan oído mencionar así que solo les brindo una sim
 
 PI es una constante matemática utilizada comúnmente en la geometría que representa la razón (o el cociente) de la longitud del perímetro de un círculo con respecto a la longitud su diámetro. Su valor suele redondearse a 3.1416 o 3.14159 aunque en realidad posee una cantidad infinita de decimales. En la wikipedia se encuentra más información al respecto y una imagen animada que ilustra muy claramente la relación perímetro/diámetro antes mencionada.
 
-[Acá](http://zenwerx.com/pi.php) pueden encontrar una
+[Acá](https://zenwerx.com/pi.php) pueden encontrar una
 aproximación de PI con al rededor de cuatro millones de decimales.
 
 - ¿Porqué se celebra hoy?

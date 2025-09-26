@@ -6,13 +6,13 @@ tags: firefox, blog, debian, correo, internet, interesante, twitter, computadora
 post_id: blog-3515952828243908885.post-5363505763925015445
 ---
 
-Como habíamos mencionado antes en el articulo de las [técnicas de búsqueda en Google](http://srbyte.blogspot.com/2008/02/tcnicas-de-bsqueda-en-google-parte-i.html), este buscador se basa en diferentes criterios parar mostrar los resultados que considere adecuados a las palabras clave utilizadas.
+Como habíamos mencionado antes en el articulo de las [técnicas de búsqueda en Google](https://srbyte.blogspot.com/2008/02/tcnicas-de-bsqueda-en-google-parte-i.html), este buscador se basa en diferentes criterios parar mostrar los resultados que considere adecuados a las palabras clave utilizadas.
 
 Como algunos sabrán, firefox posee integrado por defecto el buscador de Google para que podamos digitar palabras clave directamente en la barra de direcciones y al instante, nos muestra los resultados de la búsqueda y si tenemos suerte y si existe un resultado con grandes similitudes con nuestra palabra clave, nos redirecciona automáticamente a esta pagina. Pueden hacer la prueba digitando en su barra de direcciones de firefox palabras como "wikipedia", "debian" o "twitter" y los redireccionara automaticamente a www.wikipedia.org, www.debian.org y twitter.com respectivamente por ser resultados sumamente relevantes a los terminos de busqueda e igualmente pueden digitar las palabras "sr" y "byte", las cuales les mostrara los resultados de la busqueda de dichas palabras en google.
 
 Esto me permitio darme cuenta que Google le da mas importancia a la popularidad que a la relevancia de los resultados de la busqueda. Como? pues recuerdo que hace meses cometia los errores de digitar "gamil" o "gmal" en lugar de "gmail" en mi barra de direcciones, lo cual obviamente me redireccionaba a gamil.com y pensaba en lo afortunados que eran los dueños de ese blog al recibir tantas visitas de todos los que se equivocaban al intentar ingresar a su cuenta de GMail.
 
-[![](http://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s320/ShotGamil.png)](http://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s1600-h/ShotGamil.png)
+![image](https://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s320/ShotGamil.png)    
 "Screenshot del panel derecho del sitio web de
 Gamil"
 

@@ -6,7 +6,7 @@ tags: subversion, programacion, svn, herramienta
 post_id: blog-3515952828243908885.post-5173755952151884031
 ---
 
-[![](http://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s320/subversion_logo_hor-468x64.png)](http://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s1600-h/subversion_logo_hor-468x64.png)
+![image](https://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s320/subversion_logo_hor-468x64.png)    
 "Logo Oficial de
 Subversion"
 
@@ -34,8 +34,8 @@ Tan simple como eso.
 
 Cabe mencionar que Subversion no almacena copias enteras de cada versión almacenada sino que evalúa los cambios realizados entre una versión y otra y solo almacena estos para ahorrar espacio en el repositorio.
 
-Existen diversos clientes de Subversion para poder descargar versiones de un repositorio y actualizarlas en base a nuestros cambios. Para Linux existe la aplicación de línea de comandos llamada [Subversion](http://packages.debian.org/subversion) y para Windows existe una denominada [TortoiseSvn](http://tortoisesvn.tigris.org/), ambas de licencia libre y proporcionadas por los mismos creadores del Subversion: [Tigris](http://www.tigris.org/).
+Existen diversos clientes de Subversion para poder descargar versiones de un repositorio y actualizarlas en base a nuestros cambios. Para Linux existe la aplicación de línea de comandos llamada [Subversion](https://packages.debian.org/subversion) y para Windows existe una denominada [TortoiseSvn](https://tortoisesvn.tigris.org/), ambas de licencia libre y proporcionadas por los mismos creadores del Subversion: [Tigris](https://www.tigris.org/).
 
-Para más información sobre Subversion, pueden leer de forma gratuita el documento on-line [Control de Versiones con Subversion](http://svnbook.red-bean.com/). El cual también esta disponible a la venta en Amazon.
+Para más información sobre Subversion, pueden leer de forma gratuita el documento on-line [Control de Versiones con Subversion](https://svnbook.red-bean.com/). El cual también esta disponible a la venta en Amazon.
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

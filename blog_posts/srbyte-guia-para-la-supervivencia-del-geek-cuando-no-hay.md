@@ -8,7 +8,7 @@ post_id: blog-3515952828243908885.post-1267095790229800157
 
 Nota: Se le recomienda al lector que guarde este artículo en su computadora como página HTML, para que pueda hacer uso del mismo sin necesidad de tener internet, ya que para eso es esta guía.
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s320/NoConexion.jpg)](http://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s1600-h/NoConexion.jpg)
+![image](https://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s320/NoConexion.jpg)    
 "Imagen que muestra el
 Firefox o Iceweasel cuando no te puedes conectar a un sitio web específico, a veces porque no tienes internet"
 
@@ -16,7 +16,7 @@ Tú nunca esperas que pase, te acostumbras al hecho de que, cuando enciendes la 
 
 Con un par de semanas que tengo en este mundo del internet desde mi casa, ya me siento acostumbrado a esta situacion que les planteo. Al levantarme por las mañanas, lo primero que hago es encender la computadora. De ahi, mientras esta carga, veo que puedo prepararme de desayuno. Luego mientras degusto los sagrados alimentos, ejecuto el pidgin(un IM de licencia libre, existe tanto para Linux como para windows) y el firefox, me doy cuenta de cuáles de mis contactos están conectados, reviso mis cuentas de correo, mis feeds, las últimas noticias y los nuevos comentarios en el blog. Esa es mi rutina actual, se que puede ser tambien la de algunos de ustedes.
 
-Ahora mi punto es: que podemos hacer cuando nuestro ISP[2] nos falle? o nuestro módem pase a mejor vida? (esto puede pasar, sino pregúntenle a [Ramayac](http://www.blogger.com/profile/15626618787991058196)) o todo el universo conspire para que por un momento indefinido nuestra computadora no se conecte a gloriosa red de redes Internet?
+Ahora mi punto es: que podemos hacer cuando nuestro ISP[2] nos falle? o nuestro módem pase a mejor vida? (esto puede pasar, sino pregúntenle a [Ramayac](https://www.blogger.com/profile/15626618787991058196)) o todo el universo conspire para que por un momento indefinido nuestra computadora no se conecte a gloriosa red de redes Internet?
 
 Pues me he dado a la tarea de recopilar algunos tips que te podrán ayudar en este muy terrible estado, tanto para investigaciones, tareas, entretenimiento para acortar la espera, aliviar tu sufrimiento, etc.
 
@@ -35,11 +35,11 @@ Que puedes hacer mientras estas offline?
 - Si continúas aburrido, ve a los archivos temporales de internet y finge que el internet todavía funciona.
 - Sal a caminar o a pasear, ya sea solo o con tus amigos: Sabías que existe un mundo allá afuera, aparte del internet, que espera por ti?
 
-(Tips tomados de http://luckmyway.blogspot.com/2007/12/win-100-in-how2bloggers-super-sexy.html)
+(Tips tomados de https://luckmyway.blogspot.com/2007/12/win-100-in-how2bloggers-super-sexy.html)
 
 Que tal si tenias una muy importante tarea que realizar?
 
-Pues, como prevencion, te recomiendo que te descargues la [Wikipedia en DVD.](http://srbyte.blogspot.com/2007/05/wikpedia-en-dvd.html) Te podria ser muy útil. Sino, recuerda que todavia existen las bibliotecas públicas y las bibliotecas universitarias!
+Pues, como prevencion, te recomiendo que te descargues la [Wikipedia en DVD.](https://srbyte.blogspot.com/2007/05/wikpedia-en-dvd.html) Te podria ser muy útil. Sino, recuerda que todavia existen las bibliotecas públicas y las bibliotecas universitarias!
 
 [1]IM = Instant Messenger o cliente de
 mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.

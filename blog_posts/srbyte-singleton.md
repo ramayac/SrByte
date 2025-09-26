@@ -26,4 +26,4 @@ Using this technique solves the issue of memory management. All classes will be 
 
 Using this technique you can extend any of the classes you desire. Static methods are nowhere. No-sir.
 
-http://srbyte.pastebin.com/f7b181adb
+https://srbyte.pastebin.com/f7b181adb

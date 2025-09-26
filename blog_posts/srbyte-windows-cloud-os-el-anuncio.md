@@ -6,13 +6,13 @@ tags: opinion, cloud, microsoft
 post_id: blog-3515952828243908885.post-2757394948983613142
 ---
 
-El Anuncio de Steve Ballmer (hace algunos días) de un nuevo sistema operativo de Microsoft, que hace un extensivo de [Cloud Computing](http://www.srbyte.com/2008/08/qu-es-cloud-computing.html), no deja de parecerme... extraño, bizarro... irreal.
+El Anuncio de Steve Ballmer (hace algunos días) de un nuevo sistema operativo de Microsoft, que hace un extensivo de [Cloud Computing](https://www.srbyte.com/2008/08/qu-es-cloud-computing.html), no deja de parecerme... extraño, bizarro... irreal.
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s320/4BFAx1500y1500.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s1600-h/4BFAx1500y1500.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s320/4BFAx1500y1500.jpg)    
 "Windows Cloud...
 conveniente la imagen ¿verdad? :)"
 
-[Steve Ballmer dijo lo siguiente](http://www.theregister.co.uk/2008/10/01/steve_ballmer_windows_cloud/) en una entrevista :
+[Steve Ballmer dijo lo siguiente](https://www.theregister.co.uk/2008/10/01/steve_ballmer_windows_cloud/) en una entrevista :
 
 > style="font-style: italic;">“We need a new operating system designed for the cloud and we
 > will introduce one in about four weeks, we’ll even have a name to give you by then. But let’s
@@ -27,7 +27,7 @@ Esencialmente (como ya dije), seria un sistema que utilizara servicios y product
 > "Necesitamos un nuevo sistema
 > operativo, diseñado para la nube, y les vamos a presentar uno en aproximadamente cuatro
 > semanas".
-¿Solo cuatro semanas? (casualmente para el [Professional Developers Conference](http://www.microsoftpdc.com/) en Los Ángeles). Bueno, fieles creyentes y seguidores de Microsoft, permitan me recordarles que:
+¿Solo cuatro semanas? (casualmente para el [Professional Developers Conference](https://www.microsoftpdc.com/) en Los Ángeles). Bueno, fieles creyentes y seguidores de Microsoft, permitan me recordarles que:
 
 > style="font-size:130%;"> ese no es el
 > estilo de Microsoft
@@ -37,7 +37,7 @@ Esencialmente (como ya dije), seria un sistema que utilizara servicios y product
 > tiempo!
 Todos sabemos que Microsoft es grande y lento, y que el desarrollo de software es un largo proceso y, todo esto es muy ambicioso, lo que complica más las cosas. ¿Por qué es ambicioso? Windows Cloud es un arma de negocios, y con ella veremos si Microsoft es realmente capaz de competir contra Google o no. No sería una sorpresa, que esas cuatro semanas que Ballmer promete se convertirán en meses. Pero ya veremos que sucede...
 
-[![](https://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s320/steve-ballmer.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s1600-h/steve-ballmer.jpg)
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s320/steve-ballmer.jpg)    
 "Steve Ballmer...
 ¿Explicando Cloud Computing?"
 

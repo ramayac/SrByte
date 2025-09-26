@@ -8,16 +8,16 @@ post_id: blog-3515952828243908885.post-5435027524184706691
 
 Antes de comenzar, es necesario hacer la aclaración, de que este pequeño articulo esta basado enteramente en percepción de usuario final (yo). No hay estadísticas, no hay números... es puro "feeling", así que muy probablemente este equivocado en varias cosas.
 
-Estoy molesto con Ubuntu, hice un upgrade de la distribución, el error fue dejar mi amada Terminal (la Consola) por la (a veces molesta) interfaz de actualización de Ubuntu... en ambas maquinas hice lo mismo (tengo dos computadoras de escritorio, bastante modestas), suponiendo que la primera falló por falta de conectividad (aparentemente así fue, y precisamente falló el paquete [msttcorefonts](http://corefonts.sourceforge.net/)) sin embargo, en la otra maquina quedaron 20 paquetes sin actualizar (incluyendo firefox 3.5). No es que la actualización falle en si misma, porque hice el upgrade al 100%, pero presento fallos, algo que no sucedió con ninguna actualización anterior de Ubuntu, y mucho menos con Debian (Etch).
+Estoy molesto con Ubuntu, hice un upgrade de la distribución, el error fue dejar mi amada Terminal (la Consola) por la (a veces molesta) interfaz de actualización de Ubuntu... en ambas maquinas hice lo mismo (tengo dos computadoras de escritorio, bastante modestas), suponiendo que la primera falló por falta de conectividad (aparentemente así fue, y precisamente falló el paquete [msttcorefonts](https://corefonts.sourceforge.net/)) sin embargo, en la otra maquina quedaron 20 paquetes sin actualizar (incluyendo firefox 3.5). No es que la actualización falle en si misma, porque hice el upgrade al 100%, pero presento fallos, algo que no sucedió con ninguna actualización anterior de Ubuntu, y mucho menos con Debian (Etch).
 
-[![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s320/ubuntu910.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s1600-h/ubuntu910.jpg)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s320/ubuntu910.jpg)    
 
 "¿Será mejor una instalación
 desde cero?"
 
 Después de solventar el problema desde la consola (viva apt!), comencé a utilizar el sistema, lo que impacta inmediatamente, es el nuevo tema de GDM, su suavidad y velocidad para responder a la selección de teclado, usuario o entorno gráfico.
 
-[![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s320/xsplash.png)](https://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s1600-h/xsplash.png)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXgpiOrwI/AAAAAAAACOE/NJuEezFfIW4/s320/xsplash.png)    
 
 "Nuevo GDM..."
 
@@ -37,11 +37,11 @@ Eso es lo único bueno, con los sistemas GNU/Linux tenes opciones, tenes liberta
 
 ¿Saben que me encanta? El entorno en general se ve mucho más coherente, unificado, nuevos tema de iconos, esquema de colores, el sistema de notificaciones, la marca de Ubuntu esta en todos lados (lo cual es bueno para las mentes gerenciales que necesitan eso mismo -marca- para usar algo), pero es especialmente bueno es: Ubuntu One, que es útil cuando tienes varias maquinas y necesitas tener sincronizada tu información entre todas ellas, es totalmente transparente para el usuario final, realmente es un producto que vale la pena, y no esta limitado a la versión 9.10, también hay un cliente de Ubuntu One para el 9.04.
 
-El manejo de sesiones entre varios usuarios se siente más fluido y sencillo. Ubuntu Software Center se ve bien, pero no le quita el lugar a Synaptic, me parece una versión triste del [CNR de Linspire](http://www.cnr.com/). Por lo demás, toda la experiencia "ubuntera" es igual, los programas de siempre corren bien y estables hasta el momento, y el sistema en general se siente (y es) más veloz, son los programas nuevos que a veces dan problemas, pudiera decir que se siente "buggy" a veces, pero es más que todo al principio. ¿No creen que es más rápido? aquí hay algunas pruebas de [Phoronix](http://www.phoronix.com/scan.php?page=article&item=ubuntu_910_alpha1&num=1) y de [Mundo Geek](http://mundogeek.net/archivos/2009/11/05/ubuntu-9-10-karmic-koala-vs-mandriva-linux-2010-adelie/).
+El manejo de sesiones entre varios usuarios se siente más fluido y sencillo. Ubuntu Software Center se ve bien, pero no le quita el lugar a Synaptic, me parece una versión triste del [CNR de Linspire](https://www.cnr.com/). Por lo demás, toda la experiencia "ubuntera" es igual, los programas de siempre corren bien y estables hasta el momento, y el sistema en general se siente (y es) más veloz, son los programas nuevos que a veces dan problemas, pudiera decir que se siente "buggy" a veces, pero es más que todo al principio. ¿No creen que es más rápido? aquí hay algunas pruebas de [Phoronix](https://www.phoronix.com/scan.php?page=article&item=ubuntu_910_alpha1&num=1) y de [Mundo Geek](https://mundogeek.net/archivos/2009/11/05/ubuntu-9-10-karmic-koala-vs-mandriva-linux-2010-adelie/).
 
 Sin embargo, esta más que claro que Ubuntu 9.10 es solo una versión de transición y estabilización para el Ubuntu 10.4 que dicho de paso, será LTS (Long Time Support), si estas cómodo con Ubuntu 9.04, no veo absolutamente ningún motivo para un apresurado o inmediato upgrade al 9.10. Asi de simple. Y si quieres actualizar, mejor espera un mes o dos, y luego cambia haz tu upgrade.
 
-[![image](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s320/6585x1500y1500.jpg)](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s1600-h/6585x1500y1500.jpg)
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s320/6585x1500y1500.jpg)    
 
 "Los koalas no se reponen de la fiesta, por eso esta
 buggy el ubuntu :P"

@@ -8,23 +8,23 @@ post_id: blog-3515952828243908885.post-3561339350036476639
 
 Tienes GNU\Linux en tu sistema?, lo usas a diario? (o al menos semanalmente?)...
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RhUD_rQFkFI/AAAAAAAAAQA/jJE4HoWB1lE/s200/happytux.png)](http://bp2.blogger.com/_ayvorITawE4/RhUD_rQFkFI/AAAAAAAAAQA/jJE4HoWB1lE/s1600-h/happytux.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RhUD_rQFkFI/AAAAAAAAAQA/jJE4HoWB1lE/s200/happytux.png)    
 "Tux"
 
 Si es asi, de acuerdo a algunas personas (y los que propagan el mito) si tienes GNU\Linux en tu sistema eres un super hombre...
-[![](http://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s320/superlogo.jpeg)](http://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s1600-h/superlogo.jpeg)
+![image](https://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s320/superlogo.jpeg)    
 "Logo de Superman"
 
 Las distribuciones de GNU\Linux han hecho un sin fin de increíbles malabares para realizar de manera mas sencilla la instalación a través de los años.Hay instalaciones que super sencillas, por ejemplo la instalación de Linspire.
 
-![](http://www.ffnn.nl/media/.gallery/image213.png)![](http://www.ffnn.nl/media/.gallery/image237.png)![](http://www.ffnn.nl/media/.gallery/image238.png)
+![image](https://www.ffnn.nl/media/.gallery/image213.png)    ![image](https://www.ffnn.nl/media/.gallery/image237.png)    ![image](https://www.ffnn.nl/media/.gallery/image238.png)    
 
 "Capturas de pantalla de
 instalación de Linspire Five-0"
 
 Hasta la imagen para reiniciar es suficientemente explicativa como para que cualquier usuario entienda que tiene que hacer...
 
-![](http://www.ffnn.nl/media/.gallery/image239.png)
+![image](https://www.ffnn.nl/media/.gallery/image239.png)    
 
 "Captura de pantalla de
 instalación de Linspire Five-0"
@@ -60,15 +60,15 @@ Estoy completamente de acuerdo con que la mayoría de usuarios no desean usar un
 
 Les recomiendo que vean este vídeo del Desafio 2.0 Install & GO organizado por los miembros del eGhost (grupo de Software Libre de la Universidad de Deusto) conciste en ver quien instala un sistema operativo funcional en el menor tiempo.
 
-[http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE)
+[https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE)
 
-[http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE) [http://www.youtube.com/v/FFC2Kyfe2EE](http://www.youtube.com/v/FFC2Kyfe2EE)
-"[Mas información del desafió aquí](http://www.e-ghost.deusto.es/phpwiki/index.php/Desafio20Blog)
+[https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE)
+"[Mas información del desafió aquí](https://www.e-ghost.deusto.es/phpwiki/index.php/Desafio20Blog)
 "
 
 Pero si algo es seguro, es que Instalar GNU\Linux en una maquina, es tan difícil como instalar y darle mantenimiento a Windows... bueno, instalar GNU\linux siempre es más fácil.
 
-![](http://www.acota.de/pics/humor/tux/dummy1024x768.jpg)
+![image](https://www.acota.de/pics/humor/tux/dummy1024x768.jpg)    
 "Sick of Crashing? Fondo de pantalla"
 
 Espera los mitos de GNU\Linux desmitificados muy pronto! Saludos!

@@ -6,25 +6,25 @@ tags: twitter
 post_id: blog-3515952828243908885.post-3928495759971467839
 ---
 
-Revisando algunos tweets de la semana pasada, encontré algunos tweets de sitios que hacen un mash-up muy interesante de [Twitter](http://www.srbyte.com/2008/09/y-para-qu-te-puede-servir-twitter.html) y algún otro servicio Web...
+Revisando algunos tweets de la semana pasada, encontré algunos tweets de sitios que hacen un mash-up muy interesante de [Twitter](https://www.srbyte.com/2008/09/y-para-qu-te-puede-servir-twitter.html) y algún otro servicio Web...
 
-[@marlonmelara](http://twitter.com/marlonmelara) comparte[en su blog](http://www.entreotrascosas.com/): [Twittas?](http://twittas.com/), un servicio que, entre otras cosas,[permite localizar en un mapa a tus followers](http://twittas.com/mapf/), y
-[cuando llegaras al millón de seguidores](http://twittas.com/1million/).
+[@marlonmelara](https://twitter.com/marlonmelara) comparte[en su blog](https://www.entreotrascosas.com/): [Twittas?](https://twittas.com/), un servicio que, entre otras cosas,[permite localizar en un mapa a tus followers](https://twittas.com/mapf/), y
+[cuando llegaras al millón de seguidores](https://twittas.com/1million/).
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/ShhvNh2ocpI/AAAAAAAAB-4/5JRUxhHZLCc/s320/logov1.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/ShhvNh2ocpI/AAAAAAAAB-4/5JRUxhHZLCc/s1600-h/logov1.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/ShhvNh2ocpI/AAAAAAAAB-4/5JRUxhHZLCc/s320/logov1.jpg)    
 "Quizas lo mejor de
 Twittas?, es el mapa para ver tus followers."
 
-[@sinrevelar](http://twitter.com/sinrevelar) tiene en su twittpic
-una captura de [Twoogle](http://twoogle.browsys.com/), que es un sitio que permite buscar en Twitter y en Google todo desde la misma pagina, mostrando los resultados simultáneamente. Twoogle apunta a realizar poderosas búsquedas combinando las características de tiempo real de Twitter y la relevancia de contenido de Google.
+[@sinrevelar](https://twitter.com/sinrevelar) tiene en su twittpic
+una captura de [Twoogle](https://twoogle.browsys.com/), que es un sitio que permite buscar en Twitter y en Google todo desde la misma pagina, mostrando los resultados simultáneamente. Twoogle apunta a realizar poderosas búsquedas combinando las características de tiempo real de Twitter y la relevancia de contenido de Google.
 
-[![](https://4.bp.blogspot.com/_ayvorITawE4/ShhvN5oS63I/AAAAAAAAB_A/hv5TgCxby0A/s320/8810177-c106d49f796b79d46e0b60271d86d002.4a1816f8-full.png)](https://4.bp.blogspot.com/_ayvorITawE4/ShhvN5oS63I/AAAAAAAAB_A/hv5TgCxby0A/s1600-h/8810177-c106d49f796b79d46e0b60271d86d002.4a1816f8-full.png)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/ShhvN5oS63I/AAAAAAAAB_A/hv5TgCxby0A/s320/8810177-c106d49f796b79d46e0b60271d86d002.4a1816f8-full.png)    
 "Busca en Twitter y Google,
 simultáneamente ;)"
 
-Y finalmente, encontré [VisibleTweets.com](http://visibletweets.com/), que es una pagina para visualizar tweets, esta mini-aplicación, permite buscar twitts marcados con [#hashtags](http://hashtags.org/) específicos, y los muestra con varias interesantes y muy buenas animaciones, sigan a [@visibletweets](http://twitter.com/visibletweets/) para estar pendiente del sitio.
+Y finalmente, encontré [VisibleTweets.com](https://visibletweets.com/), que es una pagina para visualizar tweets, esta mini-aplicación, permite buscar twitts marcados con [#hashtags](https://hashtags.org/) específicos, y los muestra con varias interesantes y muy buenas animaciones, sigan a [@visibletweets](https://twitter.com/visibletweets/) para estar pendiente del sitio.
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/ShhvNQFW2QI/AAAAAAAAB-w/pVUGF08N_wI/s320/visibletwitts.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/ShhvNQFW2QI/AAAAAAAAB-w/pVUGF08N_wI/s1600-h/visibletwitts.jpg)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/ShhvNQFW2QI/AAAAAAAAB-w/pVUGF08N_wI/s320/visibletwitts.jpg)    
 "VisibleTweets: Twitts +
 Animaciones."
 

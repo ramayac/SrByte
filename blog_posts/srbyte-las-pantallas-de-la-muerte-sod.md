@@ -10,59 +10,59 @@ Tenia rato de no tener una "Pantalla de la Muerte" asechando en mi monitor, y es
 
 En la familia de Windows NT, estos errores suceden cuando los controladores de los dispositivos están mal codificados/programados o cuando el hardware funciona incorrectamente.
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yyvUPYI/AAAAAAAABAc/DwxZZR3MIT4/s400/Windows_XP_BSOD.png)](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yyvUPYI/AAAAAAAABAc/DwxZZR3MIT4/s1600-h/Windows_XP_BSOD.png)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yyvUPYI/AAAAAAAABAc/DwxZZR3MIT4/s400/Windows_XP_BSOD.png)    
 "BSOD de Windows
 NT"
 
 En la familia de Windows 9x (95, 98, 98SE, Me, etc...) eran los DLLs el problema, o bugs en el Kernel:
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ysghdxI/AAAAAAAABAU/mOG-qaLiufI/s400/Windows_9X_BSOD.png)](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ysghdxI/AAAAAAAABAU/mOG-qaLiufI/s1600-h/Windows_9X_BSOD.png)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ysghdxI/AAAAAAAABAU/mOG-qaLiufI/s400/Windows_9X_BSOD.png)    
 "BSOD de Windows
 9x"
 
 Inclusive puede suceder, que si se golpea -fuerte- el CPU, la maquina se reinicia y muestra la BSOD.
 
-Por cierto los "amigos" de Microsoft, han incluido una característica en Windows que permite que la pantalla azul aparezca manualmente. Para habilitarla, con fines "educativos" claro, hay que añadir un valor al registro de Windows (usando regedit.exe) y seguir las instrucciones de [este sitio](http://pcsupport.about.com/od/tipstricks/ht/makebsodxp.htm). Luego, después de reiniciar la maquina, una BSOD aparecerá cuando el usuario presione la tecla SCROLL LOCK (PAUSA INTER) dos veces mientras se sostiene la tecla derecha CTRL. Como ya dije, esta característica es para fines útiles y educativos, sirve para obtener "memory dumps" de la maquina en un estado especifico. También puedes provocar un BSOD al terminar el proceso csrss.exe y winlogon.exe . Aunque si son curiosos, ya habrán notado que con el Task Manager no se puede terminar esos procesos, pero si se puede con software de terceros ;) Y por si fuera poco, también hay un salva pantallas de la famosa pantalla azul, y la pueden descargar [aqui](http://technet.microsoft.com/en-us/sysinternals/bb897558.aspx).
+Por cierto los "amigos" de Microsoft, han incluido una característica en Windows que permite que la pantalla azul aparezca manualmente. Para habilitarla, con fines "educativos" claro, hay que añadir un valor al registro de Windows (usando regedit.exe) y seguir las instrucciones de [este sitio](https://pcsupport.about.com/od/tipstricks/ht/makebsodxp.htm). Luego, después de reiniciar la maquina, una BSOD aparecerá cuando el usuario presione la tecla SCROLL LOCK (PAUSA INTER) dos veces mientras se sostiene la tecla derecha CTRL. Como ya dije, esta característica es para fines útiles y educativos, sirve para obtener "memory dumps" de la maquina en un estado especifico. También puedes provocar un BSOD al terminar el proceso csrss.exe y winlogon.exe . Aunque si son curiosos, ya habrán notado que con el Task Manager no se puede terminar esos procesos, pero si se puede con software de terceros ;) Y por si fuera poco, también hay un salva pantallas de la famosa pantalla azul, y la pueden descargar [aqui](https://technet.microsoft.com/en-us/sysinternals/bb897558.aspx).
 
 Bien, si dejamos el mundo de Winbugs Windows, veremos que hay muchos dispositivos también tienen esta "característica". La Xbox 360, cuando esta consola experimenta una "fallo general de hardware", tres luces rojas aparecen alrededor del botón de encendido.
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yzLctuI/AAAAAAAABAk/ByMKtlfxTxk/s400/Xbox360-ringofdeath.jpg)](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yzLctuI/AAAAAAAABAk/ByMKtlfxTxk/s1600-h/Xbox360-ringofdeath.jpg)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yzLctuI/AAAAAAAABAk/ByMKtlfxTxk/s400/Xbox360-ringofdeath.jpg)    
 "Xbox 360 anillo de la
 muerte"
 
 El nintendo DS también tiene una pantalla de la muerte, que sucede cuando se remueve una tarjeta DS o un cartucho de GBA mientras se esta en el menú de selección de Pictochat. El color de la pantalla esta basado en la versión del Firmware del DS:
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZlRupJI/AAAAAAAAA_s/U9FEKq8tao0/s400/DS_BSoD.JPG)](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZlRupJI/AAAAAAAAA_s/U9FEKq8tao0/s1600-h/DS_BSoD.JPG)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZlRupJI/AAAAAAAAA_s/U9FEKq8tao0/s400/DS_BSoD.JPG)    
 "Pantalla de la muerte del
 nintendo DS"
 
 Parece que entre la gente que ha comprado el nuevo iPhone, esta apareciendo un nuevo rumor: sobre algun problema del software 2.0 y 2.0.1 del iPhone o de alguna aplicación de maliciosa (para el iPhone) que daña el sistema operativo del mismo, solo que este error... es permanente :-S (hay usuarios que reportan que la característica de restauración no funciona).
 
-[![](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZoPyGXI/AAAAAAAAA_0/9Mt9eJz0BwQ/s400/iphone-boot-screen.jpg)](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZoPyGXI/AAAAAAAAA_0/9Mt9eJz0BwQ/s1600-h/iphone-boot-screen.jpg)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZoPyGXI/AAAAAAAAA_0/9Mt9eJz0BwQ/s400/iphone-boot-screen.jpg)    
 "Pantalla de la Muerte para
 el iPhone"
 
 Los productos de Apple tampoco se salvan, antes la mayoría de Mac tenían esta imagen:
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZxBsVjI/AAAAAAAABAM/jNl5fhL8XrI/s400/Sad_mac.png)](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZxBsVjI/AAAAAAAABAM/jNl5fhL8XrI/s1600-h/Sad_mac.png)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZxBsVjI/AAAAAAAABAM/jNl5fhL8XrI/s400/Sad_mac.png)    
 "Pantalla de la Muerte, Sad
 Mac"
 
 Los primeros iPod, también tienen una especie de "Sad Mac":
 
-[![](https://4.bp.blogspot.com/_ayvorITawE4/SJu6Zze7_0I/AAAAAAAABAE/bhX5gJLt5rM/s400/Sad_iPod.png)](https://4.bp.blogspot.com/_ayvorITawE4/SJu6Zze7_0I/AAAAAAAABAE/bhX5gJLt5rM/s1600-h/Sad_iPod.png)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SJu6Zze7_0I/AAAAAAAABAE/bhX5gJLt5rM/s400/Sad_iPod.png)    
 "Sad
 iPod"
 
 Y desde OS X, las Mac tiene una "elegante" pantalla de la muerte:
 
-[![](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZtAlHLI/AAAAAAAAA_8/ClH833y2etg/s400/MacOSX_kernel_panic.png)](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZtAlHLI/AAAAAAAAA_8/ClH833y2etg/s1600-h/MacOSX_kernel_panic.png)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZtAlHLI/AAAAAAAAA_8/ClH833y2etg/s400/MacOSX_kernel_panic.png)    
 "Pantalla de la Muerte de
 Mac OS X"
 
 También GNU/Linux tiene el temido "Kernel Panic", que en lo personal, solo me ha sucedido dos veces: una por un CD de instalación rayado, y otra por que yo compile mal el kernel. Pero también tiene pantalla de la muerte:
 
-[![](https://4.bp.blogspot.com/_ayvorITawE4/SJu7Zh24zjI/AAAAAAAABAs/0qsPj8K-M_g/s400/Kernel-panic.jpg)](https://4.bp.blogspot.com/_ayvorITawE4/SJu7Zh24zjI/AAAAAAAABAs/0qsPj8K-M_g/s1600-h/Kernel-panic.jpg)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SJu7Zh24zjI/AAAAAAAABAs/0qsPj8K-M_g/s400/Kernel-panic.jpg)    
 "Kernel
 Panic!"
 

@@ -190,16 +190,16 @@ def clean_text_to_markdown(text: str) -> str:
     # This handles cases like [![...](...)!](...)"Caption" -> [![...](...)!](...)\n"Caption"
     text = re.sub(r'(\]\([^)]+\))(")', r'\1\n\2', text)
     
-    # Convert linked images to simple images when the link URL matches the image URL
-    # This handles cases like [![](url)](same_url) -> ![](url)
-    text = re.sub(r'\[!\[([^\]]*)\]\(([^)]+)\)\]\(\2\)', r'![\1](\2)', text)
+    # Convert ALL linked images to simple images with "image" as alt text
+    # This handles cases like [![anything](image_url)](any_link_url) -> ![image](image_url)
+    text = re.sub(r'\[!\[[^\]]*\]\(([^)]+)\)\]\([^)]+\)', r'![image](\1)  ', text)
     
-    # Convert HTTP to HTTPS for common domains
-    # Update blogspot images
-    text = re.sub(r'http://([0-9]+\.bp\.blogspot\.com)', r'https://\1', text)
-    # Update common websites
-    text = re.sub(r'http://(www\.)?(wikipedia\.org|xdrtb\.org|tedprize\.org)', r'https://\1\2', text)
-    text = re.sub(r'http://ted\.streamguys\.net', r'https://ted.streamguys.net', text)
+    # Also handle any remaining simple images to ensure they all use "image" as alt text
+    # This handles cases like ![anything](url) -> ![image](url)
+    text = re.sub(r'!\[[^\]]*\]\(([^)]+)\)', r'![image](\1)  ', text)
+    
+    # Convert ALL HTTP URLs to HTTPS
+    text = re.sub(r'http://', r'https://', text)
     
     # Fix spacing between images and following text
     # Add space after image markdown when immediately followed by text/links

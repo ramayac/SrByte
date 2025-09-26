@@ -6,12 +6,12 @@ tags: streaming, amarok, screenlet, firefox, java, complementos, songbird, atune
 post_id: blog-3515952828243908885.post-6419389697598290564
 ---
 
-[![](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s400/play.jpg)](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s1600-h/play.jpg)
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s400/play.jpg)    
 Una de las cosas que más hacemos al estar en nuestra computadora es escuchar música. Quizá es de los primeros programas que instalamos si es que acabamos de obtenerla o la hemos formateado ya que nos permite dejarla sonando mientras realizamos otras actividades típicas como chatear, navegar en Internet, hacer tareas, etc.
 
 Hay algunos que lo único que les interesa es escuchar la música, les bastaría nada más tener un reproductor cuya única interfaz sea un botón de Play y que empiece a sonar aleatoriamente alguna lista de archivos seleccionada de una carpeta o la librería completa de música. En cambio, habemos otros un poco más exigentes a la hora de escuchar música y deseamos que nuestro reproductor haga muchas otras cosas aparte de reproducir audio por lo que, a manera personal, les muestro una lista del top de reproductores de audio y las características por las que han sido seleccionados.
 
-[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SUmyiv_f1MI/AAAAAAAAFPY/AIvtA1oaCEE/s400/aerotrax.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/SUmyiv_f1MI/AAAAAAAAFPY/AIvtA1oaCEE/s1600-h/aerotrax.jpg)
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUmyiv_f1MI/AAAAAAAAFPY/AIvtA1oaCEE/s400/aerotrax.jpg)    
 "Interfaz de AeroTrax,
 reproductor minimalista y quiza el ideal de muchos"
 
@@ -29,24 +29,24 @@ Entre las características que considero debe cumplir un reproductor decente, se
 
 Quiza no exista un único reproducto que cumpla con todas estas características pero hay varios que cumplen con la mayoría. Entre los que he tenido la oportunidad de probar y han sido de mi agrado estan:
 
-Songbird: ([link](http://getsongbird.com/)) Basado en xul(la interfaz gráfica de Firefox) y respaldado por Mozilla, lo que permite que, al igual que el navegador, existan versiones para distintas plataformas. También aprovecha de su interfaz el hecho de venir con un navegador web integrado el cual permite agregar add-ons similares a los de firefox y extenderlo hasta convertirlo en algo más que un simple reproductor de música.
+Songbird: ([link](https://getsongbird.com/)) Basado en xul(la interfaz gráfica de Firefox) y respaldado por Mozilla, lo que permite que, al igual que el navegador, existan versiones para distintas plataformas. También aprovecha de su interfaz el hecho de venir con un navegador web integrado el cual permite agregar add-ons similares a los de firefox y extenderlo hasta convertirlo en algo más que un simple reproductor de música.
 
-[![](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsxKNUpqGI/AAAAAAAAFP4/yRrWqyhWgu0/s400/songbird-fullsize.jpg)](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsxKNUpqGI/AAAAAAAAFP4/yRrWqyhWgu0/s1600-h/songbird-fullsize.jpg)
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsxKNUpqGI/AAAAAAAAFP4/yRrWqyhWgu0/s400/songbird-fullsize.jpg)    
 
-Amarok: ([link](http://amarok.kde.org/)) Uno de los reproductores más completos y populares que existen para Linux, con la capacidad de ser portado a Windows junto con la paquetería de KDE. Basado en Qt y XMMS. Cumple con la gran mayoría de las características listadas arriba.
+Amarok: ([link](https://amarok.kde.org/)) Uno de los reproductores más completos y populares que existen para Linux, con la capacidad de ser portado a Windows junto con la paquetería de KDE. Basado en Qt y XMMS. Cumple con la gran mayoría de las características listadas arriba.
 
-[![](https://4.bp.blogspot.com/_jH77WNrMVRA/SUswfuYE3FI/AAAAAAAAFPg/9xFiBiD4tn4/s400/Amarok-2_0_0-Overview_1.png)](https://4.bp.blogspot.com/_jH77WNrMVRA/SUswfuYE3FI/AAAAAAAAFPg/9xFiBiD4tn4/s1600-h/Amarok-2_0_0-Overview_1.png)
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUswfuYE3FI/AAAAAAAAFPg/9xFiBiD4tn4/s400/Amarok-2_0_0-Overview_1.png)    
 
-aTunes: ([link](http://www.atunes.org/)) Reproductor Open Source basado en Java (lo cual lo vuelve multiplataforma) y surge como una alternativa al iTunes de Apple.
+aTunes: ([link](https://www.atunes.org/)) Reproductor Open Source basado en Java (lo cual lo vuelve multiplataforma) y surge como una alternativa al iTunes de Apple.
 
-[![](https://4.bp.blogspot.com/_jH77WNrMVRA/SUswqiTwklI/AAAAAAAAFPo/af7G2ChUZVs/s400/aTunes1.11.0RC.png)](https://4.bp.blogspot.com/_jH77WNrMVRA/SUswqiTwklI/AAAAAAAAFPo/af7G2ChUZVs/s1600-h/aTunes1.11.0RC.png)
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUswqiTwklI/AAAAAAAAFPo/af7G2ChUZVs/s400/aTunes1.11.0RC.png)    
 
-MPD: ([link](http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki)) Este no es un reproductor de música en si, sino mas bien es un servidor (o demonio) de reproducción de audio, el cual es controlado mediante cualquiera de las aplicaciones cliente que existen para el. Estas van desde una basada en comandos de la consola (mpc), applets para el gnome-panel, screenlets para el escritorio o sino uno de mis clientes favoritos, [sonata](http://sonata.berlios.de/).
+MPD: ([link](https://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki)) Este no es un reproductor de música en si, sino mas bien es un servidor (o demonio) de reproducción de audio, el cual es controlado mediante cualquiera de las aplicaciones cliente que existen para el. Estas van desde una basada en comandos de la consola (mpc), applets para el gnome-panel, screenlets para el escritorio o sino uno de mis clientes favoritos, [sonata](https://sonata.berlios.de/).
 
-[![](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s400/sonata1.png)](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s1600-h/sonata1.png) WinAmp: ([link](http://www.winamp.com/)) Quiza el reproductor más popular que existe
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s400/sonata1.png)    WinAmp: ([link](https://www.winamp.com/)) Quiza el reproductor más popular que existe
 para Windows, capaz de ser portado a Linux mediante wine. Con la capacidad de competir con los demás listados anteriormente aunque su intefaz no sea tan intuitiva o tan normal como la del resto de reproductores. Aun así es posible cambiarla mediante skins.
 
-[![](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s1600-h/winamp_screen_large.jpg)
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)    
 Que reproductor agregarías tu a las lista?
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

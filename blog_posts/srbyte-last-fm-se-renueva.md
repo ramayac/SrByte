@@ -6,7 +6,7 @@ tags: last.fm, web 2.0, social, personal, diseño, email, internet, gmail, entre
 post_id: blog-3515952828243908885.post-4142577855708609661
 ---
 
-[![](http://bp2.blogger.com/_jH77WNrMVRA/SHOfk5NaIMI/AAAAAAAAA6w/vZ_33pGeHpU/s320/last-fm_audioscrobbler_logo.png)](http://bp2.blogger.com/_jH77WNrMVRA/SHOfk5NaIMI/AAAAAAAAA6w/vZ_33pGeHpU/s1600-h/last-fm_audioscrobbler_logo.png)
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SHOfk5NaIMI/AAAAAAAAA6w/vZ_33pGeHpU/s320/last-fm_audioscrobbler_logo.png)    
 "Logotipo de
 Last.fm"
 
@@ -14,13 +14,13 @@ Hace poco, los usuarios de esta popular red social orientada al mundo de la mús
 
 También pueden acceder a la versión del sitio mediante un vínculo que les aparecerá en el dashboard:
 
-[![](http://bp2.blogger.com/_jH77WNrMVRA/SHOnMbkIIVI/AAAAAAAAA7I/VKb6gc8hcPk/s400/PostImg5.png)](http://bp2.blogger.com/_jH77WNrMVRA/SHOnMbkIIVI/AAAAAAAAA7I/VKb6gc8hcPk/s1600-h/PostImg5.png)
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SHOnMbkIIVI/AAAAAAAAA7I/VKb6gc8hcPk/s400/PostImg5.png)    
 "Nuevo vínculo para probar
 la versión beta del sitio (Clic para agrandar)"
 
 La nueva apariencia luce de la siguiente manera:
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s320/PostImg4.png)](http://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s1600-h/PostImg4.png)
+![image](https://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s320/PostImg4.png)    
 "Nueva
 interfaz beta del sitio web de last.fm (clic para agrandar)"
 

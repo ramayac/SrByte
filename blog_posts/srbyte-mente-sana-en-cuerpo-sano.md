@@ -6,7 +6,7 @@ tags: semana santa, playa, vacaciones, geek
 post_id: blog-3515952828243908885.post-7425954172727667777
 ---
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s1600-h/LaptopAtBeach.PNG)
+![image](https://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)    
 "Visitando al Sr Byte desde
 la playa"
 
@@ -20,7 +20,7 @@ Estas tareas siempre consumen energía mental y concentración mas que desgaste 
 
 - Una caminata: No hay nada mejor que desoxidar un poco los músculos con una caminata hacia algún cerro, montaña o cualquier sitio natural de los que tanto abundan en nuestras tierras. Esto además de permitirnos disfrutar de las maravillas naturales con las que contamos, entrenamos nuestra perseverancia cuando se nos acaba el aliento a medio camino pero sabemos que debemos seguir hasta llegar a la cima, tomando en cuenta la gratificante sensación de haber conquistado la cumbre o de haber llegado hasta el final del trayecto.
 
-- Participación en las actividades tradicionales de la fecha: Como [Daniel](http://www.blogger.com/profile/04243634599457276349) y [Hugo](http://www.blogger.com/profile/09732801508756249569) que se fueron a dar un paseo a Texistepeque para que los castigaran los Talcigüines o los que participan en la tradicional elaboración de alfombras. Esto distrae tu mente de las actividades cotidianas y pueda que cuando retomes los problemas pendientes que dejaste en la oficina/universidad, tengas un nuevo enfoque y encuentres la solución que buscas.
+- Participación en las actividades tradicionales de la fecha: Como [Daniel](https://www.blogger.com/profile/04243634599457276349) y [Hugo](https://www.blogger.com/profile/09732801508756249569) que se fueron a dar un paseo a Texistepeque para que los castigaran los Talcigüines o los que participan en la tradicional elaboración de alfombras. Esto distrae tu mente de las actividades cotidianas y pueda que cuando retomes los problemas pendientes que dejaste en la oficina/universidad, tengas un nuevo enfoque y encuentres la solución que buscas.
 
 - Ocio Total: Considero una de las cosas más relajantes del mundo acomodarse en un sillón a ver televisión o alguna película en DVD que te hayan prestado recientemente, mas que todo si la película es alguna comedia o un género similar que te alegre la vida. Esto te ayuda a olvidarte un momento de las preocupaciones del estudio/trabajo y disfrutar de la vida.
 

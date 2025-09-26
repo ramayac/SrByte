@@ -6,13 +6,13 @@ tags: bad, smiley, messenger, emoticon, ascii
 post_id: blog-3515952828243908885.post-7715256210374718247
 ---
 
-[![](http://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s320/smiley.jpg)](http://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s1600-h/smiley.jpg)
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s320/smiley.jpg)    
 "Ejemplo de un Emoticon en
 3D"
 
-Un emoticon (también conocido como smiley), como muchos saben, es la representación de una emoción o un estado de ánimo utilizando combinaciones de caracteres de texto o símbolos. Los más populares, creados por [Scott Fahlman](http://en.wikipedia.org/wiki/Scott_Fahlman) en 1982, son :-) y :-( .
+Un emoticon (también conocido como smiley), como muchos saben, es la representación de una emoción o un estado de ánimo utilizando combinaciones de caracteres de texto o símbolos. Los más populares, creados por [Scott Fahlman](https://en.wikipedia.org/wiki/Scott_Fahlman) en 1982, son :-) y :-( .
 
-Es sorprendente cómo la gente en un principio encontró la manera de expresar emociones usando combinaciones de simples caracteres de texto, sin necesidad de imágenes. Aparte de emociones, también existe una tendencia a representar imágenes utilizando caracteres ASCII denominada [ASCII Art](http://en.wikipedia.org/wiki/ASCII_art). Existe una gran variedad de éstos y con un poco de imaginación, es posible entender lo que ellos representan.
+Es sorprendente cómo la gente en un principio encontró la manera de expresar emociones usando combinaciones de simples caracteres de texto, sin necesidad de imágenes. Aparte de emociones, también existe una tendencia a representar imágenes utilizando caracteres ASCII denominada [ASCII Art](https://en.wikipedia.org/wiki/ASCII_art). Existe una gran variedad de éstos y con un poco de imaginación, es posible entender lo que ellos representan.
 
 ```
 .o8 . "888 .o8 .oooo.o oooo d8b 888oooo. oooo ooo .o888oo .ooooo. d88( "8 `888""8P d88' `88b `88. .8' 888 d88' `88b `"Y88b. 888 888 888 `88..8' 888 888ooo888
@@ -20,7 +20,7 @@ Es sorprendente cómo la gente en un principio encontró la manera de expresar e
 o. )88b 888 888 888 `888' 888 . 888 .o 8""888P' d888b `Y8bod8P' .8' "888" `Y8bod8P' .o..P' `Y8P' _ _ _ )) )) __ ___ __ __ __ )L __ __ _ _ o ((_)(( ((_)((_( _))((_)((_)(( o ((_ ((_)((`1( _)) ))
 
 ```
-"Arte ASCII Generado con el [ASCII Generator](http://www.network-science.de/ascii/)
+"Arte ASCII Generado con el [ASCII Generator](https://www.network-science.de/ascii/)
 "
 ave fun. Don't forget to bookmark this website :) Actualmente en los foros y los programas de mensajería instantánea estas combinaciones de texto se ven reemplazadas por sus imágenes correspondientes y ya no son sólo imágenes estáticas sino que la gran mayoría utiliza ahora imágenes animadas.
 

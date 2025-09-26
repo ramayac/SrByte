@@ -13,10 +13,10 @@ Pero antes de hablar de esta maravilla, un poco de información:
 
 ¿Qué es Gizmo project?
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s400/gizmo_logo.gif)](http://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s1600-h/gizmo_logo.gif) Gizmo project es un
-programa gratuito que usa avanzada tecnología VoIP para permitir hablar a personas alrededor del mundo. Este proyecto esta basado en tecnologías de software libre; para ser mas especifico en granjas de servidores corriendo GNU/Linux y [Asterisk.](http://es.wikipedia.org/wiki/Asterisk)
+![image](https://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s400/gizmo_logo.gif)    Gizmo project es un
+programa gratuito que usa avanzada tecnología VoIP para permitir hablar a personas alrededor del mundo. Este proyecto esta basado en tecnologías de software libre; para ser mas especifico en granjas de servidores corriendo GNU/Linux y [Asterisk.](https://es.wikipedia.org/wiki/Asterisk)
 
-[![](http://bp3.blogger.com/_ayvorITawE4/RcAaZjD_iBI/AAAAAAAAACw/kwQ7B4pKJpc/s400/250px-Asterisk_logo.png)](http://bp3.blogger.com/_ayvorITawE4/RcAaZjD_iBI/AAAAAAAAACw/kwQ7B4pKJpc/s1600-h/250px-Asterisk_logo.png)
+![image](https://bp3.blogger.com/_ayvorITawE4/RcAaZjD_iBI/AAAAAAAAACw/kwQ7B4pKJpc/s400/250px-Asterisk_logo.png)    
 
 ¿Qué es [GizmoCall](https://www.gizmocall.com/)?
 

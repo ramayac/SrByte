@@ -6,7 +6,7 @@ tags: codigo, tecnicas, programacion
 post_id: blog-3515952828243908885.post-6113201256585132819
 ---
 
-[![](http://bp2.blogger.com/_jH77WNrMVRA/R-hkl_a906I/AAAAAAAAAws/ce-WYz73qGY/s320/156713983_c264885895_o.jpg)](http://bp2.blogger.com/_jH77WNrMVRA/R-hkl_a906I/AAAAAAAAAws/ce-WYz73qGY/s1600-h/156713983_c264885895_o.jpg)
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R-hkl_a906I/AAAAAAAAAws/ce-WYz73qGY/s320/156713983_c264885895_o.jpg)    
 "Barquito elaborado con una
 hoja impresa de código HTML"
 

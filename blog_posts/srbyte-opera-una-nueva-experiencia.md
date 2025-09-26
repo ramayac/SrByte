@@ -6,7 +6,7 @@ tags: software, freeware, Opera
 post_id: blog-3515952828243908885.post-1057178706624432252
 ---
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s400/92px-OperaLogo.png)](http://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s1600-h/92px-OperaLogo.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s400/92px-OperaLogo.png)    
 El Opera es un navegador web multiplataforma (corren en Microsoft Windows, Mac OS X, Linux, FreeBSD y Solaris), que posee una suite de características para manejar tareas comunes en Internet. Algunas de esas tareas comunes realizables desde Opera incluyen enviar y recibir correos, manejar contactos, chatear en linea, ver widgets, descarga de archivos de BitTorrent y leer RSS feeds. Ademas hay una versión "adelgazada" de Opera, llamada Opera Mini, orientada a los dispositivos moviles. Y lo mejor, es que las ultimas versiones de Opera se ofrecen como Freeware (aunque Opera es software propietario).
 
 > Este sera de aquellos raros casos, en los que recomiendo probar y
@@ -23,21 +23,21 @@ Algunas caracteristicas de Opera son:
 - Editor WYSIWYG mejorado.
 - Protección contra Fraude (En tiempo real).
 - Y la característica mas útil para mi: "Speed Dial". ([Speed Dial para Firefox aquí](https://addons.mozilla.org/en-US/firefox/addon/4810))
-[![](http://bp1.blogger.com/_ayvorITawE4/RvkPDVmN2NI/AAAAAAAAAes/iKkOJAyD_aU/s400/lin.jpg)](http://bp1.blogger.com/_ayvorITawE4/RvkPDVmN2NI/AAAAAAAAAes/iKkOJAyD_aU/s1600-h/lin.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/RvkPDVmN2NI/AAAAAAAAAes/iKkOJAyD_aU/s400/lin.jpg)    
 "Opera con Speed
 Dial"
 
 ¿Por que preferir Opera a Firefox/IceWeasel ? Aparte de lo mas obvio (Firefox es LENTO), es que una de las desventajas de FireFox (en algunos casos) es el uso de Extensiones (Add-ons) adicionales para que FireFox haga algo. El ejemplo mas triste es la extensión de Adblock y Adblock Plus, que aunque hacen un excelente trabajo bloqueando anuncios... son (cuando están instalados) una de las principales causas de lentitud en FireFox.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RvkPzlmN2OI/AAAAAAAAAe0/x8mm_t-uqx8/s400/content-blocker.png)](http://bp2.blogger.com/_ayvorITawE4/RvkPzlmN2OI/AAAAAAAAAe0/x8mm_t-uqx8/s1600-h/content-blocker.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RvkPzlmN2OI/AAAAAAAAAe0/x8mm_t-uqx8/s400/content-blocker.png)    
 "Accesa al 'modo' de bloqueo
 de contenido con Opera"
 
 Para ver una lista de Extensiones Problemáticas para Firefox visita esta pagina:
-[> http://kb.mozillazine.org/Problematic_extensions](http://kb.mozillazine.org/Problematic_extensions) Opera
-incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([http://dev.opera.com/tools/](http://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
+[> https://kb.mozillazine.org/Problematic_extensions](https://kb.mozillazine.org/Problematic_extensions) Opera
+incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
 
-[![](http://bp2.blogger.com/_ayvorITawE4/RvkQSlmN2PI/AAAAAAAAAe8/9Pm3CHchPjA/s400/clock-widget.png)](http://bp2.blogger.com/_ayvorITawE4/RvkQSlmN2PI/AAAAAAAAAe8/9Pm3CHchPjA/s1600-h/clock-widget.png)
+![image](https://bp2.blogger.com/_ayvorITawE4/RvkQSlmN2PI/AAAAAAAAAe8/9Pm3CHchPjA/s400/clock-widget.png)    
 "Widgets para
 Opera"
 
@@ -66,6 +66,6 @@ Estos son algunos dispositivos en los que corre Opera:
 - Thales TopSeries In-Flight Entertainment
 - Amino AmiNET
 - Psion
-Pueden visitar la pagina de Opera: [www.opera.com](http://www.opera.com/)
+Pueden visitar la pagina de Opera: [www.opera.com](https://www.opera.com/)
 
 Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

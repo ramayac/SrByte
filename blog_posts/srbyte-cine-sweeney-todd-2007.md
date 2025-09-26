@@ -10,7 +10,7 @@ Introducción: La cantidad de sangre que brota en este film, lo convierte en un 
 
 "Video: Trailer de Sweeney
 Todd"
-[![](http://bp1.blogger.com/_ayvorITawE4/R-FkGEiioLI/AAAAAAAAAmE/l-Eqnzx724U/s320/sweeney2007.jpg)](http://bp1.blogger.com/_ayvorITawE4/R-FkGEiioLI/AAAAAAAAAmE/l-Eqnzx724U/s1600-h/sweeney2007.jpg) Sinopsis: En Sweeney Todd, contamos con la sexta
+![image](https://bp1.blogger.com/_ayvorITawE4/R-FkGEiioLI/AAAAAAAAAmE/l-Eqnzx724U/s320/sweeney2007.jpg)    Sinopsis: En Sweeney Todd, contamos con la sexta
 colaboración del director Tim Burton y Johnny Depp, este ultimo interpretando a Benjamin Barker (conocido por Sweeney Todd), un barbero falsamente apresado y condenado por el Juez Turpin. Sweeney, después de dejar la prisión, regresa a la ciudad de Londres, solo para conocer que su esposa se envenena y su hija esta cautiva. Mientras elabora el plan de su venganza color rubí, Sweeney se una con la Señora Lovett (Helena Bonham Carter), y mientras Sweeney mata "caza" a los clientes que desean una rasurada, su nueva compañera de trabajo convierte los cuerpos en deliciosos panecillos de carne. Mmmmmm!, dicen que la carne humana tiene buen sabor ;) Pero el Juez Turpin aun vive, y el endemoniado barbero tiene sed de venganza.
 
 "Video: Canción Epiphany de

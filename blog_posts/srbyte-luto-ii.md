@@ -8,7 +8,7 @@ post_id: blog-3515952828243908885.post-3998733890022415845
 
 El blog del Sr. Byte y Rodrigo Amaya esta de luto. El día de hoy, en la madrugada falleció mi bisabuela de 99 años, conocida socialmente por "La niña Concha"...
 
-[![](http://bp1.blogger.com/_ayvorITawE4/R7g_crTZHeI/AAAAAAAAAjw/gd_RJ5f9z44/s400/abuelita-concha.jpg)](http://bp1.blogger.com/_ayvorITawE4/R7g_crTZHeI/AAAAAAAAAjw/gd_RJ5f9z44/s1600-h/abuelita-concha.jpg)
+![image](https://bp1.blogger.com/_ayvorITawE4/R7g_crTZHeI/AAAAAAAAAjw/gd_RJ5f9z44/s400/abuelita-concha.jpg)    
 "Concha de Centeno:
 Noviembre 1908 - Febrero 2008"
 
