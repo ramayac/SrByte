@@ -10,9 +10,9 @@ Cuantos geeks pasaran estas fiestas encerrados en sus casas frente a sus computa
 
 Algunos geeks suelen ser un tanto apáticos para este tipo de celebraciones y por lo tanto ni siquiera se animan a salir de sus casas o invitar a ser visitados para platicar de manera física con sus amigos.
 
-Debido a esto, [Will Savage](http://www.willsavage.com/) ha elaborado una muy ingeniosa y divertida campaña en la que invita a las personas a visitar a un geek que viva cerca de ellos y brindarles el regalo de una visita amistosa. Pueden leer mas acerca de esta campaña en [este sitio](http://befriendageek.com/).
+Debido a esto, [Will Savage](https://www.willsavage.com/) ha elaborado una muy ingeniosa y divertida campaña en la que invita a las personas a visitar a un geek que viva cerca de ellos y brindarles el regalo de una visita amistosa. Pueden leer mas acerca de esta campaña en [este sitio](https://befriendageek.com/).
 
-[Befriend a Geek](http://vimeo.com/2473786) from [White October](http://vimeo.com/user1019057) on [Vimeo](http://vimeo.com/).
+[Befriend a Geek](https://vimeo.com/2473786) from [White October](https://vimeo.com/user1019057) on [Vimeo](https://vimeo.com/).
 
 P.D. Esta campaña solamente una broma, los geeks no necesitamos visitas en casa, suficiente con twitter y la mensajería instantánea xD. Hay tantas otras personas que realmente pasan una navidad/año nuevo o cualquier celebración de una manera solitaria a la cual no caería mal que le hiciéramos una visita al estilo ImprovEverywhere:
 

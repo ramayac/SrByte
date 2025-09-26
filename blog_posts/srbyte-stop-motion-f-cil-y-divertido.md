@@ -6,11 +6,11 @@ tags: fotografía, divertido, diseño, idea, cine, animacion, tips, cineastas, i
 post_id: blog-3515952828243908885.post-2055906736839368493
 ---
 
-Considerado el séptimo arte, los pininos del cine son tecnológicamente simples. Su base de creación es la emisión de varios fotogramas a una velocidad considerablemente rápida y sucesiva, a fin de generar en el espectador la sensación de movimiento. Podríamos decir que una forma casera de hacer un video cinematográfico es empezar con un [Stop-motion.](http://es.wikipedia.org/wiki/Stop-motion)
+Considerado el séptimo arte, los pininos del cine son tecnológicamente simples. Su base de creación es la emisión de varios fotogramas a una velocidad considerablemente rápida y sucesiva, a fin de generar en el espectador la sensación de movimiento. Podríamos decir que una forma casera de hacer un video cinematográfico es empezar con un [Stop-motion.](https://es.wikipedia.org/wiki/Stop-motion)
 
 Los stop-motion son las animaciones que se hacen cuadro a cuadro, haciendo uso de recursos sencillos y de fácil acceso. Montarlo es relativamente fácil. Sólo se necesita creatividad, ingenio y sobre todo mucha pero mucha, y cito nuevamente, mucha paciencia.
 
-La difusión de esta técnica comenzó en 1905, luego de que [Ladislaw Starewicz](http://es.wikipedia.org/w/index.php?title=Ladislaw_Starewicz&action=edit&redlink=1) realizara su primera película a stop-motion titulada "La venganza del camarógrafo", en donde animó a los personajes principales que eran insectos reales. Posteriormente, películas como Kin Kong, The Nigthmare Before Christmas, Corpse Bride, Chicken run entre otros, han utilizado este económico y accesible recurso para su filmación.
+La difusión de esta técnica comenzó en 1905, luego de que [Ladislaw Starewicz](https://es.wikipedia.org/w/index.php?title=Ladislaw_Starewicz&action=edit&redlink=1) realizara su primera película a stop-motion titulada "La venganza del camarógrafo", en donde animó a los personajes principales que eran insectos reales. Posteriormente, películas como Kin Kong, The Nigthmare Before Christmas, Corpse Bride, Chicken run entre otros, han utilizado este económico y accesible recurso para su filmación.
 
 Este tipo de animación no cabe dentro de la categoría de caricatura o de dibujo animado, pues los objetos que se animan son tomados tal cual son en la realidad. Sin embargo, hay stop-motions que se auxilian de ciertas técnicas de dibujo para crear el acciones dentro de las animaciones. Es decir, se puede dibujar el fondo o ambiente en el cual se mueven los objetos.
 
@@ -28,4 +28,4 @@ Si estás interesado en hacer un stop-motion en tu casa, sólo necesitas lo sigu
 
 Espero que intenten hacerlo en sus casas. Recuerden, "pequeños pasos para hacer grandes cosas". Bendiciones.
 
-Fuentes consultadas: Wikipedia, Enciclopedia Libre; palabra clave: stop motion: http://es.wikipedia.org/wiki/Stop-motionCopyleft Rodrigo S. Amaya C. y el staff del Sr. Byte
+Fuentes consultadas: Wikipedia, Enciclopedia Libre; palabra clave: stop motion: https://es.wikipedia.org/wiki/Stop-motionCopyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

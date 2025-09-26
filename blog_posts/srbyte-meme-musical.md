@@ -6,7 +6,7 @@ tags: personal, meme, musica
 post_id: blog-3515952828243908885.post-2660920288559475438
 ---
 
-Mariolinocopinol autor del blog [Quo Vadis?](http://copinapitli.blogspot.com/2007/11/meme-musical.html) me deja con este "Meme Musical"... y ni modo, por el bien de la interacción en la blogosfera Salvadoreña... hay que hacerlo:
+Mariolinocopinol autor del blog [Quo Vadis?](https://copinapitli.blogspot.com/2007/11/meme-musical.html) me deja con este "Meme Musical"... y ni modo, por el bien de la interacción en la blogosfera Salvadoreña... hay que hacerlo:
 
 1 ¿Eres hombre o mujer?
 
@@ -119,4 +119,4 @@ Hagamos una revolución que nuestro lider sea el sol y nuestro ejercito sean mar
 
 Por bandera otro amanecer y por conquista comprender que hay que cambiar las espadas por rosas...
 
-Después de este post "sin sentido", le dejo el meme a: [Hugol](http://hugolfutbolymas.blogspot.com/), [Snipe](http://www.snipedia.net/), [D'antrax](http://dantrax.blogspot.com/)
+Después de este post "sin sentido", le dejo el meme a: [Hugol](https://hugolfutbolymas.blogspot.com/), [Snipe](https://www.snipedia.net/), [D'antrax](https://dantrax.blogspot.com/)

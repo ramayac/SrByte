@@ -8,7 +8,7 @@ post_id: blog-3515952828243908885.post-1925728383852479214
 
 Atencion: esta entrada es para programadores... y geeks en general.
 
-Como mencionaba [Robertux](http://www.blogger.com/profile/15615123126956711175) en [una entrada anterior](http://srbyte.blogspot.com/2008/03/programemos-mejor-subversion.html):
+Como mencionaba [Robertux](https://www.blogger.com/profile/15615123126956711175) en [una entrada anterior](https://srbyte.blogspot.com/2008/03/programemos-mejor-subversion.html):
 
 > """¿Les ha
 > pasado alguna vez que cuando están programando se dan cuenta que las líneas de código que
@@ -67,6 +67,6 @@ La logica del script de "Update" es la siguiente: 1. Realiza un "Update" invocan
 
 No hay que preocuparse por la información de Login para el svn, ya que si la carpeta en la que se invoca el script de commit o update esta agregada al repositorio, svn crea una carpeta llamada ".svn" que contiene la información de login (y otras cosas). Como les mencione, esa es la lógica, si yo hago un cambio a la base de datos, hago el commit, y si hay cambios (o antes de una sesión de trabajo) hago el update.
 
-Si esta entrada te pareció útil, [aquí hay algunas reglas para trabajar con bases de datos que deberías de leer.](http://srbyte.blogspot.com/2008/05/3-reglas-al-trabajar-con-bases-de-datos.html)
+Si esta entrada te pareció útil, [aquí hay algunas reglas para trabajar con bases de datos que deberías de leer.](https://srbyte.blogspot.com/2008/05/3-reglas-al-trabajar-con-bases-de-datos.html)
 
 Espero que esto les sirva para facilitar su trabajo de desarrollo de software, ¡Saludos!

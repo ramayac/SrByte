@@ -6,7 +6,7 @@ tags: idea, fantastico, el salvador, interesante, tecnologia
 post_id: blog-3515952828243908885.post-8118566739252648579
 ---
 
-Realmente, esta el una de las mejores ideas que he visto en la red... y en mi corta vida... y Apple definitivamente no ha tenido nada que ver con ella (jaja). Lectoras y lectores... les presento: [PlayPumps](http://www.playpumps.org/).
+Realmente, esta el una de las mejores ideas que he visto en la red... y en mi corta vida... y Apple definitivamente no ha tenido nada que ver con ella (jaja). Lectoras y lectores... les presento: [PlayPumps](https://www.playpumps.org/).
 
 "Video:
 PlayPums, los niños juegan y el agua corre :)"

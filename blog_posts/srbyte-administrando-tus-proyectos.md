@@ -6,22 +6,22 @@ tags: srbyte
 post_id: blog-3515952828243908885.post-6176497815728201423
 ---
 
-http://basecamphq.com/
+https://basecamphq.com/
 
-http://www.devshop.com/
+https://www.devshop.com/
 
-http://projects.zoho.com/jsp/home.jsp
+https://projects.zoho.com/jsp/home.jsp
 
-http://goplan.info/
+https://goplan.info/
 
-http://www.easyprojects.net/
+https://www.easyprojects.net/
 
-http://www.projectdesk.net/
+https://www.projectdesk.net/
 
-http://www.liquidplanner.com/
+https://www.liquidplanner.com/
 
-http://www.projectmanager.com/
+https://www.projectmanager.com/
 
-http://gforge.org/
+https://gforge.org/
 
-http://www.santexq.com/
+https://www.santexq.com/

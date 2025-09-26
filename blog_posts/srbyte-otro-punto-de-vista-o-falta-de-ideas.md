@@ -16,7 +16,7 @@ Ante esto sólo puedo preguntarme, ¿O los gringos tienen otro punto de vista de
 
 Aquí les dejo las dos direcciones de las páginas oficiales de ambas películas. Juzguen ustedes. De preferencia vean la versión española antes de la versión norteamericana. Yo, en lo personal, quedé fascinada con la primera.
 
-Sitios oficiales: 1. [REC](http://movies.filmax.com/rec/) 2. [QUARANTINE](http://www.containthetruth.com/)
+Sitios oficiales: 1. [REC](https://movies.filmax.com/rec/) 2. [QUARANTINE](https://www.containthetruth.com/)
 
 También dejo para ustedes los dos trailer:
 
