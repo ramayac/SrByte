@@ -6,8 +6,6 @@ tags: baile
 post_id: blog-3515952828243908885.post-2530025935677560882
 ---
 
-Decidí colocar unos vídeos muy interesantes y divertidos para resumir las
-      actividades por aquí:
+Decidí colocar unos vídeos muy interesantes y divertidos para resumir las actividades por aquí:
 
-Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-      Byte
+Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

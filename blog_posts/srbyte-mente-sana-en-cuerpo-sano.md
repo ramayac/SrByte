@@ -6,27 +6,13 @@ tags: semana santa, playa, vacaciones, geek
 post_id: blog-3515952828243908885.post-7425954172727667777
 ---
 
-[![](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s1600-h/LaptopAtBeach.PNG)"Visitando al Sr Byte desde
-      la playa"
+[![](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)](http://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s1600-h/LaptopAtBeach.PNG)"Visitando al Sr Byte desde la playa"
 
-Estamos en Semana Santa y muchos aprovechan estos días festivos en
-      El Salvador para salir un poco de su rutina de estudio o trabajo (o cualquier otra cosa que
-      acostumbren hacer todos los días) y darse un respiro para recargar energías, ya sea quedándose
-      en casa acomodados en un sillón viendo películas en la tele, saliendo de paseo a la playa o
-      cualquier lugar turístico o alimentando el espíritu participando de las tradicionales
-      actividades que cada uno realiza de acuerdo a sus convicciones.
+Estamos en Semana Santa y muchos aprovechan estos días festivos en El Salvador para salir un poco de su rutina de estudio o trabajo (o cualquier otra cosa que acostumbren hacer todos los días) y darse un respiro para recargar energías, ya sea quedándose en casa acomodados en un sillón viendo películas en la tele, saliendo de paseo a la playa o cualquier lugar turístico o alimentando el espíritu participando de las tradicionales actividades que cada uno realiza de acuerdo a sus convicciones.
 
-Y entre
-      estos muchos que menciono, no pueden faltar los geeks o informáticos los cuales acostumbramos
-      tener una rutina un tanto estresante considerando el hecho de pasar sentado frente a una
-      computadora la mayor parte del tiempo y mas aún si realizamos tareas repetitivas, tareas que
-      no implican actividades físicas o tareas que requieren mucha concentración como la depuración
-      de un largo y complicado sistema.
+Y entre estos muchos que menciono, no pueden faltar los geeks o informáticos los cuales acostumbramos tener una rutina un tanto estresante considerando el hecho de pasar sentado frente a una computadora la mayor parte del tiempo y mas aún si realizamos tareas repetitivas, tareas que no implican actividades físicas o tareas que requieren mucha concentración como la depuración de un largo y complicado sistema.
 
-Estas tareas siempre consumen energía
-      mental y concentración mas que desgaste físico, por lo que provocan problemas como el stress,
-      fatiga mental y deceso en el rendimiento por lo que siempre es muy recomendable buscar medios
-      de recreación como:
+Estas tareas siempre consumen energía mental y concentración mas que desgaste físico, por lo que provocan problemas como el stress, fatiga mental y deceso en el rendimiento por lo que siempre es muy recomendable buscar medios de recreación como:
 
 - Un viaje a la playa: Es relajante escuchar el sonido de las olas golpeando la arena de la orilla mientras te recuestas en una hamaca recibiendo la brisa marina. Ayuda a despejar la mente y relajar el cuerpo.
 
@@ -36,11 +22,6 @@ Estas tareas siempre consumen energía
 
 - Ocio Total: Considero una de las cosas más relajantes del mundo acomodarse en un sillón a ver televisión o alguna película en DVD que te hayan prestado recientemente, mas que todo si la película es alguna comedia o un género similar que te alegre la vida. Esto te ayuda a olvidarte un momento de las preocupaciones del estudio/trabajo y disfrutar de la vida.
 
-Hay que tomar en cuenta que estas etapas deben ser momentáneas (no hay que ser ociosos
-      todo el tiempo), solo para despejar la mente por unos días o unas horas ya que el objetivo de
-      estas actividades es la de recargar energías para retomar las actividades laborales/académicas
-      con nuevos ánimos y talvez una mejor perspectiva.
+Hay que tomar en cuenta que estas etapas deben ser momentáneas (no hay que ser ociosos todo el tiempo), solo para despejar la mente por unos días o unas horas ya que el objetivo de estas actividades es la de recargar energías para retomar las actividades laborales/académicas con nuevos ánimos y talvez una mejor perspectiva.
 
-[geek](http://www.blogalaxia.com/tags/geek)
-      [playa](http://www.blogalaxia.com/tags/playa) [semana+santa](http://www.blogalaxia.com/tags/semana+santa) [vacaciones](http://www.blogalaxia.com/tags/vacaciones)Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-      Byte
+Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

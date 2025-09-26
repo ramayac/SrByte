@@ -6,13 +6,6 @@ tags: tiempo, blog, campus, tertulia, cine, bienvenida, twitter, iberoamerica, a
 post_id: blog-3515952828243908885.post-4432875059353668500
 ---
 
-A continuación mostramos una línea de tiempo con lo más relevante ocurrido
-      en el Sr. Byte, para que recuerden todo lo que hemos vivido durante este 2008 y esperen con
-      ansias las sorpresas y novedades que tenemos preparadas para el 2009:
+A continuación mostramos una línea de tiempo con lo más relevante ocurrido en el Sr. Byte, para que recuerden todo lo que hemos vivido durante este 2008 y esperen con ansias las sorpresas y novedades que tenemos preparadas para el 2009:
 
-Hagan clic sobre cualquier parte de la línea de tiempo y arrástrenla hacia la derecha o
-      izquierda para ver el rango completo de fechas. Clic en los títulos para leer más detalles de
-      cada evento.
-
-[arroba](http://www.blogalaxia.com/tags/arroba) [año+nuevo](http://www.blogalaxia.com/tags/ano+nuevo) [bienvenida](http://www.blogalaxia.com/tags/bienvenida) [blog](http://www.blogalaxia.com/tags/blog) [campus](http://www.blogalaxia.com/tags/campus) [cine](http://www.blogalaxia.com/tags/cine) [evento](http://www.blogalaxia.com/tags/evento) [iberoamerica](http://www.blogalaxia.com/tags/iberoamerica) [tertulia](http://www.blogalaxia.com/tags/tertulia) [tiempo](http://www.blogalaxia.com/tags/tiempo) [twitter](http://www.blogalaxia.com/tags/twitter) [podcast](http://www.blogalaxia.com/tags/podcast)Copyleft Rodrigo S. Amaya
-      C. y el staff del Sr. Byte
+Hagan clic sobre cualquier parte de la línea de tiempo y arrástrenla hacia la derecha o izquierda para ver el rango completo de fechas. Clic en los títulos para leer más detalles de cada evento.

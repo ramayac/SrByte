@@ -6,16 +6,11 @@ tags: web 2.0, social, network, tutorial, internet, interesante
 post_id: blog-3515952828243908885.post-8797746415153448249
 ---
 
-Aportando mas a los temas anteriores de las [redes sociales](http://srbyte.blogspot.com/2008/05/el-video-que-resume-las-redes-sociales.html) y el [web 2.0](Social%20Media%20in%20Plain%20English), podemos hablar un poco de lo que se considera como Medios Sociales, los cuales son las herramientas del web 2.0 que le
-      permiten al usuario interactuar con un sitio web y los medios (hipertexto, imágenes, musica,
-      vídeos) que este provee.
+Aportando mas a los temas anteriores de las [redes sociales](http://srbyte.blogspot.com/2008/05/el-video-que-resume-las-redes-sociales.html) y el [web 2.0](Social%20Media%20in%20Plain%20English), podemos hablar un poco de lo que se considera como Medios Sociales, los cuales son las herramientas del web 2.0 que le permiten al usuario interactuar con un sitio web y los medios (hipertexto, imágenes, musica, vídeos) que este provee.
 
-Esta es la principal diferencia de los Medios
-      Tradicionales como periódicos, estaciones de radio y televisión, los cuales transmiten la
-      información de una forma unilateral
+Esta es la principal diferencia de los Medios Tradicionales como periódicos, estaciones de radio y televisión, los cuales transmiten la información de una forma unilateral
 
-Entre las características de los
-      sitios web considerados como medios sociales o de contenido social se encuentran:
+Entre las características de los sitios web considerados como medios sociales o de contenido social se encuentran:
 
 - Capacidad de personalización: Los usuarios deben ser capaces de ingresar al sitio, crear una cuenta para identificarse y personalizarlo en base a sus gustos o sus necesidades. Ejemplo de ello fue el sitio de [shutdownday](http://shutdownday.org/) el cual contaba con una serie de widgets ordenables en los espacios disponibles así como la posibilidad de agregar mas widgets, también [twitter](http://twitter.com/) que permite cambiar la combinación de colores del sitio.
 
@@ -27,16 +22,10 @@ Entre las características de los
 
 - Interacción social: Por algo le han llamado social a todo esto, y es porque estos sitios enlazan a personas de todas partes del mundo, de manera que ellos puedan compartir sus ideas (por resumir todo lo que se puede compartir en la web) entre ellos. Hay tantos ejemplos de ello, cual mencionar? que tal [myspace](http://www.myspace.com/), [facebook](http://www.facebook.com/) o [hi5](http://hi5.com/)?
 
-No hay
-      duda que los sitios al estilo web 2.0 con contenido social (o medios sociales, como lo quieran
-      llamar) aumentan su productividad y popularidad. Una mejor manera de explicarlo es a través de
-      un vídeo demostrativo (hecho con dibujos a lápiz en piezas de papel!), elaborado por [commoncraft](http://www.commoncraft.com/):
+No hay duda que los sitios al estilo web 2.0 con contenido social (o medios sociales, como lo quieran llamar) aumentan su productividad y popularidad. Una mejor manera de explicarlo es a través de un vídeo demostrativo (hecho con dibujos a lápiz en piezas de papel!), elaborado por [commoncraft](http://www.commoncraft.com/):
 
-"Commoncraft: Social Media in Plain
-      English"
+"Commoncraft: Social Media in Plain English"
 
-Algo mas que deseen
-      aportar sobre el tema?
+Algo mas que deseen aportar sobre el tema?
 
-Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-      Byte
+Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

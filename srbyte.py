@@ -134,12 +134,58 @@ def clean_text_to_markdown(text: str) -> str:
     # Unescape HTML entities globally
     text = html.unescape(text)
 
-    # Collapse excessive whitespace
+    # Remove footer content (Blogalaxia tags and copyleft info)
+    # Remove lines with blogalaxia.com links
+    text = re.sub(r'\[.*?\]\(http://www\.blogalaxia\.com/tags/.*?\)', '', text)
+    # Remove copyleft/copyright lines
+    text = re.sub(r'Copyleft.*?Sr\. Byte', '', text, flags=re.IGNORECASE | re.DOTALL)
+    
+    # Improve paragraph formatting by joining fragmented lines
+    lines = text.splitlines()
+    improved_lines = []
+    current_paragraph = []
+    
+    for line in lines:
+        line = line.rstrip()
+        
+        # Empty line signals end of paragraph
+        if not line:
+            if current_paragraph:
+                # Join lines in paragraph with spaces, preserving intentional breaks
+                paragraph_text = ' '.join(current_paragraph).strip()
+                if paragraph_text:
+                    improved_lines.append(paragraph_text)
+                current_paragraph = []
+            improved_lines.append('')  # Preserve empty line
+        # Lines starting with special markdown (headers, lists, code fences, etc.) start new paragraphs
+        elif line.startswith(('#', '-', '*', '+', '>', '```', '|')) or line.strip() in ['---', '***', '___']:
+            # Finish current paragraph first
+            if current_paragraph:
+                paragraph_text = ' '.join(current_paragraph).strip()
+                if paragraph_text:
+                    improved_lines.append(paragraph_text)
+                current_paragraph = []
+            improved_lines.append(line)
+        # Regular text lines get accumulated into current paragraph
+        else:
+            current_paragraph.append(line)
+    
+    # Handle final paragraph
+    if current_paragraph:
+        paragraph_text = ' '.join(current_paragraph).strip()
+        if paragraph_text:
+            improved_lines.append(paragraph_text)
+    
+    text = '\n'.join(improved_lines)
+    
+    # Clean up excessive whitespace
     # Convert multiple blank lines to at most two
     text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)
-    # Trim trailing spaces on each line
+    # Replace multiple spaces with single spaces
+    text = re.sub(r' +', ' ', text)
+    # Remove trailing whitespace from lines
     text = '\n'.join(line.rstrip() for line in text.splitlines())
-
+    
     return text.strip()
 
 def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False):

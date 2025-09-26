@@ -6,11 +6,7 @@ tags: programacion, interesante, google, tecnologia
 post_id: blog-3515952828243908885.post-804942464225895869
 ---
 
-En estos días, ya que tuvimos que estudiar para Recursos Humanos y como no
-      me llevo muy bien con la lectura de la teoría, decidí realizar un par de investigaciones para
-      desaburrirme. Aprovechando el tema de los recursos humanos he realizado una recopilación sobre
-      las compañías mejor calificadas con respecto a recursos humanos, en las que todo programador
-      soñaría trabajar.
+En estos días, ya que tuvimos que estudiar para Recursos Humanos y como no me llevo muy bien con la lectura de la teoría, decidí realizar un par de investigaciones para desaburrirme. Aprovechando el tema de los recursos humanos he realizado una recopilación sobre las compañías mejor calificadas con respecto a recursos humanos, en las que todo programador soñaría trabajar.
 
 - Construx Software: La revista [Washington CEO](http://www.washingtonceo.com/news-article-display/article/178/programmers.html) la calificó como una de las mejores compañías donde trabajar en Washington y la etiquetó como "El Paraíso de los Programadores". Lo que mas me llamó la atención acerca de sus méritos es la confianza y el acercamiento con los empleados que manifestaron cuando sufrieron una crisis económica después de los atentados del 11 de septiembre, en la cual, ellos decidieron compartir todos los detalles financieros con sus empleados y preguntándoles como pensaban ellos que la empresa podría sobrevivir, de forma que ellos decidieran si deseaban un recorte a su salario o la suspensión temporal de dos o tres de ellos.
 
@@ -20,11 +16,8 @@ En estos días, ya que tuvimos que estudiar para Recursos Humanos y como no
 
 - Google: Qué se puede decir de la empresa numero uno en la lista de las 100 mejores empresas donde trabajar de la [revista Fortune](http://money.cnn.com/magazines/fortune/bestcompanies/2008/snapshots/1.html)? No se ni por dónde empezar así que mejor vean un par de vídeos que lo explican:
 
-"Google, Una de las empresas
-      que mejor trata a sus empleados"
+"Google, Una de las empresas que mejor trata a sus empleados"
 
-"La Empresa No. 1 de la
-      revista Fortune"
+"La Empresa No. 1 de la revista Fortune"
 
-[google](http://www.blogalaxia.com/tags/google) [interesante](http://www.blogalaxia.com/tags/interesante) [programacion](http://www.blogalaxia.com/tags/programacion) [tecnologia](http://www.blogalaxia.com/tags/tecnologia)Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-      Byte
+Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

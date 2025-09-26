@@ -6,17 +6,11 @@ tags: campus, party, iberoamerica
 post_id: blog-3515952828243908885.post-2708636742182743041
 ---
 
-A pocos minutos de comenzar, queremos compartir el evento de innaguracion
-      de la Campus Party, esperamos que les guste:
+A pocos minutos de comenzar, queremos compartir el evento de innaguracion de la Campus Party, esperamos que les guste:
 
-[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)
-"Campus Party
-      en Vivo."
+[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)[http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](http://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) "Campus Party en Vivo."
 
-Visiten el canal de
-      Justin.tv de la Campus Party Iberoamerica haciendo click en:
-[http://es.justin.tv/campus_party](http://es.justin.tv/campus_party)
->  href="http://es.justin.tv/campus_party">http://es.justin.tv/campus_party
+Visiten el canal de Justin.tv de la Campus Party Iberoamerica haciendo click en: [http://es.justin.tv/campus_party](http://es.justin.tv/campus_party)
+> href="http://es.justin.tv/campus_party">http://es.justin.tv/campus_party
 
-[campus](http://www.blogalaxia.com/tags/campus) [party](http://www.blogalaxia.com/tags/party) [iberoamerica](http://www.blogalaxia.com/tags/iberoamerica) [campus+party+iberoamerica](http://www.blogalaxia.com/tags/campus+party+iberoamerica)Copyleft Rodrigo S. Amaya C. y el staff del Sr.
-      Byte
+Copyleft Rodrigo S. Amaya C. y el staff del Sr. Byte

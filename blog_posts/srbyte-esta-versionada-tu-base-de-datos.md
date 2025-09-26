@@ -6,8 +6,7 @@ tags: subversion, programacion, svn
 post_id: blog-3515952828243908885.post-1925728383852479214
 ---
 
-Atencion: esta entrada es para programadores... y geeks en
-      general.
+Atencion: esta entrada es para programadores... y geeks en general.
 
 Como mencionaba [Robertux](http://www.blogger.com/profile/15615123126956711175) en [una entrada anterior](http://srbyte.blogspot.com/2008/03/programemos-mejor-subversion.html):
 
@@ -29,79 +28,45 @@ Como mencionaba [Robertux](http://www.blogger.com/profile/15615123126956711175) 
 > situaciones pasan porque no se están utilizando herramientas para el trabajo en grupo y
 > específicamente, para el control de versiones."""
 
-Y
-      lo mismo podríamos decir de las Bases de Datos. Así que, developers, con esta idea en mente
-      les pregunto:
+Y lo mismo podríamos decir de las Bases de Datos. Así que, developers, con esta idea en mente les pregunto:
 > ¿Esta tu base de datos bajo control
 > de version (cvs ó svn)?
-...la respuesta a esta pregunta debería de ser (en
-      los casos que lo amerite) SI.
-¿Por que? simplemente por que:
+...la respuesta a esta pregunta debería de ser (en los casos que lo amerite) SI. ¿Por que? simplemente por que:
 > ¡la base de datos es una de las partes más criticas de cualquier
 > aplicación! (la base de datos es tan parte de la aplicación, como el código y los modelos
 > dentro del software)
-y en la etapa de desarrollo, con varias personas
-      trabajando en un proyecto, es muy probable que se cometan errores como los que mencionábamos
-      al principio... o peores.
-¿Y como versiono una base de datos?, bien, aquí hay un
-      pequeño ejemplo:
+y en la etapa de desarrollo, con varias personas trabajando en un proyecto, es muy probable que se cometan errores como los que mencionábamos al principio... o peores. ¿Y como versiono una base de datos?, bien, aquí hay un pequeño ejemplo:
 
-Escenario de
-      trabajo:
+Escenario de trabajo:
 
-> Gestor de Base de Datos:  style="font-style: italic;">MySQL.
-> Repositorio SVN:  style="font-style: italic;">Google Code.
+> Gestor de Base de Datos: style="font-style: italic;">MySQL.
+> Repositorio SVN: style="font-style: italic;">Google Code.
 > Herramientas a usar
 > (multiplataforma): SVN y MySQL
 > (dump).
-Para versionar una base de datos en mysql, basta con
-      versionar el dump de la base de datos. Y el proceso de versionado ("Commit" y "Update" de
-      cambios) y restauración de la BD se realiza con dos sencillos script (estos scripts pueden
-      estar en una carpeta que se llame SQL y ser parte del proyecto que contenga esos scripts), uno
-      script sera para realizar el "Commit" y otro para el "Update".
+Para versionar una base de datos en mysql, basta con versionar el dump de la base de datos. Y el proceso de versionado ("Commit" y "Update" de cambios) y restauración de la BD se realiza con dos sencillos script (estos scripts pueden estar en una carpeta que se llame SQL y ser parte del proyecto que contenga esos scripts), uno script sera para realizar el "Commit" y otro para el "Update".
 
-La logica del script de "Commit" es la
-      siguiente:
-1. Despues de realizar cambios significativos en la base de
-      datos...
-2. Llama a "mysqldump", y realiza un respaldo de la base de datos (con su
-      contenido) en un archivo sql, por ejemplo:
+La logica del script de "Commit" es la siguiente: 1. Despues de realizar cambios significativos en la base de datos... 2. Llama a "mysqldump", y realiza un respaldo de la base de datos (con su contenido) en un archivo sql, por ejemplo:
 
 > mysqldump
 > --single-transaction -hlocalhost -uROOT -pTOOR BASEDEDATOS >
 > basededatos.sql
 
-3. Luego realiza un "Commit" del archivo,
-      asi:
+3. Luego realiza un "Commit" del archivo, asi:
 
 > svn commit -m "Dump de base de datos versionado"
 > basededatos.sql
 
-La logica
-      del script de "Update" es la siguiente:
-1. Realiza un "Update"
-      invocando a svn...
+La logica del script de "Update" es la siguiente: 1. Realiza un "Update" invocando a svn...
 
 > svn update
-2. Restauramos el
-      dump actualizado obtenido a mysql:
+2. Restauramos el dump actualizado obtenido a mysql:
 
 > mysql.exe -uROOT -pTOOR
 > BASEDEDATOS < basededatos.sql
 
-No hay que preocuparse por la
-      información de Login para el svn, ya que si la carpeta en la que se invoca el script de commit
-      o update esta agregada al repositorio, svn crea una carpeta llamada ".svn" que contiene la
-      información de login (y otras cosas).
-Como les mencione, esa es la lógica, si yo
-      hago un cambio a la base de datos, hago el commit, y si hay cambios (o antes de una sesión de
-      trabajo) hago el update.
+No hay que preocuparse por la información de Login para el svn, ya que si la carpeta en la que se invoca el script de commit o update esta agregada al repositorio, svn crea una carpeta llamada ".svn" que contiene la información de login (y otras cosas). Como les mencione, esa es la lógica, si yo hago un cambio a la base de datos, hago el commit, y si hay cambios (o antes de una sesión de trabajo) hago el update.
 
 Si esta entrada te pareció útil, [aquí hay algunas reglas para trabajar con bases de datos que deberías de leer.](http://srbyte.blogspot.com/2008/05/3-reglas-al-trabajar-con-bases-de-datos.html)
 
-Espero que esto les sirva para facilitar su trabajo de desarrollo de
-      software, ¡Saludos!
-
-[svn](http://www.blogalaxia.com/tags/svn) [source](http://www.blogalaxia.com/tags/source) [control](http://www.blogalaxia.com/tags/control) [version](http://www.blogalaxia.com/tags/version) [software](http://www.blogalaxia.com/tags/software) [desarrollo](http://www.blogalaxia.com/tags/desarrollo) [herramientas](http://www.blogalaxia.com/tags/herramientas)
-[mysql](http://www.blogalaxia.com/tags/mysql) [bases+de+datos](http://www.blogalaxia.com/tags/bases+de+datos)Copyleft Rodrigo
-      S. Amaya C. y el staff del Sr. Byte
+Espero que esto les sirva para facilitar su trabajo de desarrollo de software, ¡Saludos!

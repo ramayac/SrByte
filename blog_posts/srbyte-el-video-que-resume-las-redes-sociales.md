@@ -6,16 +6,8 @@ tags: video, social, network, fun
 post_id: blog-3515952828243908885.post-1545889425233184615
 ---
 
-Sumergido en mi lectura diaria de [Feeds](http://srbyte.blogspot.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html),
-      me encontre con este video que se encarga de sumarizar el problema con las redes sociales
-      (hi5, orkut, myspace, etc... ya hablare de ellos mas tarde), espero que les guste:
+Sumergido en mi lectura diaria de [Feeds](http://srbyte.blogspot.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html), me encontre con este video que se encarga de sumarizar el problema con las redes sociales (hi5, orkut, myspace, etc... ya hablare de ellos mas tarde), espero que les guste:
 
-"Video: Parodia sobre sitios de redes
-      sociales"
+"Video: Parodia sobre sitios de redes sociales"
 
 ¡Hasta la proxima!
-
-[video](http://www.blogalaxia.com/tags/video) [hi5](http://www.blogalaxia.com/tags/hi5) [orkut](http://www.blogalaxia.com/tags/orkut) [myspace](http://www.blogalaxia.com/tags/myspace)
-[social](http://www.blogalaxia.com/tags/social)
-[redes](http://www.blogalaxia.com/tags/redes) [network](http://www.blogalaxia.com/tags/network) [facebook](http://www.blogalaxia.com/tags/facebook) [divertido](http://www.blogalaxia.com/tags/divertido) [gracioso](http://www.blogalaxia.com/tags/gracioso)Copyleft Rodrigo S.
-      Amaya C. y el staff del Sr. Byte
